@@ -9,5 +9,9 @@
   // window.API_BASE = "https://seu-app.onrender.com";
 
   // 2) Fallback automático:
-  window.API_BASE = window.API_BASE || (isLocal ? "http://localhost:3000" : "");
+  wwindow.API_BASE =
+  window.location.hostname === "localhost"
+    ? "http://localhost:3000"
+    : "https://portal-transportadoras-backend.onrender.com";
+;
 })();
