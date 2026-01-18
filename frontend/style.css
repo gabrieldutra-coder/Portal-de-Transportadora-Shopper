@@ -1,0 +1,19 @@
+/* Aparência tipo WhatsApp */
+#mensagemBox{
+  margin: 0;
+  white-space: pre-wrap;      /* mantém quebras de linha */
+  word-break: break-word;     /* quebra linhas longas */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  color: #111;
+}
+.message-wrap{
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  padding: 16px;
+  max-height: 70vh;
+  overflow: auto;
+  background: #e5ddd5; /* fundo parecido com WhatsApp */
+}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Painel Admin - Upload CSV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #111b21;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   Roboto, Helvetica, Arial, sans-serif;
+      color: #e9edef;
+    }
+
+    .container {
+      max-width: 760px;
+      margin: 40px auto;
+      background: #202c33;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 20px;
+      color: #00a884;
+    }
+
+    label {
+      display: block;
+      margin-top: 14px;
+      margin-bottom: 6px;
+      color: #aebac1;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #2a3942;
+      background: #111b21;
+      color: #e9edef;
+    }
+
+    button {
+      margin-top: 12px;
+      padding: 10px 16px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      background: #00a884;
+      color: #042f2e;
+      font-weight: bold;
+    }
+
+    button.secondary {
+      background: #2a3942;
+      color: #e9edef;
+    }
+
+    button:hover {
+      filter: brightness(1.05);
+    }
+
+    .row {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .row > div {
+      flex: 1;
+      min-width: 260px;
+    }
+
+    .status {
+      margin-top: 12px;
+      padding: 12px;
+      border-radius: 8px;
+      background: #111b21;
+      border: 1px solid #2a3942;
+    }
+
+    .msg {
+      margin-top: 12px;
+      color: #aebac1;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h2>Painel Admin - Upload de CSV</h2>
+
+    <!-- LOGIN -->
+    <div id="loginBox">
+      <label>Usuário admin</label>
+      <input id="adminUser" placeholder="">
+
+      <label>Senha admin</label>
+      <input id="adminPass" type="password" placeholder="">
+
+      <button id="adminLoginBtn">Entrar</button>
+      <div class="msg" id="loginMsg"></div>
+    </div>
+
+    <!-- PAINEL -->
+    <div id="panelBox" class="hidden">
+      <div class="status" id="statusBox">Carregando status...</div>
+
+      <div class="row">
+        <div>
+          <label>Upload usuarios.csv</label>
+          <input id="usuariosFile" type="file" accept=".csv">
+          <button class="secondary" id="uploadUsuariosBtn">
+            Enviar usuarios.csv
+          </button>
+        </div>
+
+        <div>
+          <label>Upload demonstrativo.csv</label>
+          <input id="demoFile" type="file" accept=".csv">
+          <button class="secondary" id="uploadDemoBtn">
+            Enviar demonstrativo.csv
+          </button>
+        </div>
+      </div>
+
+      <button id="refreshStatusBtn">Atualizar status</button>
+      <div class="msg" id="panelMsg"></div>
+
+      <div class="msg" style="margin-top:16px;">
+        Após o upload, os dados ficam disponíveis imediatamente
+        para os motoristas/transportadoras.
+      </div>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>

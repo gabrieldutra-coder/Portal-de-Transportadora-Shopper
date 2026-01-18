@@ -1,0 +1,202 @@
+:root{
+  --wa-bg: #0b141a;
+  --wa-panel: #111b21;
+  --wa-topbar: #202c33;
+  --wa-border: rgba(255,255,255,0.08);
+  --wa-text: #e9edef;
+  --wa-sub: #8696a0;
+
+  --wa-chatbg: #0b141a;
+  --wa-doodle: rgba(255,255,255,0.03);
+
+  --wa-bubble-out: #005c4b;
+  --wa-bubble-in: #202c33;
+  --wa-bubble-text: #e9edef;
+
+  --wa-btn: #00a884;
+}
+
+*{ box-sizing: border-box; }
+html,body{ height:100%; margin:0; }
+body{
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  background: #111;
+  color: var(--wa-text);
+}
+
+.wa-app{
+  height: 100vh;
+  display:flex;
+  flex-direction: column;
+  background: var(--wa-panel);
+}
+
+/* Topbar */
+.wa-topbar{
+  height: 60px;
+  background: var(--wa-topbar);
+  border-bottom: 1px solid var(--wa-border);
+  display:flex;
+  align-items:center;
+  padding: 0 12px;
+  gap: 12px;
+}
+.wa-avatar{
+  width: 40px; height: 40px;
+  display:flex; align-items:center; justify-content:center;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  font-size: 18px;
+}
+.wa-title{ flex:1; min-width: 0; }
+.wa-name{
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.wa-sub{
+  font-size: 12px;
+  color: var(--wa-sub);
+}
+.wa-top-actions{ display:flex; gap: 8px; }
+.icon-btn{
+  background: transparent;
+  border: none;
+  color: var(--wa-text);
+  cursor:pointer;
+  font-size: 18px;
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+}
+.icon-btn:hover{ background: rgba(255,255,255,0.06); }
+
+/* Toolbar */
+.wa-toolbar{
+  display:flex;
+  gap: 10px;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--wa-border);
+  background: var(--wa-panel);
+}
+.wa-select{
+  flex:1;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid var(--wa-border);
+  background: #0f1a20;
+  color: var(--wa-text);
+  outline: none;
+}
+.wa-btn{
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: none;
+  background: var(--wa-btn);
+  color: #041f1a;
+  font-weight: 700;
+  cursor: pointer;
+}
+.wa-btn:hover{ filter: brightness(1.05); }
+
+/* Chat area */
+.wa-chat{
+  flex: 1;
+  overflow: auto;
+  padding: 24px 12px;
+  background:
+    radial-gradient(var(--wa-doodle) 1px, transparent 1px) 0 0/18px 18px,
+    var(--wa-chatbg);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* <<< centraliza horizontal */
+}
+
+.wa-day{
+  margin: 8px auto 14px;
+  width: fit-content;
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-size: 12px;
+  color: var(--wa-text);
+  background: rgba(255,255,255,0.06);
+}
+.wa-message{
+  display: flex;
+  justify-content: center;   /* <<< centraliza */
+  width: 100%;
+  margin: 16px 0;
+}
+
+.wa-out{
+  justify-content: center;
+}
+
+.wa-bubble{
+  max-width: 900px;   /* largura confortável */
+  width: 100%;
+  background: var(--wa-bubble-out);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.3);
+}
+
+.wa-bubble-title{
+  font-weight: 700;
+  margin-bottom: 8px;
+  font-size: 14px;
+  opacity: 0.95;
+}
+.wa-text{
+  color: var(--wa-bubble-text);
+  font-size: 14px;
+  line-height: 1.45;
+  white-space: pre-wrap;   /* mantém quebras */
+  word-break: break-word;  /* não vaza */
+}
+.wa-meta{
+  display:flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 8px;
+  font-size: 11px;
+  color: rgba(233,237,239,0.75);
+}
+.wa-checks{ opacity: 0.9; }
+
+/* Input fake */
+.wa-input{
+  height: 62px;
+  background: var(--wa-panel);
+  border-top: 1px solid var(--wa-border);
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  padding: 0 12px;
+}
+.wa-plus,.wa-mic{
+  width: 36px; height: 36px;
+  display:flex; align-items:center; justify-content:center;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.06);
+}
+.wa-input-box{
+  flex:1;
+  height: 40px;
+  border-radius: 10px;
+  display:flex; align-items:center;
+  padding: 0 12px;
+  color: var(--wa-sub);
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.04);}
+
+.wa-btn-secondary{
+  background: #2a3942;   /* cinza WhatsApp */
+  color: var(--wa-text);
+}
+.wa-btn-secondary:hover{
+  filter: brightness(1.08);
+}
+

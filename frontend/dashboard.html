@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard - Transportadora</title>
+  <link rel="stylesheet" href="whatsapp.css" />
+</head>
+<body>
+
+  <div class="wa-app">
+    <!-- Topbar -->
+    <header class="wa-topbar">
+      <div class="wa-avatar">👤</div>
+      <div class="wa-title">
+        <div class="wa-name" id="waName">Transportadora</div>
+        <div class="wa-sub" id="waSub">Transportadora</div>
+      </div>
+
+      <div class="wa-top-actions">
+        <button class="icon-btn" title="Pesquisar">🔎</button>
+        <button class="icon-btn" id="logoutBtn" title="Sair">⎋</button>
+      </div>
+    </header>
+
+    <!-- Toolbar -->
+    <div class="wa-toolbar">
+      <select id="periodoSelect" class="wa-select"></select>
+      <button id="copyBtn" class="wa-btn">Copiar</button>
+      <button id="pdfBtn" class="wa-btn wa-btn-secondary">Gerar PDF</button>
+    </div>
+
+    <!-- Chat area -->
+    <main class="wa-chat">
+      <div class="wa-day" id="waDay">Hoje</div>
+
+      <div class="wa-message wa-out">
+        <div class="wa-bubble">
+          <div class="wa-bubble-title" id="titulo">Carregando...</div>
+          <div class="wa-text" id="mensagemBox">Carregando demonstrativo...</div>
+          <div class="wa-meta">
+            <span id="waTime">--:--</span>
+            <span class="wa-checks">✓✓</span>
+          </div>
+        </div>
+      </div>
+    </main>
+
+  <script src="config.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>

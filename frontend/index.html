@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login - Transportadoras</title>
+
+  <!-- Config do backend (API_BASE) -->
+  <script src="config.js"></script>
+
+  <!-- Estilo do login -->
+  <link rel="stylesheet" href="login.css" />
+</head>
+
+<body>
+  <div class="login-page">
+    <div class="login-card">
+      <div class="brand">
+        <div class="brand-icon">
+  <img src="assets/logo.png" alt="Logo" class="brand-logo">
+</div>
+        <div class="brand-title">Portal da Transportadora</div>
+        <div class="brand-subtitle">Acesse seu demonstrativo com segurança</div>
+      </div>
+
+      <div class="form">
+        <label for="login">Login</label>
+        <input id="login" type="text" placeholder="Digite seu login" autocomplete="username" />
+
+        <label for="senha">Senha</label>
+        <input id="senha" type="password" placeholder="Digite sua senha" autocomplete="current-password" />
+
+        <button id="btnLogin">Entrar</button>
+
+        <div class="msg" id="msg"></div>
+      </div>
+
+      <div class="footer">
+        Em caso de acesso, fale com o suporte.
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
