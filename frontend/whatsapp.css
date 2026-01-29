@@ -1,4 +1,4 @@
-:root{
+:root {
   --wa-bg: #0b141a;
   --wa-panel: #111b21;
   --wa-topbar: #202c33;
@@ -10,78 +10,116 @@
   --wa-doodle: rgba(255,255,255,0.03);
 
   --wa-bubble-out: #005c4b;
-  --wa-bubble-in: #202c33;
   --wa-bubble-text: #e9edef;
 
   --wa-btn: #00a884;
 }
 
-*{ box-sizing: border-box; }
-html,body{ height:100%; margin:0; }
-body{
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
   background: #111;
   color: var(--wa-text);
 }
 
-.wa-app{
+/* ================= APP ================= */
+
+.wa-app {
   height: 100vh;
-  display:flex;
+  display: flex;
   flex-direction: column;
   background: var(--wa-panel);
 }
 
-/* Topbar */
-.wa-topbar{
+/* ================= TOPBAR ================= */
+
+.wa-topbar {
   height: 60px;
   background: var(--wa-topbar);
   border-bottom: 1px solid var(--wa-border);
-  display:flex;
-  align-items:center;
+  display: flex;
+  align-items: center;
   padding: 0 12px;
   gap: 12px;
+  z-index: 200;
 }
-.wa-avatar{
-  width: 40px; height: 40px;
-  display:flex; align-items:center; justify-content:center;
+
+.wa-avatar {
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: rgba(255,255,255,0.08);
-  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.wa-title{ flex:1; min-width: 0; }
-.wa-name{
+
+.wa-title {
+  flex: 1;
+  min-width: 0;
+}
+
+.wa-name {
   font-weight: 600;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.wa-sub{
+
+.wa-sub {
   font-size: 12px;
   color: var(--wa-sub);
 }
-.wa-top-actions{ display:flex; gap: 8px; }
-.icon-btn{
+
+.wa-top-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.icon-btn {
   background: transparent;
   border: none;
   color: var(--wa-text);
-  cursor:pointer;
+  cursor: pointer;
   font-size: 18px;
   width: 38px;
   height: 38px;
   border-radius: 8px;
 }
-.icon-btn:hover{ background: rgba(255,255,255,0.06); }
 
-/* Toolbar */
-.wa-toolbar{
-  display:flex;
-  gap: 10px;
-  padding: 10px 12px;
-  border-bottom: 1px solid var(--wa-border);
-  background: var(--wa-panel);
+.icon-btn:hover {
+  background: rgba(255,255,255,0.06);
 }
-.wa-select{
-  flex:1;
+
+/* ================= TOPO (SELECT + BOTÕES) ================= */
+
+.top-area {
+  width: 100%;
+}
+
+/* ✅ ÚNICO sticky */
+.periodo-bar {
+  position: sticky;
+  top: 60px; /* altura da topbar */
+  z-index: 100;
+
+  padding: 10px 12px;
+  background: rgba(17,27,33,0.96);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--wa-border);
+}
+
+.wa-select {
+  width: 100%;
   padding: 10px;
   border-radius: 10px;
   border: 1px solid var(--wa-border);
@@ -89,7 +127,15 @@ body{
   color: var(--wa-text);
   outline: none;
 }
-.wa-btn{
+
+/* Botões NÃO sticky */
+.actions-bar {
+  display: flex;
+  gap: 10px;
+  padding: 10px 12px 0 12px;
+}
+
+.wa-btn {
   padding: 10px 14px;
   border-radius: 10px;
   border: none;
@@ -98,222 +144,83 @@ body{
   font-weight: 700;
   cursor: pointer;
 }
-.wa-btn:hover{ filter: brightness(1.05); }
 
-/* Chat area */
-.wa-chat{
+.wa-btn-secondary {
+  background: #2a3942;
+  color: var(--wa-text);
+}
+
+.wa-btn:hover,
+.wa-btn-secondary:hover {
+  filter: brightness(1.08);
+}
+
+/* Mobile: botões 50/50 */
+@media (max-width: 520px) {
+  .actions-bar button {
+    flex: 1 1 calc(50% - 5px);
+    width: 100%;
+    white-space: nowrap;
+  }
+}
+
+/* ================= CHAT ================= */
+
+.wa-chat {
   flex: 1;
-  overflow: auto;
-  padding: 24px 12px;
+  overflow-y: auto;
+  padding: 24px 12px 12px;
   background:
     radial-gradient(var(--wa-doodle) 1px, transparent 1px) 0 0/18px 18px,
     var(--wa-chatbg);
 
   display: flex;
   flex-direction: column;
-  align-items: center;   /* <<< centraliza horizontal */
+  align-items: center;
 }
 
-.wa-day{
+.wa-day {
   margin: 8px auto 14px;
-  width: fit-content;
   padding: 6px 10px;
   border-radius: 10px;
   font-size: 12px;
-  color: var(--wa-text);
   background: rgba(255,255,255,0.06);
 }
-.wa-message{
-  display: flex;
-  justify-content: center;   /* <<< centraliza */
+
+.wa-message {
   width: 100%;
+  display: flex;
+  justify-content: center;
   margin: 16px 0;
 }
 
-.wa-out{
-  justify-content: center;
-}
-
-.wa-bubble{
-  max-width: 900px;   /* largura confortável */
+.wa-bubble {
   width: 100%;
+  max-width: 900px;
   background: var(--wa-bubble-out);
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 1px 0 rgba(0,0,0,0.3);
 }
 
-.wa-bubble-title{
+.wa-bubble-title {
   font-weight: 700;
-  margin-bottom: 8px;
   font-size: 14px;
-  opacity: 0.95;
+  margin-bottom: 8px;
 }
-.wa-text{
-  color: var(--wa-bubble-text);
+
+.wa-text {
   font-size: 14px;
   line-height: 1.45;
-  white-space: pre-wrap;   /* mantém quebras */
-  word-break: break-word;  /* não vaza */
+  white-space: pre-wrap;
+  word-break: break-word;
 }
-.wa-meta{
-  display:flex;
+
+.wa-meta {
+  display: flex;
   justify-content: flex-end;
   gap: 6px;
   margin-top: 8px;
   font-size: 11px;
-  color: rgba(233,237,239,0.75);
+  opacity: 0.75;
 }
-.wa-checks{ opacity: 0.9; }
-
-/* Input fake */
-.wa-input{
-  height: 62px;
-  background: var(--wa-panel);
-  border-top: 1px solid var(--wa-border);
-  display:flex;
-  align-items:center;
-  gap: 10px;
-  padding: 0 12px;
-}
-.wa-plus,.wa-mic{
-  width: 36px; height: 36px;
-  display:flex; align-items:center; justify-content:center;
-  border-radius: 8px;
-  background: rgba(255,255,255,0.06);
-}
-.wa-input-box{
-  flex:1;
-  height: 40px;
-  border-radius: 10px;
-  display:flex; align-items:center;
-  padding: 0 12px;
-  color: var(--wa-sub);
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.04);}
-
-.wa-btn-secondary{
-  background: #2a3942;   /* cinza WhatsApp */
-  color: var(--wa-text);
-}
-.wa-btn-secondary:hover{
-  filter: brightness(1.08);
-}
-/* ====== TOP BAR RESPONSIVA (MOBILE) ====== */
-
-/* 1) deixa a barra flex e com quebra controlada */
-.top-controls,
-.topbar-controls,
-.toolbar,
-.header-actions,
-#topControls {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  flex-wrap: wrap; /* permite ir pra linha de baixo */
-}
-
-/* 2) select pode crescer e encolher */
-#periodoSelect {
-  flex: 1 1 260px;   /* cresce, e no mobile quebra */
-  min-width: 180px;
-  width: 100%;
-}
-
-/* 3) botões com largura mínima e sem quebrar texto */
-#copyBtn,
-#pdfBtn {
-  flex: 0 0 auto;
-  min-width: 120px;
-  white-space: nowrap; /* impede "Gerar" ficar em cima e "PDF" embaixo */
-}
-
-/* ====== Regras específicas para telas pequenas ====== */
-@media (max-width: 520px) {
-  /* select ocupa a linha inteira */
-  #periodoSelect {
-    flex: 1 1 100%;
-    width: 100%;
-  }
-
-  /* botões ficam lado a lado e ocupam o espaço igualmente */
-  #copyBtn,
-  #pdfBtn {
-    flex: 1 1 calc(50% - 5px);
-    min-width: 0;
-    width: 100%;
-  }
-}
-/* ===== Topo com sticky apenas no select ===== */
-.top-area {
-  position: relative;
-}
-
-/* só a barra do select fica fixa */
-.periodo-bar {
-  position: sticky;
-  top: 64px;               /* altura do header superior (perfil) */
-  z-index: 50;
-  padding: 10px 12px;
-  background: rgba(10, 24, 28, 0.92);
-  backdrop-filter: blur(8px);
-  border-bottom: 1px solid rgba(255,255,255,0.06);
-}
-
-/* select ocupa 100% */
-.periodo-bar #periodoSelect {
-  width: 100%;
-}
-
-/* botões NÃO são sticky => somem quando desce */
-.actions-bar {
-  display: flex;
-  gap: 10px;
-  padding: 10px 12px 0 12px;
-}
-
-/* botões responsivos no mobile */
-@media (max-width: 520px) {
-  .actions-bar button {
-    flex: 1 1 50%;
-    width: 100%;
-    white-space: nowrap;
-  }
-}
-
-/* dá um espaço pro conteúdo não “subir por trás” do sticky */
-.chat-area,
-.chat-container,
-.main-content {
-  padding-top: 8px;
-}
-/* ====== FIX DEFINITIVO: só o select (periodo-bar) fica sticky ====== */
-
-/* 1) GARANTE que o bloco antigo não fique sticky/fixo */
-.top-controls {
-  position: static !important;
-  top: auto !important;
-}
-
-/* 2) GARANTE que a área toda não fique sticky */
-.top-area {
-  position: relative !important;
-}
-
-/* 3) ÚNICO sticky permitido */
-.periodo-bar {
-  position: sticky !important;
-  top: 64px !important; /* ajuste se necessário */
-  z-index: 50 !important;
-
-  padding: 10px 12px !important;
-  background: rgba(10, 24, 28, 0.92) !important;
-  backdrop-filter: blur(8px) !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
-}
-
-/* 4) Botões nunca ficam sticky */
-.actions-bar {
-  position: static !important;
-}
-
