@@ -23,11 +23,16 @@
       </div>
     </header>
 
-    <!-- Toolbar -->
-    <div class="top-controls">
-      <select id="periodoSelect" class="wa-select"></select>
-      <button id="copyBtn" class="wa-btn">Copiar</button>
-      <button id="pdfBtn" class="wa-btn wa-btn-secondary">Gerar PDF</button>
+    <!-- ✅ Topo: somente o select fica sticky -->
+    <div class="top-area">
+      <div class="periodo-bar">
+        <select id="periodoSelect" class="wa-select"></select>
+      </div>
+
+      <div class="actions-bar">
+        <button id="copyBtn" class="wa-btn">Copiar</button>
+        <button id="pdfBtn" class="wa-btn wa-btn-secondary">Gerar PDF</button>
+      </div>
     </div>
 
     <!-- Chat area -->
@@ -45,6 +50,8 @@
         </div>
       </div>
     </main>
+
+  </div>
 
   <script src="config.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>

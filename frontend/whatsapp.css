@@ -244,4 +244,47 @@ body{
     width: 100%;
   }
 }
+/* ===== Topo com sticky apenas no select ===== */
+.top-area {
+  position: relative;
+}
+
+/* só a barra do select fica fixa */
+.periodo-bar {
+  position: sticky;
+  top: 64px;               /* altura do header superior (perfil) */
+  z-index: 50;
+  padding: 10px 12px;
+  background: rgba(10, 24, 28, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+/* select ocupa 100% */
+.periodo-bar #periodoSelect {
+  width: 100%;
+}
+
+/* botões NÃO são sticky => somem quando desce */
+.actions-bar {
+  display: flex;
+  gap: 10px;
+  padding: 10px 12px 0 12px;
+}
+
+/* botões responsivos no mobile */
+@media (max-width: 520px) {
+  .actions-bar button {
+    flex: 1 1 50%;
+    width: 100%;
+    white-space: nowrap;
+  }
+}
+
+/* dá um espaço pro conteúdo não “subir por trás” do sticky */
+.chat-area,
+.chat-container,
+.main-content {
+  padding-top: 8px;
+}
 
