@@ -35,22 +35,37 @@ waNameEl.innerText = login;
 function limparTextoParaPDF(texto) {
   if (!texto) return "";
 
-  // Normaliza acentos e composição de caracteres
   let t = texto.normalize("NFKC");
-
-  // Remove caracteres de controle (exceto \n e \t)
   t = t.replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "");
-
-  // Remove caracteres de substituição
   t = t.replace(/\uFFFD/g, "");
-
-  // Remove caracteres problemáticos para jsPDF
   t = t.replace(/[^\x09\x0A\x0D\x20-\x7EÀ-ÿ•–—…°ºª€]/g, "");
-
-  // Evita muitas linhas em branco seguidas
   t = t.replace(/\n{4,}/g, "\n\n\n");
 
   return t;
+}
+
+// ================== LINKS CLICÁVEIS (SEGURANÇA + <br>) ==================
+function linkificarTexto(texto) {
+  if (!texto) return "";
+
+  // Escapa HTML por segurança
+  let seguro = texto
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+
+  // Regex para URLs
+  const urlRegex = /(https?:\/\/[^\s]+)/g;
+
+  // Substitui URLs por <a>
+  seguro = seguro.replace(urlRegex, (url) => {
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
+  });
+
+  // Mantém quebras de linha
+  seguro = seguro.replace(/\n/g, "<br>");
+
+  return seguro;
 }
 
 // ================== FUNÇÕES AUX ==================
@@ -64,29 +79,24 @@ function setHoraWhatsAppAgora() {
 
 function mostrarSemDemonstrativo() {
   tituloEl.innerText = "Sem demonstrativo";
-  msgEl.innerText = MENSAGEM_SEM_DEMO;
+  msgEl.innerHTML = linkificarTexto(MENSAGEM_SEM_DEMO);
   setHoraWhatsAppAgora();
 
-  // dropdown desabilitado (sem períodos)
   selectEl.innerHTML = `<option value="">Sem períodos disponíveis</option>`;
   selectEl.disabled = true;
 }
 
 // ================== FUNÇÕES ==================
 async function carregarPeriodos() {
-  // estado inicial
   tituloEl.innerText = "Carregando...";
   msgEl.innerText = "Carregando períodos...";
   selectEl.disabled = true;
 
   try {
     const resp = await fetch(`${API_BASE}/periodos`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
+      headers: { Authorization: `Bearer ${token}` },
     });
 
-    // Se token inválido
     if (resp.status === 401) {
       localStorage.removeItem("token");
       localStorage.removeItem("login");
@@ -97,19 +107,16 @@ async function carregarPeriodos() {
     const dados = await resp.json().catch(() => ({}));
 
     if (!resp.ok) {
-      // Se o backend retornar erro
       tituloEl.innerText = "Erro";
       msgEl.innerText = dados.mensagem || "Erro ao carregar períodos.";
       return;
     }
 
-    // Se não há períodos, não há demonstrativo também
     if (!dados.periodos || dados.periodos.length === 0) {
       mostrarSemDemonstrativo();
       return;
     }
 
-    // montar select
     selectEl.disabled = false;
     selectEl.innerHTML = "";
 
@@ -121,9 +128,9 @@ async function carregarPeriodos() {
       selectEl.appendChild(opt);
     });
 
-    // carregar o primeiro período automaticamente
     carregarDemonstrativo(selectEl.value);
-  } catch {
+  } catch (err) {
+    console.error("Erro carregarPeriodos:", err);
     tituloEl.innerText = "Erro";
     msgEl.innerText = "Erro ao conectar com o servidor.";
   }
@@ -137,14 +144,9 @@ async function carregarDemonstrativo(periodo) {
   try {
     const resp = await fetch(
       `${API_BASE}/demonstrativo?periodo=${encodeURIComponent(periodo)}`,
-      {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      }
+      { headers: { Authorization: `Bearer ${token}` } }
     );
 
-    // Se token inválido
     if (resp.status === 401) {
       localStorage.removeItem("token");
       localStorage.removeItem("login");
@@ -152,7 +154,6 @@ async function carregarDemonstrativo(periodo) {
       return;
     }
 
-    // ✅ Caso não exista demonstrativo (404)
     if (resp.status === 404) {
       mostrarSemDemonstrativo();
       return;
@@ -161,7 +162,6 @@ async function carregarDemonstrativo(periodo) {
     const dados = await resp.json().catch(() => ({}));
 
     if (!resp.ok || !dados.ok || !dados.demonstrativo) {
-      // qualquer erro ou resposta incompleta => mostrar mensagem padrão
       mostrarSemDemonstrativo();
       return;
     }
@@ -169,25 +169,23 @@ async function carregarDemonstrativo(periodo) {
     const demo = dados.demonstrativo;
 
     tituloEl.innerText = demo.titulo || "Seu demonstrativo";
-    msgEl.innerText = demo.mensagem || "";
+    msgEl.innerHTML = linkificarTexto(demo.mensagem || "");
     setHoraWhatsAppAgora();
-  } catch {
-    // erro de rede
+  } catch (err) {
+    console.error("Erro carregarDemonstrativo:", err);
     tituloEl.innerText = "Erro";
     msgEl.innerText = "Erro ao buscar demonstrativo.";
   }
 }
 
 // ================== EVENTOS ==================
-
-// Trocar período
 selectEl.addEventListener("change", () => {
   if (!selectEl.disabled && selectEl.value) {
     carregarDemonstrativo(selectEl.value);
   }
 });
 
-// Copiar mensagem
+// Copiar (copia texto puro, sem HTML)
 copyBtn.addEventListener("click", async () => {
   try {
     await navigator.clipboard.writeText(msgEl.innerText);
@@ -210,7 +208,6 @@ pdfBtn.addEventListener("click", () => {
   const titulo = limparTextoParaPDF(tituloEl.innerText || "Demonstrativo");
   const texto = limparTextoParaPDF(msgEl.innerText || "");
 
-  // Cabeçalho
   doc.setFont("helvetica", "bold");
   doc.setFontSize(14);
   doc.text(titulo, 40, 50);
@@ -219,12 +216,10 @@ pdfBtn.addEventListener("click", () => {
   doc.setFontSize(10);
   doc.text(`Login: ${login}`, 40, 70);
 
-  // Corpo com quebra automática
   doc.setFontSize(11);
   const linhas = doc.splitTextToSize(texto, 515);
   doc.text(linhas, 40, 100);
 
-  // Nome do arquivo
   const periodo = selectEl.value || "sem_periodo";
   const safeLogin = login.replace(/[^\w\-]+/g, "_");
   doc.save(`demonstrativo_${safeLogin}_${periodo}.pdf`);
