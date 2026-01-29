@@ -199,4 +199,49 @@ body{
 .wa-btn-secondary:hover{
   filter: brightness(1.08);
 }
+/* ====== TOP BAR RESPONSIVA (MOBILE) ====== */
+
+/* 1) deixa a barra flex e com quebra controlada */
+.top-controls,
+.topbar-controls,
+.toolbar,
+.header-actions,
+#topControls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap; /* permite ir pra linha de baixo */
+}
+
+/* 2) select pode crescer e encolher */
+#periodoSelect {
+  flex: 1 1 260px;   /* cresce, e no mobile quebra */
+  min-width: 180px;
+  width: 100%;
+}
+
+/* 3) botões com largura mínima e sem quebrar texto */
+#copyBtn,
+#pdfBtn {
+  flex: 0 0 auto;
+  min-width: 120px;
+  white-space: nowrap; /* impede "Gerar" ficar em cima e "PDF" embaixo */
+}
+
+/* ====== Regras específicas para telas pequenas ====== */
+@media (max-width: 520px) {
+  /* select ocupa a linha inteira */
+  #periodoSelect {
+    flex: 1 1 100%;
+    width: 100%;
+  }
+
+  /* botões ficam lado a lado e ocupam o espaço igualmente */
+  #copyBtn,
+  #pdfBtn {
+    flex: 1 1 calc(50% - 5px);
+    min-width: 0;
+    width: 100%;
+  }
+}
 
