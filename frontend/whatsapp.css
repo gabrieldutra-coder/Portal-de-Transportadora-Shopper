@@ -287,4 +287,33 @@ body{
 .main-content {
   padding-top: 8px;
 }
+/* ====== FIX DEFINITIVO: só o select (periodo-bar) fica sticky ====== */
+
+/* 1) GARANTE que o bloco antigo não fique sticky/fixo */
+.top-controls {
+  position: static !important;
+  top: auto !important;
+}
+
+/* 2) GARANTE que a área toda não fique sticky */
+.top-area {
+  position: relative !important;
+}
+
+/* 3) ÚNICO sticky permitido */
+.periodo-bar {
+  position: sticky !important;
+  top: 64px !important; /* ajuste se necessário */
+  z-index: 50 !important;
+
+  padding: 10px 12px !important;
+  background: rgba(10, 24, 28, 0.92) !important;
+  backdrop-filter: blur(8px) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
+}
+
+/* 4) Botões nunca ficam sticky */
+.actions-bar {
+  position: static !important;
+}
 
