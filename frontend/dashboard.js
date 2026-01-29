@@ -9,8 +9,12 @@ if (!token || !login) {
 // Base da API (configurada em frontend/config.js)
 const API_BASE = window.API_BASE;
 if (!API_BASE) {
-  alert("API_BASE não configurado. Edite frontend/config.js com a URL do backend (Render)." );
+  alert("API_BASE não configurado. Edite frontend/config.js com a URL do backend (Render).");
 }
+
+// ✅ Mensagem padrão quando não existe demonstrativo
+const MENSAGEM_SEM_DEMO =
+  "A sua transportadora não tem um demonstrativo nessa quinzena, caso tenha dúvidas entrar em contato com o suporte!\n\nNúmero: 11 91591-2131";
 
 // ================== ELEMENTOS ==================
 const tituloEl = document.getElementById("titulo");
@@ -49,8 +53,32 @@ function limparTextoParaPDF(texto) {
   return t;
 }
 
+// ================== FUNÇÕES AUX ==================
+function setHoraWhatsAppAgora() {
+  const now = new Date();
+  waTimeEl.innerText = now.toLocaleTimeString([], {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
+function mostrarSemDemonstrativo() {
+  tituloEl.innerText = "Sem demonstrativo";
+  msgEl.innerText = MENSAGEM_SEM_DEMO;
+  setHoraWhatsAppAgora();
+
+  // dropdown desabilitado (sem períodos)
+  selectEl.innerHTML = `<option value="">Sem períodos disponíveis</option>`;
+  selectEl.disabled = true;
+}
+
 // ================== FUNÇÕES ==================
 async function carregarPeriodos() {
+  // estado inicial
+  tituloEl.innerText = "Carregando...";
+  msgEl.innerText = "Carregando períodos...";
+  selectEl.disabled = true;
+
   try {
     const resp = await fetch(`${API_BASE}/periodos`, {
       headers: {
@@ -58,14 +86,31 @@ async function carregarPeriodos() {
       },
     });
 
-    const dados = await resp.json();
+    // Se token inválido
+    if (resp.status === 401) {
+      localStorage.removeItem("token");
+      localStorage.removeItem("login");
+      window.location.href = "index.html";
+      return;
+    }
+
+    const dados = await resp.json().catch(() => ({}));
 
     if (!resp.ok) {
+      // Se o backend retornar erro
       tituloEl.innerText = "Erro";
       msgEl.innerText = dados.mensagem || "Erro ao carregar períodos.";
       return;
     }
 
+    // Se não há períodos, não há demonstrativo também
+    if (!dados.periodos || dados.periodos.length === 0) {
+      mostrarSemDemonstrativo();
+      return;
+    }
+
+    // montar select
+    selectEl.disabled = false;
     selectEl.innerHTML = "";
 
     dados.periodos.forEach((p, index) => {
@@ -76,9 +121,8 @@ async function carregarPeriodos() {
       selectEl.appendChild(opt);
     });
 
-    if (dados.periodos.length > 0) {
-      carregarDemonstrativo(selectEl.value);
-    }
+    // carregar o primeiro período automaticamente
+    carregarDemonstrativo(selectEl.value);
   } catch {
     tituloEl.innerText = "Erro";
     msgEl.innerText = "Erro ao conectar com o servidor.";
@@ -88,6 +132,7 @@ async function carregarPeriodos() {
 async function carregarDemonstrativo(periodo) {
   tituloEl.innerText = "Carregando...";
   msgEl.innerText = "Carregando demonstrativo...";
+  setHoraWhatsAppAgora();
 
   try {
     const resp = await fetch(
@@ -99,26 +144,35 @@ async function carregarDemonstrativo(periodo) {
       }
     );
 
-    const dados = await resp.json();
+    // Se token inválido
+    if (resp.status === 401) {
+      localStorage.removeItem("token");
+      localStorage.removeItem("login");
+      window.location.href = "index.html";
+      return;
+    }
 
-    if (!resp.ok) {
-      tituloEl.innerText = "Erro";
-      msgEl.innerText = dados.mensagem || "Erro ao buscar demonstrativo.";
+    // ✅ Caso não exista demonstrativo (404)
+    if (resp.status === 404) {
+      mostrarSemDemonstrativo();
+      return;
+    }
+
+    const dados = await resp.json().catch(() => ({}));
+
+    if (!resp.ok || !dados.ok || !dados.demonstrativo) {
+      // qualquer erro ou resposta incompleta => mostrar mensagem padrão
+      mostrarSemDemonstrativo();
       return;
     }
 
     const demo = dados.demonstrativo;
 
-    tituloEl.innerText = demo.titulo;
-    msgEl.innerText = demo.mensagem;
-
-    // Hora estilo WhatsApp
-    const now = new Date();
-    waTimeEl.innerText = now.toLocaleTimeString([], {
-      hour: "2-digit",
-      minute: "2-digit",
-    });
+    tituloEl.innerText = demo.titulo || "Seu demonstrativo";
+    msgEl.innerText = demo.mensagem || "";
+    setHoraWhatsAppAgora();
   } catch {
+    // erro de rede
     tituloEl.innerText = "Erro";
     msgEl.innerText = "Erro ao buscar demonstrativo.";
   }
@@ -128,7 +182,9 @@ async function carregarDemonstrativo(periodo) {
 
 // Trocar período
 selectEl.addEventListener("change", () => {
-  carregarDemonstrativo(selectEl.value);
+  if (!selectEl.disabled && selectEl.value) {
+    carregarDemonstrativo(selectEl.value);
+  }
 });
 
 // Copiar mensagem
@@ -169,7 +225,7 @@ pdfBtn.addEventListener("click", () => {
   doc.text(linhas, 40, 100);
 
   // Nome do arquivo
-  const periodo = selectEl.value || "periodo";
+  const periodo = selectEl.value || "sem_periodo";
   const safeLogin = login.replace(/[^\w\-]+/g, "_");
   doc.save(`demonstrativo_${safeLogin}_${periodo}.pdf`);
 });

@@ -1,16 +1,19 @@
 // CONFIG DE API
-// Local: abre com Live Server / localhost
-// Produção: troque para sua URL do Render (ex: https://seu-app.onrender.com)
+// Local: abre com Live Server OU file://
+// Produção: Render
 
 (function () {
-  const isLocal = ["localhost", "127.0.0.1"].includes(window.location.hostname);
+  const hostname = window.location.hostname;
 
-  // 1) Se você definir manualmente, este valor prevalece:
-  // window.API_BASE = "https://seu-app.onrender.com";
+  const isLocal =
+    hostname === "localhost" ||
+    hostname === "127.0.0.1" ||
+    hostname === "" ||          // file://
+    hostname === null;
 
-  // 2) Fallback automático:
-  window.API_BASE =
-  window.location.hostname === "localhost"
+  window.API_BASE = isLocal
     ? "http://localhost:3000"
     : "https://portal-de-transportadora-shopper.onrender.com";
+
+  console.log("API_BASE:", window.API_BASE);
 })();
