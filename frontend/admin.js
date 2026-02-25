@@ -20,9 +20,11 @@ const refreshStatusBtn = document.getElementById("refreshStatusBtn");
 
 const usuariosFile = document.getElementById("usuariosFile");
 const demoFile = document.getElementById("demoFile");
+const qualidadeFile = document.getElementById("qualidadeFile");
 
 const uploadUsuariosBtn = document.getElementById("uploadUsuariosBtn");
 const uploadDemoBtn = document.getElementById("uploadDemoBtn");
+const uploadQualidadeBtn = document.getElementById("uploadQualidadeBtn");
 
 const panelMsg = document.getElementById("panelMsg");
 
@@ -47,6 +49,7 @@ async function carregarStatus() {
     statusBox.innerHTML = `
       <div><strong>Usuários carregados:</strong> ${dados.usuarios}</div>
       <div><strong>Logins com demonstrativo:</strong> ${dados.loginsComDemonstrativo}</div>
+      <div><strong>Logins com Qualidade:</strong> ${dados.loginsComQualidade || 0}</div>
     `;
   } catch {
     statusBox.innerText = "Erro de conexão.";
@@ -138,5 +141,32 @@ uploadDemoBtn.addEventListener("click", async () => {
     await carregarStatus();
   } catch {
     panelMsg.innerText = "Erro ao enviar demonstrativo.csv.";
+  }
+});
+
+// ================= UPLOAD QUALIDADE =================
+uploadQualidadeBtn.addEventListener("click", async () => {
+  if (!qualidadeFile.files[0]) {
+    panelMsg.innerText = "Selecione o arquivo qualidade.csv.";
+    return;
+  }
+
+  panelMsg.innerText = "Enviando qualidade.csv...";
+
+  const form = new FormData();
+  form.append("file", qualidadeFile.files[0]);
+
+  try {
+    const resp = await fetch(`${API_BASE}/admin/upload/qualidade`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${adminToken}` },
+      body: form,
+    });
+
+    const dados = await resp.json();
+    panelMsg.innerText = dados.mensagem || "Upload finalizado.";
+    await carregarStatus();
+  } catch {
+    panelMsg.innerText = "Erro ao enviar qualidade.csv.";
   }
 });

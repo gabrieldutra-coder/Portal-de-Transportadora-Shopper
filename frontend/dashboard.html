@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dashboard - Transportadora</title>
   <link rel="stylesheet" href="whatsapp.css" />
 </head>
+
 <body>
 
   <div class="wa-app">
@@ -18,31 +20,35 @@
       </div>
 
       <div class="wa-top-actions">
-        <button class="icon-btn" title="Pesquisar">🔎</button>
         <button class="icon-btn" id="logoutBtn" title="Sair">⎋</button>
       </div>
     </header>
 
-    <!-- ✅ Topo: somente o select fica sticky -->
-    <div class="top-area">
-      <div class="periodo-bar">
-        <select id="periodoSelect" class="wa-select"></select>
-      </div>
-
-      <div class="actions-bar">
-        <button id="copyBtn" class="wa-btn">Copiar</button>
-        <button id="pdfBtn" class="wa-btn wa-btn-secondary">Gerar PDF</button>
-      </div>
-    </div>
-
     <!-- Chat area -->
     <main class="wa-chat">
+      <!-- ✅ Topo: setor + select sticky + ações -->
+      <div class="top-area">
+        <div class="sector-bar">
+          <button id="tabDemo" class="wa-tab wa-tab--active" type="button">Demonstrativo Financeiro</button>
+          <button id="tabQualidade" class="wa-tab" type="button">Classificação Qualidade</button>
+        </div>
+
+        <div class="periodo-bar">
+          <select id="periodoSelect" class="wa-select"></select>
+        </div>
+
+        <div class="actions-bar">
+          <button id="copyBtn" class="wa-btn" type="button">Copiar</button>
+          <button id="pdfBtn" class="wa-btn wa-btn-secondary" type="button">Gerar PDF</button>
+        </div>
+      </div>
       <div class="wa-day" id="waDay">Hoje</div>
 
       <div class="wa-message wa-out">
-        <div class="wa-bubble">
+        <div class="wa-bubble" id="pdfBubble">
           <div class="wa-bubble-title" id="titulo">Carregando...</div>
           <div class="wa-text" id="mensagemBox">Carregando demonstrativo...</div>
+          <div class="wa-media" id="mediaBox" style="display:none"></div>
           <div class="wa-meta">
             <span id="waTime">--:--</span>
             <span class="wa-checks">✓✓</span>
@@ -55,6 +61,8 @@
 
   <script src="config.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
   <script src="dashboard.js"></script>
 </body>
+
 </html>
