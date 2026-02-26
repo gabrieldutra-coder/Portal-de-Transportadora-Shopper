@@ -16,10 +16,10 @@ if (!API_BASE) {
 
 // ================== MENSAGENS PADRÃO ==================
 const MENSAGEM_SEM_DEMO =
-  "A sua transportadora não tem um demonstrativo nessa quinzena, caso tenha dúvidas entrar em contato com o suporte!\n\nNúmero: 11 91591-2131";
+  "A sua transportadora não tem um Demonstrativo nessa quinzena.\n\n Em caso de dúvidas entrar em contato com o Time do Financeiro!";
 
 const MENSAGEM_SEM_QUALIDADE =
-  "A sua transportadora não tem uma mensagem do setor de Qualidade nessa quinzena.\n\nEm caso de dúvidas, entre em contato com o suporte!\n\nNúmero: 11 91591-2131";
+  "A sua transportadora não tem uma Classificação nessa quinzena.\n\nEm caso de dúvidas, entre em contato com o Time de Qualidade";
 
 // ================== ELEMENTOS ==================
 const tituloEl = document.getElementById("titulo");
@@ -168,7 +168,7 @@ function mensagemSemConteudo(sector) {
 }
 
 function mostrarSemConteudo(sector) {
-  tituloEl.innerText = sector === "qualidade" ? "Sem Qualidade" : "Sem demonstrativo";
+  tituloEl.innerText = sector === "qualidade" ? "Sem Classificação" : "Sem Demonstrativo";
   msgEl.innerHTML = linkificarTexto(mensagemSemConteudo(sector));
   setHoraWhatsAppAgora();
   limparMidia();
