@@ -16,16 +16,23 @@ if (!API_BASE) {
 
 // ================== MENSAGENS PADRÃO ==================
 const MENSAGEM_SEM_DEMO =
-  "A sua transportadora não tem um Demonstrativo nessa quinzena.\n\n Em caso de dúvidas entrar em contato com o Time do Financeiro!";
+  "A sua transportadora não tem uma mensagem de Demonstrativo disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
 
 const MENSAGEM_SEM_QUALIDADE =
-  "A sua transportadora não tem uma Classificação nessa quinzena.\n\nEm caso de dúvidas, entre em contato com o Time de Qualidade";
+  "A sua transportadora não tem uma mensagem de Classificação disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
+
+const MENSAGEM_SEM_CESTAS =
+  "A sua transportadora não tem uma mensagem de Cestas disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
+
+const MENSAGEM_SEM_ERROS =
+  "A sua transportadora não tem uma mensagem de Erros disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
 
 // ================== ELEMENTOS ==================
 const tituloEl = document.getElementById("titulo");
 const selectEl = document.getElementById("periodoSelect");
 const msgEl = document.getElementById("mensagemBox");
 const mediaEl = document.getElementById("mediaBox");
+const setorSelect = document.getElementById("setorSelect");
 
 const copyBtn = document.getElementById("copyBtn");
 const pdfBtn = document.getElementById("pdfBtn");
@@ -34,11 +41,10 @@ const logoutBtn = document.getElementById("logoutBtn");
 const waNameEl = document.getElementById("waName");
 const waTimeEl = document.getElementById("waTime");
 
-const tabDemo = document.getElementById("tabDemo");
-const tabQualidade = document.getElementById("tabQualidade");
-
-// ================== TOPO ==================
 if (waNameEl) waNameEl.innerText = login;
+
+// ================== ESTADO ==================
+let setorAtual = null; // demo | qualidade | cestas | erros
 
 // ================== PDF: LIMPEZA ==================
 function limparTextoParaPDF(texto) {
@@ -58,13 +64,12 @@ function driveToDirect(url) {
   if (!url) return null;
 
   try {
-    const u = new URL(url);
+    const normalized = String(url).replace(/&amp;/g, "&");
+    const u = new URL(normalized);
 
-    // open?id=FILEID
     const openId = u.searchParams.get("id");
     if (openId) return `https://drive.google.com/uc?export=view&id=${openId}`;
 
-    // /file/d/FILEID/...
     const m = u.pathname.match(/\/file\/d\/([^/]+)/);
     if (m && m[1]) return `https://drive.google.com/uc?export=view&id=${m[1]}`;
 
@@ -74,17 +79,17 @@ function driveToDirect(url) {
   }
 }
 
-// ================== LINKS CLICÁVEIS + IMAGENS EMBUTIDAS ==================
+// ================== LINKS CLICÁVEIS + IMAGENS + NEGRITO ==================
 function linkificarTexto(texto) {
   if (!texto) return "";
 
-  // Escapa HTML básico por segurança
   let seguro = texto
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
 
   const urlRegex = /(https?:\/\/[^\s<]+)/g;
+  const placeholders = [];
 
   function isImageUrl(url) {
     return /\.(png|jpe?g|gif|webp|bmp|svg)(\?.*)?$/i.test(url);
@@ -94,22 +99,32 @@ function linkificarTexto(texto) {
     const driveDirect = driveToDirect(url);
     const finalUrl = driveDirect || url;
 
-    // Se for imagem (ou Drive convertido), embute <img>
+    let html = "";
+
     if (isImageUrl(finalUrl) || driveDirect) {
-      return `
+      html = `
         <div class="wa-media">
           <a href="${url}" target="_blank" rel="noopener noreferrer" class="wa-media-link">Abrir</a>
           <img class="wa-img" src="${finalUrl}" alt="Comprovação" loading="lazy" />
         </div>
       `;
+    } else {
+      html = `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
     }
 
-    // Caso normal: link clicável
-    return `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
+    const token = `___LINK_${placeholders.length}___`;
+    placeholders.push(html);
+    return token;
   });
 
-  // Mantém quebras de linha
+  // Negrito estilo WhatsApp: *texto*
+  seguro = seguro.replace(/\*(.*?)\*/g, "<strong>$1</strong>");
+
   seguro = seguro.replace(/\n/g, "<br>");
+
+  placeholders.forEach((html, index) => {
+    seguro = seguro.replace(`___LINK_${index}___`, html);
+  });
 
   return seguro;
 }
@@ -153,22 +168,34 @@ function mostrarImagem(url) {
   mediaEl.style.display = "block";
 }
 
-function marcarTabAtiva(sector) {
-  if (sector === "qualidade") {
-    tabQualidade?.classList.add("active");
-    tabDemo?.classList.remove("active");
-  } else {
-    tabDemo?.classList.add("active");
-    tabQualidade?.classList.remove("active");
+function mensagemSemConteudo(sector) {
+  switch (sector) {
+    case "qualidade":
+      return MENSAGEM_SEM_QUALIDADE;
+    case "cestas":
+      return MENSAGEM_SEM_CESTAS;
+    case "erros":
+      return MENSAGEM_SEM_ERROS;
+    default:
+      return MENSAGEM_SEM_DEMO;
   }
 }
 
-function mensagemSemConteudo(sector) {
-  return sector === "qualidade" ? MENSAGEM_SEM_QUALIDADE : MENSAGEM_SEM_DEMO;
+function tituloSemConteudo(sector) {
+  switch (sector) {
+    case "qualidade":
+      return "SEM MENSAGEM DE CLASSIFICAÇÃO";
+    case "cestas":
+      return "SEM MENSAGEM DE CESTAS";
+    case "erros":
+      return "SEM MENSAGEM DE ERROS";
+    default:
+      return "SEM MENSAGEM DE DEMONSTRATIVO";
+  }
 }
 
 function mostrarSemConteudo(sector) {
-  tituloEl.innerText = sector === "qualidade" ? "Sem Classificação" : "Sem Demonstrativo";
+  tituloEl.innerText = tituloSemConteudo(sector);
   msgEl.innerHTML = linkificarTexto(mensagemSemConteudo(sector));
   setHoraWhatsAppAgora();
   limparMidia();
@@ -177,21 +204,38 @@ function mostrarSemConteudo(sector) {
   selectEl.disabled = true;
 }
 
-// ================== SETOR ATUAL ==================
-let setorAtual = "demo"; // "demo" | "qualidade"
+function mostrarEstadoInicial() {
+  tituloEl.innerText = "Selecione o setor";
+  msgEl.innerText = "Escolha acima o setor que deseja visualizar.";
+  setHoraWhatsAppAgora();
+  limparMidia();
+  selectEl.innerHTML = `<option value="" selected>Selecione o período</option>`;
+  selectEl.disabled = true;
+}
 
 function endpointsDoSetor() {
-  if (setorAtual === "qualidade") {
-    return {
-      periodos: `${API_BASE}/qualidade/periodos`,
-      item: `${API_BASE}/qualidade`,
-    };
+  switch (setorAtual) {
+    case "qualidade":
+      return {
+        periodos: `${API_BASE}/qualidade/periodos`,
+        item: `${API_BASE}/qualidade`,
+      };
+    case "cestas":
+      return {
+        periodos: `${API_BASE}/cestas/periodos`,
+        item: `${API_BASE}/cestas`,
+      };
+    case "erros":
+      return {
+        periodos: `${API_BASE}/erros/periodos`,
+        item: `${API_BASE}/erros`,
+      };
+    default:
+      return {
+        periodos: `${API_BASE}/periodos`,
+        item: `${API_BASE}/demonstrativo`,
+      };
   }
-
-  return {
-    periodos: `${API_BASE}/periodos`,
-    item: `${API_BASE}/demonstrativo`,
-  };
 }
 
 // ================== FUNÇÕES ==================
@@ -218,12 +262,7 @@ async function carregarPeriodos() {
 
     const dados = await resp.json().catch(() => ({}));
 
-    if (!resp.ok) {
-      mostrarSemConteudo(setorAtual);
-      return;
-    }
-
-    if (!dados.periodos || dados.periodos.length === 0) {
+    if (!resp.ok || !dados.periodos || dados.periodos.length === 0) {
       mostrarSemConteudo(setorAtual);
       return;
     }
@@ -231,10 +270,9 @@ async function carregarPeriodos() {
     selectEl.disabled = false;
     selectEl.innerHTML = "";
 
-    // ✅ AQUI: Qualidade usa "key", Demo usa "periodo"
     dados.periodos.forEach((p, index) => {
       const opt = document.createElement("option");
-      opt.value = setorAtual === "qualidade" ? (p.key || "") : p.periodo;
+      opt.value = setorAtual === "qualidade" ? (p.key || "") : (p.periodo || "");
       opt.textContent = `${p.periodo} - ${p.titulo}`;
       if (index === 0) opt.selected = true;
       selectEl.appendChild(opt);
@@ -254,8 +292,6 @@ async function carregarItem(valorSelect) {
   limparMidia();
 
   const { item: itemUrl } = endpointsDoSetor();
-
-  // ✅ Demo busca por periodo, Qualidade busca por key
   const param = setorAtual === "qualidade" ? "key" : "periodo";
   const url = `${itemUrl}?${param}=${encodeURIComponent(valorSelect || "")}`;
 
@@ -283,23 +319,26 @@ async function carregarItem(valorSelect) {
       return;
     }
 
-    // demo => dados.demonstrativo
-    // qualidade => dados.qualidade
-    const payload = setorAtual === "qualidade" ? dados.qualidade : dados.demonstrativo;
+    let payload = null;
+    if (setorAtual === "qualidade") payload = dados.qualidade;
+    else if (setorAtual === "cestas") payload = dados.cestas;
+    else if (setorAtual === "erros") payload = dados.erros;
+    else payload = dados.demonstrativo;
 
     if (!payload) {
       mostrarSemConteudo(setorAtual);
       return;
     }
 
-    tituloEl.innerText =
-      payload.titulo || (setorAtual === "qualidade" ? "Qualidade" : "Seu demonstrativo");
+    let tituloPadrao = "Seu Demonstrativo";
+    if (setorAtual === "qualidade") tituloPadrao = "Qualidade";
+    if (setorAtual === "cestas") tituloPadrao = "Cestas";
+    if (setorAtual === "erros") tituloPadrao = "Erros";
 
-    // ✅ renderiza texto + links + imagens embutidas
+    tituloEl.innerText = payload.titulo || tituloPadrao;
     msgEl.innerHTML = linkificarTexto(payload.mensagem || "");
     setHoraWhatsAppAgora();
 
-    // ✅ imagem via coluna imagemUrl (opcional)
     if (setorAtual === "qualidade" && payload.imagemUrl) {
       mostrarImagem(payload.imagemUrl);
     }
@@ -316,7 +355,15 @@ selectEl.addEventListener("change", () => {
   }
 });
 
-// Copiar (texto puro, sem HTML)
+setorSelect?.addEventListener("change", () => {
+  setorAtual = setorSelect.value || null;
+  if (!setorAtual) {
+    mostrarEstadoInicial();
+    return;
+  }
+  carregarPeriodos();
+});
+
 copyBtn.addEventListener("click", async () => {
   try {
     await navigator.clipboard.writeText(msgEl.innerText);
@@ -332,14 +379,12 @@ pdfBtn.addEventListener("click", () => {
 
   const doc = new jsPDF({ unit: "pt", format: "a4" });
 
-  const titulo = limparTextoParaPDF(tituloEl.innerText || "Demonstrativo");
+  const titulo = limparTextoParaPDF(tituloEl.innerText || "Conteúdo");
   const texto = limparTextoParaPDF(msgEl.innerText || "");
 
   const marginLeft = 40;
   const marginTop = 100;
   const marginBottom = 40;
-
-  // A4 em pt (jsPDF): 595.28 x 841.89
   const pageHeight = doc.internal.pageSize.getHeight();
   const usableHeight = pageHeight - marginBottom;
 
@@ -352,17 +397,15 @@ pdfBtn.addEventListener("click", () => {
   doc.text(`ID: ${login}`, marginLeft, 70);
 
   doc.setFontSize(11);
-
   const maxWidth = 515;
-  const lineHeight = 14; // ajuste fino se quiser
+  const lineHeight = 14;
   const linhas = doc.splitTextToSize(texto, maxWidth);
 
   let y = marginTop;
-
   for (let i = 0; i < linhas.length; i++) {
     if (y + lineHeight > usableHeight) {
       doc.addPage();
-      y = 40; // topo da nova página
+      y = 40;
     }
     doc.text(linhas[i], marginLeft, y);
     y += lineHeight;
@@ -370,27 +413,15 @@ pdfBtn.addEventListener("click", () => {
 
   const valor = selectEl.value || "sem_valor";
   const safeLogin = login.replace(/[^\w\-]+/g, "_");
-  const prefixo = setorAtual === "qualidade" ? "qualidade" : "demonstrativo";
+  const prefixo = setorAtual || "conteudo";
   doc.save(`${prefixo}_${safeLogin}_${valor}.pdf`);
 });
 
-// Logout
 logoutBtn.addEventListener("click", () => {
   localStorage.removeItem("token");
   localStorage.removeItem("login");
   window.location.href = "index.html";
 });
 
-// Tabs
-function trocarSetor(novo) {
-  setorAtual = novo;
-  marcarTabAtiva(novo);
-  carregarPeriodos();
-}
-
-tabDemo?.addEventListener("click", () => trocarSetor("demo"));
-tabQualidade?.addEventListener("click", () => trocarSetor("qualidade"));
-
 // ================== INIT ==================
-marcarTabAtiva(setorAtual);
-carregarPeriodos();
+mostrarEstadoInicial();

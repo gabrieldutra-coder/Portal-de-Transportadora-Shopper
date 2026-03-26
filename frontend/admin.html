@@ -16,7 +16,7 @@
     }
 
     .container {
-      max-width: 760px;
+      max-width: 980px;
       margin: 40px auto;
       background: #202c33;
       border-radius: 12px;
@@ -100,7 +100,6 @@
   <div class="container">
     <h2>Painel Admin - Upload de CSV</h2>
 
-    <!-- LOGIN -->
     <div id="loginBox">
       <label>Usuário admin</label>
       <input id="adminUser" placeholder="">
@@ -112,7 +111,6 @@
       <div class="msg" id="loginMsg"></div>
     </div>
 
-    <!-- PAINEL -->
     <div id="panelBox" class="hidden">
       <div class="status" id="statusBox">Carregando status...</div>
 
@@ -120,25 +118,31 @@
         <div>
           <label>Upload usuarios.csv</label>
           <input id="usuariosFile" type="file" accept=".csv">
-          <button class="secondary" id="uploadUsuariosBtn">
-            Enviar usuarios.csv
-          </button>
+          <button class="secondary" id="uploadUsuariosBtn">Enviar usuarios.csv</button>
         </div>
 
         <div>
-          <label>Upload demonstrativo.csv</label>
+          <label>Upload demonstrativos.csv</label>
           <input id="demoFile" type="file" accept=".csv">
-          <button class="secondary" id="uploadDemoBtn">
-            Enviar demonstrativo.csv
-          </button>
+          <button class="secondary" id="uploadDemoBtn">Enviar demonstrativos.csv</button>
         </div>
 
         <div>
           <label>Upload qualidade.csv</label>
           <input id="qualidadeFile" type="file" accept=".csv">
-          <button class="secondary" id="uploadQualidadeBtn">
-            Enviar qualidade.csv
-          </button>
+          <button class="secondary" id="uploadQualidadeBtn">Enviar qualidade.csv</button>
+        </div>
+
+        <div>
+          <label>Upload erros.csv</label>
+          <input id="errosFile" type="file" accept=".csv">
+          <button class="secondary" id="uploadErrosBtn">Enviar erros.csv</button>
+        </div>
+
+        <div>
+          <label>Upload cestas.csv</label>
+          <input id="cestasFile" type="file" accept=".csv">
+          <button class="secondary" id="uploadCestasBtn">Enviar cestas.csv</button>
         </div>
       </div>
 
@@ -146,8 +150,7 @@
       <div class="msg" id="panelMsg"></div>
 
       <div class="msg" style="margin-top:16px;">
-        Após o upload, os dados ficam disponíveis imediatamente
-        para os motoristas/transportadoras.
+        Após o upload, os dados ficam disponíveis imediatamente para os motoristas/transportadoras.
       </div>
     </div>
   </div>

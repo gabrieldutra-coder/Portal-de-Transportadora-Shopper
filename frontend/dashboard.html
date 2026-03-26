@@ -15,11 +15,9 @@
     <!-- Topbar -->
     <header class="wa-topbar">
       <div class="wa-avatar"><i class="fa-sharp fa-solid fa-car"></i>
-</div>
+      </div>
       <div class="wa-title">
-        
-        <div class="wa-name" id="waName">Transportadora</div>
-        <div class="wa-sub" id="waSub">Transportadora</div>
+        <div class="wa-sub" id="waSub">TRANSPORTADORA ID: <class="wa-name" id="waName">Transportadora></div>
       </div>
 
       <div class="wa-top-actions">
@@ -29,25 +27,31 @@
       </div>
     </header>
 
-    <!-- Chat area -->
-    <main class="wa-chat">
-      <!-- ✅ Topo: setor + select sticky + ações -->
+    <!-- Controles -->
+    <div class="wa-chat">
       <div class="top-area">
-        <div class="sector-bar">
-          <button id="tabDemo" class="wa-tab wa-tab--active" type="button">Demonstrativo Financeiro</button>
-          <button id="tabQualidade" class="wa-tab" type="button">Classificação e Erros Qualidade</button>
-        </div>
-
         <div class="periodo-bar">
-          <select id="periodoSelect" class="wa-select"></select>
+          <select id="setorSelect" class="wa-tab wa-tab--active">
+            <option value="setorSelect" selected disabled>Selecione o Setor</option>
+            <option value="demo">[FINANCEIRO] - DEMONSTRATIVO</option>
+            <option value="cestas">[QUALIDADE] - CESTAS</option>
+            <option value="qualidade">[QUALIDADE] - CLASSIFICAÇÃO</option>
+            <option value="erros">[QUALIDADE] - ERROS</option>
+          </select>
+
+
+          <select id="periodoSelect" class="wa-select" disabled>
+            <option value="">Selecione o período</option>
+          </select>
         </div>
 
         <div class="actions-bar">
-          <button id="copyBtn" class="wa-btn" type="button">Copiar</button>
-          <button id="pdfBtn" class="wa-btn wa-btn-secondary" type="button">Gerar PDF</button>
+          <button id="copyBtn" class="wa-btn">Copiar</button>
+          <button id="pdfBtn" class="wa-btn wa-btn-secondary">Gerar PDF</button>
         </div>
       </div>
-      <div class="wa-day" id="waDay">Hoje</div>
+
+      <!-- Área do chat -->
 
       <div class="wa-message wa-out">
         <div class="wa-bubble" id="pdfBubble">
@@ -55,11 +59,10 @@
           <div class="wa-text" id="mensagemBox">Carregando demonstrativo...</div>
           <div class="wa-media" id="mediaBox" style="display:none"></div>
           <div class="wa-meta">
-            <span id="waTime">--:--</span>
-            <span class="wa-checks">✓✓</span>
           </div>
         </div>
       </div>
+    </div>
     </main>
 
   </div>

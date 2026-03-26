@@ -10,103 +10,80 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Em produção use variáveis de ambiente (Render/Vercel/etc.)
-// Configure no provedor:
-//   JWT_SECRET, ADMIN_USER, ADMIN_PASS
 const JWT_SECRET = process.env.JWT_SECRET || "dev-secret";
 const ADMIN_USER = process.env.ADMIN_USER || "admin";
 const ADMIN_PASS = process.env.ADMIN_PASS || "admin123";
 
-// bancos em memória
 let usuariosPorLogin = {};
 let demosPorLogin = {};
-let qualidadePorLogin = {}; // ✅ NOVO
+let qualidadePorLogin = {};
+let errosPorLogin = {};
+let cestasPorLogin = {};
 
-// ---- carregar CSVs
+function parseCsvFileSafe(filePath) {
+  try {
+    const content = fs.readFileSync(filePath, "utf8");
+    if (!content.trim()) return [];
+    return parse(content, {
+      columns: true,
+      skip_empty_lines: true,
+      trim: true,
+    });
+  } catch {
+    return [];
+  }
+}
+
 function carregarCSVs() {
   const usuariosPath = path.join(__dirname, "data", "usuarios.csv");
   const demosPath = path.join(__dirname, "data", "demonstrativos.csv");
-  const qualidadePath = path.join(__dirname, "data", "qualidade.csv"); // ✅ NOVO
+  const qualidadePath = path.join(__dirname, "data", "qualidade.csv");
+  const errosPath = path.join(__dirname, "data", "erros.csv");
+  const cestasPath = path.join(__dirname, "data", "cestas.csv");
 
-  const usuariosFile = fs.readFileSync(usuariosPath, "utf8");
-  const demosFile = fs.readFileSync(demosPath, "utf8");
+  const usuarios = parseCsvFileSafe(usuariosPath);
+  const demonstrativos = parseCsvFileSafe(demosPath);
+  const qualidade = parseCsvFileSafe(qualidadePath);
+  const erros = parseCsvFileSafe(errosPath);
+  const cestas = parseCsvFileSafe(cestasPath);
 
-  // qualidade.csv pode não existir no começo — então tratamos com segurança
-  let qualidadeFile = "";
-  try {
-    qualidadeFile = fs.readFileSync(qualidadePath, "utf8");
-  } catch {
-    qualidadeFile = "";
-  }
-
-  const usuarios = parse(usuariosFile, {
-    columns: true,
-    skip_empty_lines: true,
-    trim: true,
-  });
-
-  const demonstrativos = parse(demosFile, {
-    columns: true,
-    skip_empty_lines: true,
-    trim: true,
-  });
-
-  const qualidade = qualidadeFile
-    ? parse(qualidadeFile, {
-        columns: true,
-        skip_empty_lines: true,
-        trim: true,
-      })
-    : [];
-
-  // usuários
   usuariosPorLogin = {};
   for (const u of usuarios) {
-    usuariosPorLogin[String(u.LOGIN).trim()] = {
-      login: String(u.LOGIN).trim(),
-      senha: String(u.SENHA),
+    const login = String(u.LOGIN || "").trim();
+    if (!login) continue;
+    usuariosPorLogin[login] = {
+      login,
+      senha: String(u.SENHA ?? ""),
     };
   }
 
-  // demonstrativos por login (lista)
   demosPorLogin = {};
   for (const d of demonstrativos) {
-    const login = String(d.LOGIN).trim();
+    const login = String(d.LOGIN || "").trim();
+    if (!login) continue;
     if (!demosPorLogin[login]) demosPorLogin[login] = [];
-
     demosPorLogin[login].push({
       periodo: String(d.PERIODO || "").trim(),
       titulo: String(d.TITULO || "").trim(),
       mensagem: d.MENSAGEM ?? "",
     });
   }
-
-  // ordenar período desc (mais recente primeiro)
   for (const login of Object.keys(demosPorLogin)) {
     demosPorLogin[login].sort((a, b) => b.periodo.localeCompare(a.periodo));
   }
 
-  // ✅ QUALIDADE por login (lista com várias mensagens por período)
   qualidadePorLogin = {};
   for (const q of qualidade) {
     const login = String(q.LOGIN || "").trim();
     const periodo = String(q.PERIODO || "").trim();
-
-    // sua coluna é "ID" (como você adicionou)
-    const id = String(q.ID ?? "").trim();
-
-    // se vier vazio, ainda assim não quebrar:
-    const safeId = id || "1";
-
-    // imagem pode vir como IMAGEM_URL ou IMAGEM (caso você use outro nome)
+    const id = String(q.ID ?? "").trim() || "1";
     const imagemUrl = String(q.IMAGEM_URL ?? q.IMAGEM ?? q.IMAGEMURL ?? "").trim();
-
     if (!login || !periodo) continue;
 
     const item = {
-      key: `${periodo}|${safeId}`,
+      key: `${periodo}|${id}`,
       periodo,
-      id: safeId,
+      id,
       titulo: String(q.TITULO || "").trim(),
       mensagem: q.MENSAGEM ?? "",
       imagemUrl: imagemUrl || null,
@@ -115,30 +92,57 @@ function carregarCSVs() {
     if (!qualidadePorLogin[login]) qualidadePorLogin[login] = [];
     qualidadePorLogin[login].push(item);
   }
-
-  // ordenar: período desc e, dentro do período, ID desc (numérico se der)
   for (const login of Object.keys(qualidadePorLogin)) {
     qualidadePorLogin[login].sort((a, b) => {
       const p = b.periodo.localeCompare(a.periodo);
       if (p !== 0) return p;
-
       const ai = Number(a.id);
       const bi = Number(b.id);
-
       if (!Number.isNaN(ai) && !Number.isNaN(bi)) return bi - ai;
       return String(b.id).localeCompare(String(a.id));
     });
+  }
+
+  errosPorLogin = {};
+  for (const e of erros) {
+    const login = String(e.LOGIN || "").trim();
+    if (!login) continue;
+    if (!errosPorLogin[login]) errosPorLogin[login] = [];
+    errosPorLogin[login].push({
+      periodo: String(e.PERIODO || "").trim(),
+      titulo: String(e.TITULO || "").trim(),
+      mensagem: e.MENSAGEM ?? "",
+    });
+  }
+  for (const login of Object.keys(errosPorLogin)) {
+    errosPorLogin[login].sort((a, b) => b.periodo.localeCompare(a.periodo));
+  }
+
+  cestasPorLogin = {};
+  for (const c of cestas) {
+    const login = String(c.LOGIN || "").trim();
+    if (!login) continue;
+    if (!cestasPorLogin[login]) cestasPorLogin[login] = [];
+    cestasPorLogin[login].push({
+      periodo: String(c.PERIODO || "").trim(),
+      titulo: String(c.TITULO || "").trim(),
+      mensagem: c.MENSAGEM ?? "",
+    });
+  }
+  for (const login of Object.keys(cestasPorLogin)) {
+    cestasPorLogin[login].sort((a, b) => b.periodo.localeCompare(a.periodo));
   }
 
   console.log("CSVs carregados ✅");
   console.log("Usuários:", Object.keys(usuariosPorLogin).length);
   console.log("Logins com demonstrativo:", Object.keys(demosPorLogin).length);
   console.log("Logins com qualidade:", Object.keys(qualidadePorLogin).length);
+  console.log("Logins com erros:", Object.keys(errosPorLogin).length);
+  console.log("Logins com cestas:", Object.keys(cestasPorLogin).length);
 }
 
 carregarCSVs();
 
-// ---- middleware JWT
 function autenticarJWT(req, res, next) {
   const auth = req.headers.authorization;
   if (!auth || !auth.startsWith("Bearer ")) {
@@ -155,35 +159,28 @@ function autenticarJWT(req, res, next) {
   }
 }
 
-// ================= UPLOAD CONFIG (salva em backend/data) =================
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
     cb(null, path.join(__dirname, "data"));
   },
   filename: (req, file, cb) => {
-    // nomes fixos no servidor
     const url = req.originalUrl;
-
     if (url.includes("/usuarios")) return cb(null, "usuarios.csv");
     if (url.includes("/demonstrativo")) return cb(null, "demonstrativos.csv");
-
-    // ✅ opcional: upload qualidade.csv
     if (url.includes("/qualidade")) return cb(null, "qualidade.csv");
-
-    // fallback
+    if (url.includes("/erros")) return cb(null, "erros.csv");
+    if (url.includes("/cestas")) return cb(null, "cestas.csv");
     return cb(null, file.originalname);
   },
 });
 
 const upload = multer({
   storage,
-  limits: { fileSize: 10 * 1024 * 1024 }, // 10MB
+  limits: { fileSize: 10 * 1024 * 1024 },
 });
 
-// ================= MIDDLEWARE ADMIN =================
 function autenticarAdmin(req, res, next) {
   const auth = req.headers.authorization;
-
   if (!auth || !auth.startsWith("Bearer ")) {
     return res.status(401).json({ ok: false, mensagem: "Sem token admin." });
   }
@@ -192,23 +189,19 @@ function autenticarAdmin(req, res, next) {
 
   try {
     const payload = jwt.verify(token, JWT_SECRET);
-
     if (!payload || payload.role !== "admin") {
       return res.status(403).json({ ok: false, mensagem: "Acesso negado." });
     }
-
     return next();
   } catch {
     return res.status(401).json({ ok: false, mensagem: "Token admin inválido." });
   }
 }
 
-// ---- rotas
 app.get("/", (req, res) => res.send("Backend CSV rodando ✅"));
 
 app.post("/login", (req, res) => {
   const { login, senha } = req.body;
-
   const user = usuariosPorLogin[String(login).trim()];
   if (!user) return res.status(401).json({ ok: false, mensagem: "Login inválido ❌" });
 
@@ -220,14 +213,12 @@ app.post("/login", (req, res) => {
   return res.json({ ok: true, mensagem: "Login válido ✅", token });
 });
 
-// lista períodos disponíveis (para dropdown) - DEMO
 app.get("/periodos", autenticarJWT, (req, res) => {
   const lista = demosPorLogin[req.login] || [];
   const periodos = lista.map((d) => ({ periodo: d.periodo, titulo: d.titulo }));
   return res.json({ ok: true, periodos });
 });
 
-// retorna mensagem do período (ou a mais recente) - DEMO
 app.get("/demonstrativo", autenticarJWT, (req, res) => {
   const lista = demosPorLogin[req.login] || [];
   if (lista.length === 0) {
@@ -235,7 +226,6 @@ app.get("/demonstrativo", autenticarJWT, (req, res) => {
   }
 
   const { periodo } = req.query;
-
   if (periodo) {
     const demo = lista.find((d) => d.periodo === periodo);
     if (!demo) {
@@ -244,25 +234,15 @@ app.get("/demonstrativo", autenticarJWT, (req, res) => {
     return res.json({ ok: true, demonstrativo: demo });
   }
 
-  // mais recente
   return res.json({ ok: true, demonstrativo: lista[0] });
 });
 
-// ================== ✅ QUALIDADE ==================
-
-// lista opções (1 por mensagem) => retorna key PERIODO|ID
 app.get("/qualidade/periodos", autenticarJWT, (req, res) => {
   const lista = qualidadePorLogin[req.login] || [];
-  const periodos = lista.map((q) => ({
-    key: q.key,
-    periodo: q.periodo,
-    titulo: q.titulo,
-  }));
+  const periodos = lista.map((q) => ({ key: q.key, periodo: q.periodo, titulo: q.titulo }));
   return res.json({ ok: true, periodos });
 });
 
-// retorna 1 mensagem de qualidade por key (PERIODO|ID)
-// exemplo: /qualidade?key=2026-01-2Q|2
 app.get("/qualidade", autenticarJWT, (req, res) => {
   const lista = qualidadePorLogin[req.login] || [];
   if (lista.length === 0) {
@@ -271,7 +251,6 @@ app.get("/qualidade", autenticarJWT, (req, res) => {
 
   const { key, periodo, id } = req.query;
 
-  // prioridade: key
   if (key) {
     const item = lista.find((q) => q.key === key);
     if (!item) {
@@ -280,7 +259,6 @@ app.get("/qualidade", autenticarJWT, (req, res) => {
     return res.json({ ok: true, qualidade: item });
   }
 
-  // fallback: periodo + id
   if (periodo && id) {
     const k = `${periodo}|${id}`;
     const item = lista.find((q) => q.key === k);
@@ -290,7 +268,6 @@ app.get("/qualidade", autenticarJWT, (req, res) => {
     return res.json({ ok: true, qualidade: item });
   }
 
-  // fallback: se vier só periodo, retorna o primeiro daquele período
   if (periodo) {
     const item = lista.find((q) => q.periodo === periodo);
     if (!item) {
@@ -299,11 +276,57 @@ app.get("/qualidade", autenticarJWT, (req, res) => {
     return res.json({ ok: true, qualidade: item });
   }
 
-  // mais recente (primeiro da lista ordenada)
   return res.json({ ok: true, qualidade: lista[0] });
 });
 
-// recarregar sem reiniciar
+app.get("/erros/periodos", autenticarJWT, (req, res) => {
+  const lista = errosPorLogin[req.login] || [];
+  const periodos = lista.map((e) => ({ periodo: e.periodo, titulo: e.titulo }));
+  return res.json({ ok: true, periodos });
+});
+
+app.get("/erros", autenticarJWT, (req, res) => {
+  const lista = errosPorLogin[req.login] || [];
+  if (lista.length === 0) {
+    return res.status(404).json({ ok: false, mensagem: "Nenhum registro de erros encontrado." });
+  }
+
+  const { periodo } = req.query;
+  if (periodo) {
+    const item = lista.find((e) => e.periodo === periodo);
+    if (!item) {
+      return res.status(404).json({ ok: false, mensagem: "Período não encontrado." });
+    }
+    return res.json({ ok: true, erros: item });
+  }
+
+  return res.json({ ok: true, erros: lista[0] });
+});
+
+app.get("/cestas/periodos", autenticarJWT, (req, res) => {
+  const lista = cestasPorLogin[req.login] || [];
+  const periodos = lista.map((c) => ({ periodo: c.periodo, titulo: c.titulo }));
+  return res.json({ ok: true, periodos });
+});
+
+app.get("/cestas", autenticarJWT, (req, res) => {
+  const lista = cestasPorLogin[req.login] || [];
+  if (lista.length === 0) {
+    return res.status(404).json({ ok: false, mensagem: "Nenhum registro de cestas encontrado." });
+  }
+
+  const { periodo } = req.query;
+  if (periodo) {
+    const item = lista.find((c) => c.periodo === periodo);
+    if (!item) {
+      return res.status(404).json({ ok: false, mensagem: "Período não encontrado." });
+    }
+    return res.json({ ok: true, cestas: item });
+  }
+
+  return res.json({ ok: true, cestas: lista[0] });
+});
+
 app.post("/recarregar-csv", (req, res) => {
   carregarCSVs();
   res.json({ ok: true, mensagem: "CSVs recarregados ✅" });
@@ -311,12 +334,8 @@ app.post("/recarregar-csv", (req, res) => {
 
 const PORT = process.env.PORT || 3000;
 
-// ================= ROTAS ADMIN =================
-
-// login admin (retorna token)
 app.post("/admin/login", (req, res) => {
   const { user, pass } = req.body;
-
   if (user !== ADMIN_USER || pass !== ADMIN_PASS) {
     return res.status(401).json({ ok: false, mensagem: "Admin inválido ❌" });
   }
@@ -325,43 +344,59 @@ app.post("/admin/login", (req, res) => {
   return res.json({ ok: true, mensagem: "Admin OK ✅", token });
 });
 
-// status do que está carregado em memória
 app.get("/admin/status", autenticarAdmin, (req, res) => {
   return res.json({
     ok: true,
     usuarios: Object.keys(usuariosPorLogin).length,
     loginsComDemonstrativo: Object.keys(demosPorLogin).length,
     loginsComQualidade: Object.keys(qualidadePorLogin).length,
+    loginsComErros: Object.keys(errosPorLogin).length,
+    loginsComCestas: Object.keys(cestasPorLogin).length,
   });
 });
 
-// upload usuarios.csv
 app.post("/admin/upload/usuarios", autenticarAdmin, upload.single("file"), (req, res) => {
   try {
     carregarCSVs();
     return res.json({ ok: true, mensagem: "usuarios.csv enviado e recarregado ✅" });
-  } catch (e) {
+  } catch {
     return res.status(500).json({ ok: false, mensagem: "Erro ao recarregar CSVs (usuarios)." });
   }
 });
 
-// upload demonstrativos.csv
 app.post("/admin/upload/demonstrativo", autenticarAdmin, upload.single("file"), (req, res) => {
   try {
     carregarCSVs();
     return res.json({ ok: true, mensagem: "demonstrativos.csv enviado e recarregado ✅" });
-  } catch (e) {
+  } catch {
     return res.status(500).json({ ok: false, mensagem: "Erro ao recarregar CSVs (demonstrativo)." });
   }
 });
 
-// ✅ opcional: upload qualidade.csv
 app.post("/admin/upload/qualidade", autenticarAdmin, upload.single("file"), (req, res) => {
   try {
     carregarCSVs();
     return res.json({ ok: true, mensagem: "qualidade.csv enviado e recarregado ✅" });
-  } catch (e) {
+  } catch {
     return res.status(500).json({ ok: false, mensagem: "Erro ao recarregar CSVs (qualidade)." });
+  }
+});
+
+app.post("/admin/upload/erros", autenticarAdmin, upload.single("file"), (req, res) => {
+  try {
+    carregarCSVs();
+    return res.json({ ok: true, mensagem: "erros.csv enviado e recarregado ✅" });
+  } catch {
+    return res.status(500).json({ ok: false, mensagem: "Erro ao recarregar CSVs (erros)." });
+  }
+});
+
+app.post("/admin/upload/cestas", autenticarAdmin, upload.single("file"), (req, res) => {
+  try {
+    carregarCSVs();
+    return res.json({ ok: true, mensagem: "cestas.csv enviado e recarregado ✅" });
+  } catch {
+    return res.status(500).json({ ok: false, mensagem: "Erro ao recarregar CSVs (cestas)." });
   }
 });
 
