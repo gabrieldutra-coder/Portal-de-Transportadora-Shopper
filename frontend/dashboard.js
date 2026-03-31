@@ -205,7 +205,7 @@ function mostrarSemConteudo(sector) {
 }
 
 function mostrarEstadoInicial() {
-  tituloEl.innerText = "Selecione o setor";
+  tituloEl.innerText = "Selecione o setor no campo acima! ☝";
   msgEl.innerText = "Escolha acima o setor que deseja visualizar.";
   setHoraWhatsAppAgora();
   limparMidia();
