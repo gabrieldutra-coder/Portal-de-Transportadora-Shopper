@@ -1,5 +1,5 @@
 LOGIN,PERIODO,ID,TITULO,MENSAGEM,IMAGEM_URL
-22,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"""Olá MATEUS EIR9, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
+22,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá MATEUS EIR9, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
 *Classificação: A* - Bônus tabela no valor de R$ 20
 *Pontuação total: 0 ponto(s)*
@@ -8,7 +8,7 @@ LOGIN,PERIODO,ID,TITULO,MENSAGEM,IMAGEM_URL
 Ocorrências registradas:
 Sem ocorrências nesta quinzena.
 
-Por favor, revise as informações e nos procure caso tenha alguma dúvida.""",
+Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 46,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá SILVIO ETP3, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
 *Classificação: E* - Bônus tabela no valor de R$ 0
@@ -810,13 +810,12 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 963,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá MARCIO ROGERIO DSL9*, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: B* - Bônus tabela no valor de R$ 15
-*Pontuação total: 1 ponto(s)*
+*Classificação: A* - Bônus tabela no valor de R$ 20
+*Pontuação total: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 12/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
-25/03/2026 – RECUSA DE RESGATE (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 970,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá WILLIAN OWT0, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -1050,12 +1049,12 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1114,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá CMP - NILTON GAI0, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: B* - Bônus tabela no valor de R$ 15
-*Pontuação total: 1 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação: A* - Bônus tabela no valor de R$ 20
+*Pontuação total: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
-18/03/2026 – RESTRIÇÃO NÃO ATENDIDA (Pontuação gerada: 1 ponto(s); Desconto: R$ 16)
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1116,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (SMD) RP - ANDRÉ LUIS EDE5, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -1094,12 +1093,12 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1121,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá WANDERSON LIMA SIY3, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: D* - Bônus tabela no valor de R$ 5
-*Pontuação total: 3 ponto(s)*
+*Classificação: A* - Bônus tabela no valor de R$ 20
+*Pontuação total: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
-15/03/2026 – FALTA (Pontuação gerada: 3 ponto(s); Desconto: R$ 0)
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1130,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá CMP - KAIQUE SILVA OPX1, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -1947,14 +1946,12 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1393,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (Q) MATHEUS MARQUES PWW7, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: E* - Bônus tabela no valor de R$ 0
-*Pontuação total: 4,5 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação: D* - Bônus tabela no valor de R$ 5
+*Pontuação total: 3 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
-17/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
 18/03/2026 – FALTA (Pontuação gerada: 3 ponto(s); Desconto: R$ 0)
-20/03/2026 – RESTRIÇÃO NÃO ATENDIDA (Pontuação gerada: 1 ponto(s); Desconto: R$ 16)
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1395,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (SMD) AMARO FBM8, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -2413,11 +2410,11 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1470,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (SMD) LUCAS ALMEIDA KOM2, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
 *Classificação: E* - Bônus tabela no valor de R$ 0
-*Pontuação total: 9,5 ponto(s)*
-*Desconto total: R$ 436*
+*Pontuação total: 8,5 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
-11/03/2026 – VOLUME DIVERGENTE (Pontuação gerada: 2 ponto(s); Desconto: R$ 436)
+11/03/2026 – ROMANEIO/PREVISÃO (Pontuação gerada: 1 ponto(s); Desconto: R$ 0)
 13/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
 15/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
 20/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
@@ -2911,12 +2908,12 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1572,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (SMD) ANTONIO EPA2, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: D* - Bônus tabela no valor de R$ 5
-*Pontuação total: 3 ponto(s)*
+*Classificação: A* - Bônus tabela no valor de R$ 20
+*Pontuação total: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
-17/03/2026 – FALTA (Pontuação gerada: 3 ponto(s); Desconto: R$ 0)
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1574,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (SMD) MATEUS JUNIOR BAC3, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -3540,8 +3537,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 
 Ocorrências registradas:
 21/03/2026 – RESTRIÇÃO NÃO ATENDIDA (Pontuação gerada: 1 ponto(s); Desconto: R$ 16)
-23/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
 23/03/2026 – INDISPONIBILIDADE FORA DO PRAZO (Pontuação gerada: 3 ponto(s); Desconto: R$ 0)
+23/03/2026 – ATRASO (Pontuação gerada: 0,5 ponto(s); Desconto: R$ 0)
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1690,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá FLAVIO LOJINHA DKU3*, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -3849,12 +3846,12 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1736,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá DIEGO COSTA RUD6, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: C* - Bônus tabela no valor de R$ 10
-*Pontuação total: 2 ponto(s)*
-*Desconto total: R$ 70,52*
+*Classificação: B* - Bônus tabela no valor de R$ 15
+*Pontuação total: 1 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
-10/03/2026 – VOLUME DIVERGENTE (Pontuação gerada: 2 ponto(s); Desconto: R$ 70,52)
+10/03/2026 – ROMANEIO/PREVISÃO (Pontuação gerada: 1 ponto(s); Desconto: R$ 0)
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1737,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (W) ROBSON INÁCIO FJL5, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
@@ -4093,12 +4090,12 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1783,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá (S) SAMUEL SILVA RVA9, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
 
-*Classificação: B* - Bônus tabela no valor de R$ 15
-*Pontuação total: 1 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação: A* - Bônus tabela no valor de R$ 20
+*Pontuação total: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
-21/03/2026 – RESTRIÇÃO NÃO ATENDIDA (Pontuação gerada: 1 ponto(s); Desconto: R$ 16)
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",
 1784,2026.03.2Q,1,CLASSIFICAÇÃO 2/MARÇO,"Olá CMP - LUCAS LIMA RMS1, segue a classificação da transportadora referente a *SEGUNDA QUINZENA DE MARÇO*
