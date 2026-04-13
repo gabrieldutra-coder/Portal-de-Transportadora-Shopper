@@ -51,7 +51,7 @@ function limparTextoParaPDF(texto) {
   if (!texto) return "";
 
   let t = texto.normalize("NFKC");
-  t = t.replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "");
+  t = t.replace(/[\u0000-\u0008\u000Bzu000C\u000E-\u001F\u007F]/g, "");
   t = t.replace(/\uFFFD/g, "");
   t = t.replace(/[^\x09\x0A\x0D\x20-\x7EÀ-ÿ•–—…°ºª€]/g, "");
   t = t.replace(/\n{4,}/g, "\n\n\n");
