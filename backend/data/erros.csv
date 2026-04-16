@@ -13,7 +13,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -75,7 +75,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -94,7 +94,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -120,7 +120,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -132,7 +132,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -153,7 +153,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -266,18 +266,12 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 365,2026.04.1Q,ERROS 1/ABRIL,"Olá EDMAR FYR9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Pontuação atual: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA DA OCORRÊNCIA: 30/03/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 06:00
-Horário de chegada: 06:11
-Tempo de atraso: 00:11
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 388,2026.04.1Q,ERROS 1/ABRIL,"Olá EDSON DRE5*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -301,7 +295,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *150,00*
 
@@ -352,7 +346,7 @@ Tempo de atraso: 00:15
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -471,7 +465,7 @@ Ocorrências registradas:
 
 *DATA:* *07/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *91,39*
 
@@ -631,9 +625,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 580,2026.04.1Q,ERROS 1/ABRIL,"Olá (SMD) RP - CLAUDINEI BBC0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
@@ -644,21 +638,6 @@ Ocorrências registradas:
 Horário solicitado: 08:00
 Horário de chegada: 08:11
 Tempo de atraso: 00:11
--------------------------------------------------------------------
-*DATA:* *31/03/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *16,00*
-
-Entrega: SD0251
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 16:00 - 17:30
-*Horário entregue pela transportadora:* 15:42
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 06/04/2026*
 *Tipo: ATRASO*
@@ -690,7 +669,7 @@ Ocorrências registradas:
 
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -732,7 +711,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -757,7 +736,7 @@ Tempo de atraso: 00:13
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -801,7 +780,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -810,7 +789,7 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *54,50*
 
@@ -857,7 +836,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -898,7 +877,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -955,7 +934,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -1020,7 +999,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1048,7 +1027,7 @@ Ocorrências registradas:
 
 *DATA:* *28/03/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1068,7 +1047,7 @@ Tempo de atraso: 00:13
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -1080,7 +1059,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -1092,7 +1071,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -1124,7 +1103,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -1154,7 +1133,7 @@ Tempo de atraso: 00:12
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -1280,7 +1259,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1295,7 +1274,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -1304,7 +1283,7 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -1354,7 +1333,7 @@ Ocorrências registradas:
 
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1369,7 +1348,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *47,72*
 
@@ -1407,7 +1386,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1456,7 +1435,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -1507,7 +1486,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1555,7 +1534,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -1629,7 +1608,7 @@ Tempo de atraso: 00:30
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -1731,7 +1710,7 @@ Ocorrências registradas:
 
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -1752,7 +1731,7 @@ Ocorrências registradas:
 
 *DATA:* *14/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *80,16*
 
@@ -1764,7 +1743,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *14/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *80,16*
 
@@ -1842,7 +1821,7 @@ Tempo de atraso: 00:17
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -1906,7 +1885,7 @@ Tempo de atraso: 00:14
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -2042,7 +2021,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *66,00*
 
@@ -2112,7 +2091,7 @@ Ocorrências registradas:
 
 *DATA:* *25/03/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *152,80*
 
@@ -2151,30 +2130,15 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1117,2026.04.1Q,ERROS 1/ABRIL,"Olá (SMD) ALEXANDRE SILVA GFC5, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
-*Desconto total: R$ 32*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 16*
 
 Ocorrências registradas:
 
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *16,00*
-
-Entrega: SD0082
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 13:06 - 15:00
-*Horário entregue pela transportadora:* 12:26
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
--------------------------------------------------------------------
-*DATA:* *09/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2198,7 +2162,7 @@ Ocorrências registradas:
 
 *DATA:* *30/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2213,7 +2177,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -2229,27 +2193,13 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1121,2026.04.1Q,ERROS 1/ABRIL,"Olá WANDERSON LIMA SIY3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA DA OCORRÊNCIA: 27/03/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 06:20
-Horário de chegada: 06:38
-Tempo de atraso: 00:18
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 28/03/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 06:00
-Horário de chegada: 06:39
-Tempo de atraso: 00:39
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1130,2026.04.1Q,ERROS 1/ABRIL,"Olá CMP - KAIQUE SILVA OPX1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -2322,7 +2272,7 @@ Tempo de atraso: 00:39
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -2354,7 +2304,7 @@ Tempo de atraso: 00:46
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2392,7 +2342,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -2431,7 +2381,7 @@ Ocorrências registradas:
 
 *DATA:* *01/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2474,7 +2424,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2519,7 +2469,7 @@ Tempo de atraso: 00:16
 -------------------------------------------------------------------
 *DATA:* *30/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2556,7 +2506,7 @@ Ocorrências registradas:
 
 *DATA:* *28/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *141,00*
 
@@ -2606,7 +2556,7 @@ Tempo de atraso: 00:14
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2621,7 +2571,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2636,7 +2586,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2651,7 +2601,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2666,7 +2616,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2681,7 +2631,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -2696,7 +2646,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2745,7 +2695,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *26/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -2853,7 +2803,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -2864,7 +2814,7 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2917,15 +2867,15 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1244,2026.04.1Q,ERROS 1/ABRIL,"Olá MARCOS VESPA FFA1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3,5 ponto(s)*
 *Desconto total: R$ 121,91*
 
 Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -2934,7 +2884,7 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *121,91*
 
@@ -2943,14 +2893,6 @@ A entrega foi deixada na portaria sem autorização prévia do cliente ou do tim
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 10/04/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 06:00
-Horário de chegada: 06:11
-Tempo de atraso: 00:11
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1245,2026.04.1Q,ERROS 1/ABRIL,"Olá LEONARDO SANTANA FWJ0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -2984,7 +2926,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *70,00*
 
@@ -2996,7 +2938,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -3048,7 +2990,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -3173,7 +3115,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3197,7 +3139,7 @@ Ocorrências registradas:
 
 *DATA:* *09/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *121,00*
 
@@ -3253,7 +3195,7 @@ Ocorrências registradas:
 
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3308,7 +3250,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -3329,7 +3271,7 @@ Ocorrências registradas:
 
 *DATA:* *30/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -3341,7 +3283,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -3353,7 +3295,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -3386,7 +3328,7 @@ Ocorrências registradas:
 
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -3401,7 +3343,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -3446,7 +3388,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3470,7 +3412,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -3485,7 +3427,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -3652,7 +3594,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3664,7 +3606,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *198,88*
 
@@ -3731,7 +3673,7 @@ Tempo de atraso: 00:21
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *21,39*
 
@@ -3756,7 +3698,7 @@ Ocorrências registradas:
 
 *DATA:* *28/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3771,7 +3713,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -3798,7 +3740,7 @@ Tempo de atraso: 00:16
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *99,34*
 
@@ -3846,7 +3788,7 @@ Ocorrências registradas:
 
 *DATA:* *04/04/2026*
 *Tipo:* *AVARIA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *102,22*
 
@@ -3909,8 +3851,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1383,2026.04.1Q,ERROS 1/ABRIL,"Olá BRUNO SILVA OVM5, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 8 ponto(s)*
-*Desconto total: R$ 80*
+*Pontuação atual: 10 ponto(s)*
+*Desconto total: R$ 154,05*
 
 Ocorrências registradas:
 
@@ -3920,7 +3862,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3935,7 +3877,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3950,7 +3892,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3965,7 +3907,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3980,7 +3922,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -3992,6 +3934,18 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *06/04/2026*
+*Tipo:* *ENDEREÇO DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *74,05*
+
+Entrega: 21891
+A entrega foi realizada em endereço diferente do indicado no pedido, sem autorização do cliente ou do time de acompanhamento.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1385,2026.04.1Q,ERROS 1/ABRIL,"Olá CMP - VICTOR RVU3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -4071,7 +4025,7 @@ Ocorrências registradas:
 
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -4228,7 +4182,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *27/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -4240,7 +4194,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *27/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -4372,7 +4326,7 @@ Tempo de atraso: 00:11
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -4413,7 +4367,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -4462,7 +4416,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *PERDEU A TAG*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *20,00*
 
@@ -4558,7 +4512,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -4637,7 +4591,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *103,30*
 
@@ -4649,7 +4603,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -4667,7 +4621,7 @@ Ocorrências registradas:
 
 *DATA:* *07/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *101,27*
 
@@ -4688,7 +4642,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -4703,7 +4657,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -4718,7 +4672,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *27/03/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *54,92*
 
@@ -4730,7 +4684,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *30/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -4820,7 +4774,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -4835,7 +4789,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -4850,7 +4804,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -4862,7 +4816,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -4877,7 +4831,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -4927,7 +4881,7 @@ Tempo de atraso: 00:42
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5001,7 +4955,7 @@ Ocorrências registradas:
 
 *DATA:* *29/03/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *70,00*
 
@@ -5055,7 +5009,7 @@ Ocorrências registradas:
 
 *DATA:* *07/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *116,67*
 
@@ -5105,7 +5059,7 @@ Tempo de atraso: 00:21
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5148,7 +5102,7 @@ Ocorrências registradas:
 
 *DATA:* *30/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -5180,7 +5134,7 @@ Ocorrências registradas:
 
 *DATA:* *29/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5195,7 +5149,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -5219,7 +5173,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5272,7 +5226,7 @@ Ocorrências registradas:
 
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5287,7 +5241,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *75,08*
 
@@ -5341,7 +5295,7 @@ Tempo de atraso: 00:25
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -5394,7 +5348,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -5489,7 +5443,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -5510,7 +5464,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -5547,7 +5501,7 @@ Ocorrências registradas:
 
 *DATA:* *25/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -5639,7 +5593,7 @@ Tempo de atraso: 00:14
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5654,7 +5608,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -5752,7 +5706,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5767,7 +5721,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5779,7 +5733,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *175,51*
 
@@ -5835,7 +5789,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5870,7 +5824,7 @@ Ocorrências registradas:
 
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5885,7 +5839,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -5900,7 +5854,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -5935,7 +5889,7 @@ Ocorrências registradas:
 
 *DATA:* *01/04/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -5951,7 +5905,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -6003,7 +5957,7 @@ Ocorrências registradas:
 
 *DATA:* *30/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -6018,7 +5972,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -6033,7 +5987,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -6067,7 +6021,7 @@ Ocorrências registradas:
 
 *DATA:* *29/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *122,66*
 
@@ -6080,26 +6034,13 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1538,2026.04.1Q,ERROS 1/ABRIL,"Olá CMP - WAGNER SAMPAIO CFZ3*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *01/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *16,00*
-
-Entrega: 42100
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 14:00 - 18:00
-*Horário entregue pela transportadora:* 12:52
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1539,2026.04.1Q,ERROS 1/ABRIL,"Olá CMP - THIAGO ORTIZ QQQ6, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -6123,7 +6064,7 @@ Ocorrências registradas:
 
 *DATA:* *04/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *106,25*
 
@@ -6169,7 +6110,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -6222,7 +6163,7 @@ Tempo de atraso: 00:19
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -6275,7 +6216,7 @@ Tempo de atraso: 00:11
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -6319,7 +6260,7 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -6347,7 +6288,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -6429,7 +6370,7 @@ Tempo de atraso: 00:26
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *78,50*
 
@@ -6458,7 +6399,7 @@ Ocorrências registradas:
 
 *DATA:* *25/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *99,34*
 
@@ -6558,7 +6499,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -6569,7 +6510,7 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 -------------------------------------------------------------------
 *DATA:* *28/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -6580,7 +6521,7 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -6622,7 +6563,7 @@ Ocorrências registradas:
 
 *DATA:* *08/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -6643,7 +6584,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *PERDEU A TAG*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *20,00*
 
@@ -6677,7 +6618,7 @@ Ocorrências registradas:
 
 *DATA:* *28/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -6790,7 +6731,7 @@ Ocorrências registradas:
 
 *DATA:* *29/03/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *131,68*
 
@@ -6802,7 +6743,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -6856,7 +6797,7 @@ Tempo de atraso: 00:17
 -------------------------------------------------------------------
 *DATA:* *07/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -6888,7 +6829,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -6913,7 +6854,7 @@ Ocorrências registradas:
 
 *DATA:* *06/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *143,73*
 
@@ -6934,7 +6875,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *68,50*
 
@@ -6980,7 +6921,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *70,00*
 
@@ -6992,7 +6933,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *AVARIA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *39,72*
 
@@ -7030,7 +6971,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *29/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *60,00*
 
@@ -7042,7 +6983,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *29/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *60,00*
 
@@ -7054,7 +6995,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *30/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -7066,7 +7007,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -7108,7 +7049,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -7129,7 +7070,7 @@ Ocorrências registradas:
 
 *DATA:* *28/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -7173,7 +7114,7 @@ Tempo de atraso: 00:55
 -------------------------------------------------------------------
 *DATA:* *28/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -7201,7 +7142,7 @@ Tempo de atraso: 00:18
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -7266,7 +7207,7 @@ Tempo de atraso: 00:22
 -------------------------------------------------------------------
 *DATA:* *28/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -7360,7 +7301,7 @@ Ocorrências registradas:
 
 *DATA:* *25/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -7381,7 +7322,7 @@ Ocorrências registradas:
 
 *DATA:* *30/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -7396,7 +7337,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -7411,7 +7352,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -7524,18 +7465,12 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1666,2026.04.1Q,ERROS 1/ABRIL,"Olá (SMD) PALOMA FZP3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Pontuação atual: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA DA OCORRÊNCIA: 09/04/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 12:00
-Horário de chegada: 12:33
-Tempo de atraso: 00:33
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1667,2026.04.1Q,ERROS 1/ABRIL,"Olá WALTER RAMOS FSA1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -7560,7 +7495,7 @@ Tempo de atraso: 00:19
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -7632,7 +7567,7 @@ Tempo de atraso: 00:21
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -7678,7 +7613,7 @@ Tempo de atraso: 00:15
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -7702,7 +7637,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -7732,7 +7667,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -7819,7 +7754,7 @@ Tempo de atraso: 00:22
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -7834,7 +7769,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -7881,7 +7816,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *58,00*
 
@@ -7893,7 +7828,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *58,00*
 
@@ -7943,7 +7878,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -8005,7 +7940,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -8014,7 +7949,7 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 -------------------------------------------------------------------
 *DATA:* *02/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -8101,7 +8036,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -8137,7 +8072,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -8162,7 +8097,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -8243,7 +8178,7 @@ Tempo de atraso: 00:16
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -8330,7 +8265,7 @@ Ocorrências registradas:
 
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -8432,7 +8367,7 @@ Ocorrências registradas:
 
 *DATA:* *07/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -8486,7 +8421,7 @@ Ocorrências registradas:
 
 *DATA:* *29/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -8546,7 +8481,7 @@ Ocorrências registradas:
 
 *DATA:* *06/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -8562,9 +8497,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1735,2026.04.1Q,ERROS 1/ABRIL,"Olá FERRARI DLM4#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2,5 ponto(s)*
-*Desconto total: R$ 62,2*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0,5 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
@@ -8579,9 +8514,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *2* ponto(s)
-*Desconto gerado:* *62,20*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *0* ponto(s)
+*Desconto gerado:* *0,00*
 
 Entrega: 61153
 A transportadora apresentou conduta inadequada durante a entrega, descumprindo normas de comportamento ou apresentação exigidas.
@@ -8600,7 +8535,7 @@ Ocorrências registradas:
 
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -8694,7 +8629,7 @@ Ocorrências registradas:
 
 *DATA:* *07/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *ANALISAR*
 
@@ -8842,7 +8777,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -8928,7 +8863,7 @@ Ocorrências registradas:
 
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -8996,7 +8931,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9020,7 +8955,7 @@ Ocorrências registradas:
 
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9044,7 +8979,7 @@ Ocorrências registradas:
 
 *DATA:* *26/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9149,7 +9084,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *HORÁRIO INDEVIDO*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9158,7 +9093,7 @@ A transportadora realizou a entrega fora do horário acordado, antes das 8h30 (s
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *POSTURA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9203,7 +9138,7 @@ Ocorrências registradas:
 
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9218,7 +9153,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -9233,7 +9168,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *200,00*
 
@@ -9249,16 +9184,16 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1800,2026.04.1Q,ERROS 1/ABRIL,"Olá GUSTAVO MANOEL AWN2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 15 ponto(s)*
-*Desconto total: R$ 570*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 200*
 
 Ocorrências registradas:
 
 *DATA:* *30/03/2026*
 *Tipo:* *SEM UNIFORME*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *3* ponto(s)
-*Desconto gerado:* *70,00*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *0* ponto(s)
+*Desconto gerado:* *ANALISAR*
 
 Entrega: 
 A transportadora não estava utilizando o uniforme adequado, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
@@ -9277,7 +9212,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9289,7 +9224,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9299,21 +9234,6 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 -------------------------------------------------------------------
-*DATA:* *08/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *3* ponto(s)
-*Desconto gerado:* *100,00*
-
-Entrega: 42441
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 14:00 - 18:00
-*Horário entregue pela transportadora:* 13:49
-
-Esta ocorrência corresponde à 3ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
--------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
@@ -9322,20 +9242,6 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
--------------------------------------------------------------------
-*DATA:* *10/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *3* ponto(s)
-*Desconto gerado:* *200,00*
-
-Entrega: 62521
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 10:06 - 12:00
-*Horário entregue pela transportadora:* 09:18
-
-Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *RECUSA DE CARGA*
@@ -9416,7 +9322,7 @@ Ocorrências registradas:
 
 *DATA:* *02/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9466,26 +9372,13 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1810,2026.04.1Q,ERROS 1/ABRIL,"Olá (Q) ALEXANDRE SILVA RHK7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 50*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *10/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *50,00*
-
-Entrega: 62231
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 12:00 - 14:00
-*Horário entregue pela transportadora:* 11:38
-
-Esta ocorrência corresponde à 2ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1811,2026.04.1Q,ERROS 1/ABRIL,"Olá (S) GABRIEL MARTINS RFA1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -9542,7 +9435,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *06/04/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9551,7 +9444,7 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9572,7 +9465,7 @@ Ocorrências registradas:
 
 *DATA:* *31/03/2026*
 *Tipo:* *RECUSA DE RESGATE*
-*Classificação do erro:* **
+*Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9586,23 +9479,13 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1817,2026.04.1Q,ERROS 1/ABRIL,"Olá (Q) WELLINGTON ALVES FJH7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
-*Desconto total: R$ 54,7*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *06/04/2026*
-*Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
-*Pontuação prevista em contrato:* *2* ponto(s)
-*Desconto gerado:* *54,70*
-
-Entrega: 21891
-A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1820,2026.04.1Q,ERROS 1/ABRIL,"Olá (SMD) FABIO SILVA RUG7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
@@ -9615,7 +9498,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *121,00*
 
@@ -9627,7 +9510,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *29/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9642,7 +9525,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9666,7 +9549,7 @@ Ocorrências registradas:
 
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9681,7 +9564,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9696,7 +9579,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *05/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -9712,7 +9595,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1824,2026.04.1Q,ERROS 1/ABRIL,"Olá DANIEL PATRICIO FWC4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
 *Pontuação atual: 15,5 ponto(s)*
 *Desconto total: R$ 0*
 
@@ -9750,7 +9633,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1825,2026.04.1Q,ERROS 1/ABRIL,"Olá ELBER SANTINI EEW9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE ABRIL DE 2026*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
 *Pontuação atual: 9 ponto(s)*
 *Desconto total: R$ 182*
 
@@ -9758,7 +9641,7 @@ Ocorrências registradas:
 
 *DATA:* *27/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9773,7 +9656,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *31/03/2026*
 *Tipo:* *VOLUME DIVERGENTE*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9785,7 +9668,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 -------------------------------------------------------------------
 *DATA:* *01/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9822,7 +9705,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *09/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9843,7 +9726,7 @@ Ocorrências registradas:
 
 *DATA:* *28/03/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9913,7 +9796,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *30/03/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *0,00*
 
@@ -9938,7 +9821,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *03/04/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* **
+*Classificação do erro:* *MÉDIO*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *50,00*
 
@@ -9972,7 +9855,7 @@ Ocorrências registradas:
 
 *DATA:* *04/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -9987,7 +9870,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -10002,7 +9885,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *100,00*
 
@@ -10048,7 +9931,7 @@ Ocorrências registradas:
 -------------------------------------------------------------------
 *DATA:* *04/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -10165,7 +10048,7 @@ Ocorrências registradas:
 
 *DATA:* *07/04/2026*
 *Tipo:* *PORTARIA INDEVIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
 *Desconto gerado:* *88,94*
 
@@ -10225,7 +10108,7 @@ Ocorrências registradas:
 
 *DATA:* *08/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -10262,7 +10145,7 @@ Ocorrências registradas:
 
 *DATA:* *08/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -10277,7 +10160,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 -------------------------------------------------------------------
 *DATA:* *08/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
@@ -10338,7 +10221,7 @@ Ocorrências registradas:
 
 *DATA:* *10/04/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* **
+*Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *1* ponto(s)
 *Desconto gerado:* *16,00*
 
