@@ -1,19 +1,21 @@
 LOGIN,PERIODO,TITULO,MENSAGEM
 22,2026.04.2Q,ERROS 2/ABRIL,"Olá MATEUS EIR9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 46,2026.04.2Q,ERROS 2/ABRIL,"Olá SILVIO ETP3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
+*Pontuação atual: 7 ponto(s)*
 *Desconto total: R$ 50*
 
 Ocorrências registradas:
@@ -41,6 +43,10 @@ A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE C
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 58,2026.04.2Q,ERROS 2/ABRIL,"Olá KLEBER EOF1*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -91,13 +97,31 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 130,2026.04.2Q,ERROS 2/ABRIL,"Olá DIEGO CUD4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2,5 ponto(s)*
+*Desconto total: R$ 44,06*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *17/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *44,06*
+
+Entrega: 60588
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:40
+Horário de chegada: 06:58
+Tempo de atraso: 00:18
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 138,2026.04.2Q,ERROS 2/ABRIL,"Olá MATHEUS LOJINHA CKD7*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -157,13 +181,26 @@ Tempo de atraso: 00:19
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 170,2026.04.2Q,ERROS 2/ABRIL,"Olá ROBERTO GAB9*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 16*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 20419
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 10:30 - 14:30
+*Horário entregue pela transportadora:* 10:01
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 292,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) VICTOR MIRANDA EJJ8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -348,8 +385,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 504,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) PEDRO OWW4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -362,6 +399,10 @@ A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE C
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 513,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ODENIR ELS3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -495,13 +536,23 @@ Tempo de atraso: 00:11
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 570,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - DIEGO OWV1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *22/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 574,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - FABRICIO FYZ6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -529,12 +580,19 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 582,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - RAFAEL EBC4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 590,2026.04.2Q,ERROS 2/ABRIL,"Olá FERNANDO MATIAS IUZ6*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -557,8 +615,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 614,2026.04.2Q,ERROS 2/ABRIL,"Olá (K) JOAO SEVERINO EJS9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5 ponto(s)*
-*Desconto total: R$ 48,5*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 97*
 
 Ocorrências registradas:
 
@@ -569,6 +627,18 @@ Ocorrências registradas:
 *Desconto gerado:* *48,50*
 
 Entrega: 71192
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
+*DATA:* *11/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *48,50*
+
+Entrega: 71392
 A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
 
 Esta ocorrência corresponde à 1ª reincidência.
@@ -691,8 +761,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 746,2026.04.2Q,ERROS 2/ABRIL,"Olá RP - KAUANE STU9*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -704,6 +774,14 @@ Ocorrências registradas:
 Horário solicitado: 06:40
 Horário de chegada: 06:51
 Tempo de atraso: 00:11
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 07:00
+Horário de chegada: 07:16
+Tempo de atraso: 00:16
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 751,2026.04.2Q,ERROS 2/ABRIL,"Olá FABIO ANDRADE FXK5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -743,9 +821,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 778,2026.04.2Q,ERROS 2/ABRIL,"Olá RENATA PGN3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1,5 ponto(s)*
+*Desconto total: R$ 16*
 
 Ocorrências registradas:
 
@@ -756,6 +834,21 @@ Ocorrências registradas:
 Horário solicitado: 06:20
 Horário de chegada: 06:36
 Tempo de atraso: 00:16
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 20397
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 10:30 - 14:30
+*Horário entregue pela transportadora:* 10:22
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 792,2026.04.2Q,ERROS 2/ABRIL,"Olá NILTON FFC0*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -815,8 +908,8 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 810,2026.04.2Q,ERROS 2/ABRIL,"Olá ADRIANO MANOEL FKT3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -828,13 +921,21 @@ Ocorrências registradas:
 Horário solicitado: 06:20
 Horário de chegada: 06:40
 Tempo de atraso: 00:20
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 07:00
+Horário de chegada: 07:19
+Tempo de atraso: 00:19
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 812,2026.04.2Q,ERROS 2/ABRIL,"Olá ANDRE LIMA CDV7#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 20*
 
 Ocorrências registradas:
 
@@ -845,6 +946,23 @@ Ocorrências registradas:
 Horário solicitado: 06:00
 Horário de chegada: 12:50
 Tempo de atraso: 06:50
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *PERDEU A TAG*
+*Classificação do erro:* *LEVE*
+*Pontuação prevista em contrato:* *0* ponto(s)
+*Desconto gerado:* *20,00*
+
+Entrega: 
+A transportadora apresentou perda de TAG, insumo disponibilizado para controle de chegada, em desacordo com os procedimentos operacionais estabelecidos.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:20
+Horário de chegada: 12:21
+Tempo de atraso: 06:01
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 813,2026.04.2Q,ERROS 2/ABRIL,"Olá WELLINGTON SANTOS DHS2*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -954,24 +1072,62 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 855,2026.04.2Q,ERROS 2/ABRIL,"Olá LEONARDO EXS0#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 70,84*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *14/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *54,84*
+
+Entrega: 30955
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
+*DATA:* *21/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 31062
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 14:00 - 18:00
+*Horário entregue pela transportadora:* 13:53
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 879,2026.04.2Q,ERROS 2/ABRIL,"Olá MARCIO RODRIGUES FGQ2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *21/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 30410
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 14:00 - 18:00
+*Horário entregue pela transportadora:* 13:38
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 887,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - ANA DXF8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1240,8 +1396,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 996,2026.04.2Q,ERROS 2/ABRIL,"Olá JONATHAN THOMAZ EPP7*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1253,6 +1409,10 @@ Ocorrências registradas:
 Horário solicitado: 06:40
 Horário de chegada: 06:58
 Tempo de atraso: 00:18
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1003,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - MARCOS FILIPE EWS6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1310,8 +1470,8 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1023,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LUCAS MIRANDA DPB7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1323,12 +1483,20 @@ Ocorrências registradas:
 Horário solicitado: 09:00
 Horário de chegada: 09:13
 Tempo de atraso: 00:13
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 09:00
+Horário de chegada: 09:16
+Tempo de atraso: 00:16
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1026,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) GABRIEL CHAGAS JIH9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Pontuação atual: 3,5 ponto(s)*
 *Desconto total: R$ 100*
 
 Ocorrências registradas:
@@ -1347,6 +1515,14 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 14:00
+Horário de chegada: 14:12
+Tempo de atraso: 00:12
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1039,2026.04.2Q,ERROS 2/ABRIL,"Olá JAILSON SILVA EIO6#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1368,13 +1544,23 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1041,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ALEX ALMEIDA EXH5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 160,2*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *19/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *160,20*
+
+Entrega: SD0087
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1060,2026.04.2Q,ERROS 2/ABRIL,"Olá RAFAEL ANDRADE DCU3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1433,19 +1619,29 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1070,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) VITORIO HLP9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *21/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1071,2026.04.2Q,ERROS 2/ABRIL,"Olá MICHEL PAULO EGB1*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1457,12 +1653,20 @@ Ocorrências registradas:
 Horário solicitado: 06:00
 Horário de chegada: 06:16
 Tempo de atraso: 00:16
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:40
+Horário de chegada: 07:18
+Tempo de atraso: 00:38
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1078,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ALEX RODRIGUES EPK9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -1481,6 +1685,10 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1088,2026.04.2Q,ERROS 2/ABRIL,"Olá (W) WAGNER DUARTE KKS1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1502,9 +1710,9 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1096,2026.04.2Q,ERROS 2/ABRIL,"Olá HELBERT JOSÉ FMG3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4,5 ponto(s)*
+*Desconto total: R$ 89,25*
 
 Ocorrências registradas:
 
@@ -1516,6 +1724,18 @@ Horário solicitado: 06:20
 Horário de chegada: 07:09
 Tempo de atraso: 00:49
 -------------------------------------------------------------------
+*DATA:* *13/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *89,25*
+
+Entrega: 20601
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/04/2026*
 *Tipo: ATRASO*
 *Pontuação prevista em contrato: 0,5 ponto*
@@ -1523,6 +1743,14 @@ Tempo de atraso: 00:49
 Horário solicitado: 06:00
 Horário de chegada: 06:13
 Tempo de atraso: 00:13
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:40
+Horário de chegada: 07:10
+Tempo de atraso: 00:30
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1105,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ADRIEL EXI0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1686,8 +1914,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1139,2026.04.2Q,ERROS 2/ABRIL,"Olá VALDEIR GHH7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1699,6 +1927,10 @@ Ocorrências registradas:
 Horário solicitado: 06:20
 Horário de chegada: 06:51
 Tempo de atraso: 00:31
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1145,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) DONIZETE RMK7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1904,7 +2136,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1215,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) BRENO PZN0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 15,5 ponto(s)*
+*Pontuação atual: 18,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1936,17 +2168,27 @@ Tempo de atraso: 00:30
 *DATA DA OCORRÊNCIA: 18/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1217,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RENATO VITORINO CFY8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 09:00
+Horário de chegada: 09:47
+Tempo de atraso: 00:47
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1222,2026.04.2Q,ERROS 2/ABRIL,"Olá PEDRO SANTOS BCG7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -1986,30 +2228,44 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1242,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) FLAVIO DIAS OWZ1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *17/04/2026*
+*Tipo:* *RECUSA DE CARGA*
+*Pontuação prevista em contrato:* *3* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE CARGA*, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos. Sendo está, uma ocorrência *GRAVE*.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1244,2026.04.2Q,ERROS 2/ABRIL,"Olá MARCOS VESPA FFA1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1245,2026.04.2Q,ERROS 2/ABRIL,"Olá LEONARDO SANTANA FWJ0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7 ponto(s)*
+*Pontuação atual: 10 ponto(s)*
 *Desconto total: R$ 50*
 
 Ocorrências registradas:
@@ -2031,6 +2287,10 @@ Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -2074,13 +2334,15 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1271,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - LUIS QWZ0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1272,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - KELMITON FST8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2119,7 +2381,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1277,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LUIZ PAULO QPJ2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 13 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -2138,12 +2400,31 @@ Entrega:
 A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *22/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1283,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) PAULO ARAUJO RMS7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -2155,6 +2436,10 @@ Ocorrências registradas:
 Horário solicitado: 14:00
 Horário de chegada: 14:30
 Tempo de atraso: 00:30
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1289,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RUBENS SILVA OYN1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2266,13 +2551,39 @@ Tempo de atraso: 04:19
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1326,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ESTER FWE6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: SD0466
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 18:30 - 20:30
+*Horário entregue pela transportadora:* 18:09
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *21/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: SD0114
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 13:00 - 18:00
+*Horário entregue pela transportadora:* 12:55
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1327,2026.04.2Q,ERROS 2/ABRIL,"Olá CMP - MARCOS PZG3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2299,9 +2610,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1329,2026.04.2Q,ERROS 2/ABRIL,"Olá MURILO FREITAS CYB3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
-*Desconto total: R$ 56,36*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
+*Desconto total: R$ 123,7*
 
 Ocorrências registradas:
 
@@ -2316,6 +2627,18 @@ O volume foi entregue com danos aparentes ou avarias, sem comunicação prévia 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *13/04/2026*
+*Tipo:* *POSTURA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *67,34*
+
+Entrega: 20289
+A transportadora apresentou conduta inadequada durante a entrega, descumprindo normas de comportamento ou apresentação exigidas.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1349,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MAURO RMZ8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2332,7 +2655,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1350,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) KAIQUE MATIAS PGI7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 9 ponto(s)*
 *Desconto total: R$ 563,64*
 
 Ocorrências registradas:
@@ -2361,6 +2684,10 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 *Horário entregue pela transportadora:* 10:15
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1354,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) WERLEY QWU3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2389,15 +2716,27 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1355,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) JESUINO SYT6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 111,67*
 
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 14/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *17/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *111,67*
+
+Entrega: 62252
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1361,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) TIAGO SOUSA DAS9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2454,7 +2793,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1367,2026.04.2Q,ERROS 2/ABRIL,"Olá FABIO GIACON DNT1#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Pontuação atual: 1,5 ponto(s)*
 *Desconto total: R$ 50*
 
 Ocorrências registradas:
@@ -2470,12 +2809,20 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:40
+Horário de chegada: 07:18
+Tempo de atraso: 00:38
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1368,2026.04.2Q,ERROS 2/ABRIL,"Olá SILVIO BELEM MWF7#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9 ponto(s)*
+*Pontuação atual: 12 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -2489,6 +2836,10 @@ Ocorrências registradas:
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -2602,13 +2953,34 @@ Tempo de atraso: 00:44
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1385,2026.04.2Q,ERROS 2/ABRIL,"Olá CMP - VICTOR RVU3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *11/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 70497
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
+*DATA:* *17/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 60175/B
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1386,2026.04.2Q,ERROS 2/ABRIL,"Olá RP - REGIANE FMP1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2626,12 +2998,24 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1389,2026.04.2Q,ERROS 2/ABRIL,"Olá DOUGLAS ARAUJO QXC4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3,5 ponto(s)*
+*Desconto total: R$ 88,75*
 
 Ocorrências registradas:
 
+*DATA:* *15/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *88,75*
+
+Entrega: 41882
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/04/2026*
 *Tipo: ATRASO*
 *Pontuação prevista em contrato: 0,5 ponto*
@@ -2639,6 +3023,27 @@ Ocorrências registradas:
 Horário solicitado: 06:00
 Horário de chegada: 06:41
 Tempo de atraso: 00:41
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+1392,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) DENIS FABIANO DGN7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+*DATA:* *13/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1393,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) MATHEUS MARQUES PWW7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2706,7 +3111,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1399,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MARCEL FGL3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 8,5 ponto(s)*
+*Pontuação atual: 13,5 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -2738,6 +3143,17 @@ Horário solicitado: 08:00
 Horário de chegada: 08:42
 Tempo de atraso: 00:42
 -------------------------------------------------------------------
+*DATA:* *16/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: SD0317
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/04/2026*
 *Tipo: ATRASO*
 *Pontuação prevista em contrato: 0,5 ponto*
@@ -2757,17 +3173,25 @@ Tempo de atraso: 00:30
 *DATA DA OCORRÊNCIA: 18/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1403,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LEANDRO CABRAL FTV3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
+*Pontuação atual: 7 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 18/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
@@ -2797,8 +3221,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1406,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LUIZ CARLOS EFY5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -2818,17 +3242,31 @@ Tempo de atraso: 00:27
 Horário solicitado: 08:00
 Horário de chegada: 08:22
 Tempo de atraso: 00:22
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1409,2026.04.2Q,ERROS 2/ABRIL,"Olá MARCOS FERREIRA ERC5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 62,08*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *09/03/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *62,08*
+
+Entrega: 22200
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1412,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) CARLOS MAIA EUS3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2851,6 +3289,19 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 11/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+1416,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) GUI MARIANO RKQ0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+*DATA DA OCORRÊNCIA: 21/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -2922,13 +3373,23 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1438,2026.04.2Q,ERROS 2/ABRIL,"Olá MARCOS RUFINO FZV6*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 104,14*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *14/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *104,14*
+
+Entrega: 31360
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1439,2026.04.2Q,ERROS 2/ABRIL,"Olá (W) JORGE HENRIQUE DSP6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -2965,8 +3426,8 @@ Tempo de atraso: 00:28
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1440,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) WESLLEY ALMEIDA FCB0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 50*
 
 Ocorrências registradas:
@@ -2985,6 +3446,10 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1441,2026.04.2Q,ERROS 2/ABRIL,"Olá CESAR BEV7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3011,9 +3476,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1445,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MARCOS NETO CFY1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1,5 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
@@ -3024,19 +3489,42 @@ Ocorrências registradas:
 Horário solicitado: 12:00
 Horário de chegada: 12:42
 Tempo de atraso: 00:42
+-------------------------------------------------------------------
+*DATA:* *21/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: SD0524
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 19:32 - 21:30
+*Horário entregue pela transportadora:* 19:31
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1446,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) SERGIO MAMEDIO FAE5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 16/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *17/04/2026*
+*Tipo:* *RECUSA DE CARGA*
+*Pontuação prevista em contrato:* *3* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE CARGA*, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos. Sendo está, uma ocorrência *GRAVE*.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1447,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MATTHEUS FEIJÓ HBR2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3062,13 +3550,17 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1449,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RAUL CESAR EQM0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 13/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -3103,19 +3595,45 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1459,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ANDRE LEITE EYA0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 200*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *200,00*
+
+Entrega: SD0236
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 15:00 - 17:00
+*Horário entregue pela transportadora:* 14:58
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *21/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 31820
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 12:30 - 16:30
+*Horário entregue pela transportadora:* 11:58
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1460,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) CLEICI DTE6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9 ponto(s)*
+*Pontuação atual: 12 ponto(s)*
 *Desconto total: R$ 150*
 
 Ocorrências registradas:
@@ -3136,6 +3654,10 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 *DATA DA OCORRÊNCIA: 17/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1461,2026.04.2Q,ERROS 2/ABRIL,"Olá CMP - MIZAEL OWO3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3151,8 +3673,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1464,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) FELIPE MORAES EML9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 100*
 
 Ocorrências registradas:
@@ -3168,6 +3690,10 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1467,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RODRIGO SOARES FDL0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3216,7 +3742,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1470,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LUCAS ALMEIDA KOM2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9,5 ponto(s)*
+*Pontuação atual: 13 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -3240,6 +3766,18 @@ Ocorrências registradas:
 Horário solicitado: 13:00
 Horário de chegada: 13:23
 Tempo de atraso: 00:23
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 13:00
+Horário de chegada: 13:20
+Tempo de atraso: 00:20
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1471,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - AILTON SANTANA PYE0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3340,12 +3878,24 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1479,2026.04.2Q,ERROS 2/ABRIL,"Olá KAIQUE SAMUEL EPI1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 105,29*
 
 Ocorrências registradas:
 
+*DATA:* *11/03/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *105,29*
+
+Entrega: 40485
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/04/2026*
 *Tipo: ATRASO*
 *Pontuação prevista em contrato: 0,5 ponto*
@@ -3353,6 +3903,10 @@ Ocorrências registradas:
 Horário solicitado: 06:00
 Horário de chegada: 06:14
 Tempo de atraso: 00:14
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1486,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) CLAUDIO ROBERTO DOR0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3456,13 +4010,23 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1494,2026.04.2Q,ERROS 2/ABRIL,"Olá PABLO ALMEIDA FWI3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 48,36*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *14/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *48,36*
+
+Entrega: 31700
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1499,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RP - MARIA ROSIANE SWS0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3479,11 +4043,34 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1503,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) IGOR AVELINO QUC4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 11 ponto(s)*
+*Desconto total: R$ 723,49*
 
 Ocorrências registradas:
 
+*DATA:* *09/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 51224
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
+*DATA:* *11/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *373,49*
+
+Entrega: 70629
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -3511,6 +4098,17 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *22/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *200,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1511,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) GIOVANI BRITO HHR2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3548,8 +4146,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1515,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) CARLOS PEREIRA RMP9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
 *Desconto total: R$ 200*
 
 Ocorrências registradas:
@@ -3567,6 +4165,10 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 *Horário entregue pela transportadora:* 10:12
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1521,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) GRAZIELA RFP9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3681,12 +4283,24 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1538,2026.04.2Q,ERROS 2/ABRIL,"Olá CMP - WAGNER SAMPAIO CFZ3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 5 ponto(s)*
+*Desconto total: R$ 192,28*
 
 Ocorrências registradas:
 
+*DATA:* *08/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *192,28*
+
+Entrega: 41023
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -3705,8 +4319,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1540,2026.04.2Q,ERROS 2/ABRIL,"Olá RP - EVANDRO RICARDO HLG3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -3727,16 +4341,32 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1556,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) WILLIAM PORTO DVS9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
+*DATA:* *13/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 20015
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -3744,13 +4374,20 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1559,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) REGINALDO MACHADO FUU4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 500*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *22/04/2026*
+*Tipo:* *RECUSA DE CARGA*
+*Pontuação prevista em contrato:* *3* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE CARGA*, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos. Sendo está, uma ocorrência *GRAVE*.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1560,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) SERGIO CARLOS OQI9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3788,6 +4425,27 @@ Ocorrências registradas:
 Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+1567,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) GUSTAVO PEREIRA OVL2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 9 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+*DATA DA OCORRÊNCIA: 11/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 12/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 15/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1568,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) GABRIEL LEMOS QOE8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
@@ -3813,7 +4471,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1574,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MATEUS JUNIOR BAC3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5 ponto(s)*
+*Pontuação atual: 8 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -3847,6 +4505,10 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 *DATA DA OCORRÊNCIA: 17/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1577,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ALEXANDRE DME5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3863,7 +4525,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1579,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) PAULO SILVA AMR2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Pontuação atual: 1,5 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -3882,13 +4544,21 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 10:30
+Horário de chegada: 10:45
+Tempo de atraso: 00:15
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1583,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) KAUE BECCO SIZ2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 0*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 150*
 
 Ocorrências registradas:
 
@@ -3916,6 +4586,15 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Horário solicitado: 11:00
 Horário de chegada: 11:21
 Tempo de atraso: 00:21
+-------------------------------------------------------------------
+*DATA:* *17/04/2026*
+*Tipo:* *RECUSA DE CARGA*
+*Pontuação prevista em contrato:* *3* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE CARGA*, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos. Sendo está, uma ocorrência *GRAVE*.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1585,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) FERNANDO SILVA BTZ9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -3988,13 +4667,23 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1603,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) JUSSARA FPQ0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 93,6*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *13/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *93,60*
+
+Entrega: 22919
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1605,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) JOSÉ SOUSA ETV4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4103,9 +4792,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1620,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ADEMIR MORAES DWI0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 66*
 
 Ocorrências registradas:
 
@@ -4123,6 +4812,21 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: SD0115
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 13:36 - 15:30
+*Horário entregue pela transportadora:* 13:13
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1624,2026.04.2Q,ERROS 2/ABRIL,"Olá ROBSON FREITAS DPL5*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4181,9 +4885,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1630,2026.04.2Q,ERROS 2/ABRIL,"Olá CHARLES QPF4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2,5 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3,5 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
@@ -4223,12 +4927,27 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 21527
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 10:06 - 12:00
+*Horário entregue pela transportadora:* 09:58
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1632,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) JEAN TRINDADE QID8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 8 ponto(s)*
+*Pontuação atual: 14 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -4267,6 +4986,21 @@ Entrega:
 A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1637,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) GENILSON CDR7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4299,13 +5033,15 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1640,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ERNESTO DWS0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1641,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) SUZANA DII9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4345,8 +5081,8 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1644,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) REINALDO PINHEIRO RUH8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -4360,6 +5096,10 @@ Horário de chegada: 06:27
 Tempo de atraso: 00:27
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -4410,18 +5150,24 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1653,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) CARLOS ALBERTO DHO4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 08:00
+Horário de chegada: 08:21
+Tempo de atraso: 00:21
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1662,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LEO SILVA HOJ7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4,5 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -4440,6 +5186,19 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *17/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1664,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ALBERTO SILVA RMQ1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4466,9 +5225,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1667,2026.04.2Q,ERROS 2/ABRIL,"Olá WALTER RAMOS FSA1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
@@ -4487,13 +5246,25 @@ Tempo de atraso: 00:19
 Horário solicitado: 07:00
 Horário de chegada: 09:19
 Tempo de atraso: 02:19
+-------------------------------------------------------------------
+*DATA:* *22/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1669,2026.04.2Q,ERROS 2/ABRIL,"Olá (W) REGINALDO PEREIRA FLD3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 50*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 150*
 
 Ocorrências registradas:
 
@@ -4511,6 +5282,23 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 3ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 05:30
+Horário de chegada: 05:52
+Tempo de atraso: 00:22
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1670,2026.04.2Q,ERROS 2/ABRIL,"Olá WILLAN FII1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4567,7 +5355,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1674,2026.04.2Q,ERROS 2/ABRIL,"Olá ADEMILSON RTH3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Pontuação atual: 1,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -4588,37 +5376,32 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Horário solicitado: 06:00
 Horário de chegada: 06:27
 Tempo de atraso: 00:27
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 05:30
+Horário de chegada: 05:56
+Tempo de atraso: 00:26
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1676,2026.04.2Q,ERROS 2/ABRIL,"Olá RP - APARECIDA FJO0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *14/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *16,00*
-
-Entrega: 30717
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 10:30 - 14:30
-*Horário entregue pela transportadora:* 10:27
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1677,2026.04.2Q,ERROS 2/ABRIL,"Olá WESLEY SINÉZIO FIK4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 16*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 116*
 
 Ocorrências registradas:
 
@@ -4640,6 +5423,36 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 *DATA DA OCORRÊNCIA: 17/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 21333
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 14:00 - 18:00
+*Horário entregue pela transportadora:* 13:17
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 21334
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 14:00 - 18:00
+*Horário entregue pela transportadora:* 13:28
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1678,2026.04.2Q,ERROS 2/ABRIL,"Olá MARCO LOJINHA FPL5*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4663,6 +5476,17 @@ Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+1682,2026.04.2Q,ERROS 2/ABRIL,"Olá FERNANDO FELIX EJH4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+Sem ocorrências nesta quinzena.
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1683,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) EDUARDO LINO GAV3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
@@ -4682,8 +5506,8 @@ Tempo de atraso: 00:16
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1684,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) JOÃO BISPO ANR9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1,5 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 7,5 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -4710,12 +5534,20 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Horário solicitado: 06:00
 Horário de chegada: 13:41
 Tempo de atraso: 07:41
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1686,2026.04.2Q,ERROS 2/ABRIL,"Olá HELOISE EMI4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 85*
 
 Ocorrências registradas:
@@ -4739,6 +5571,14 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Horário solicitado: 06:00
 Horário de chegada: 06:36
 Tempo de atraso: 00:36
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:00
+Horário de chegada: 07:00
+Tempo de atraso: 01:00
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1688,2026.04.2Q,ERROS 2/ABRIL,"Olá (W) JOSÉ ADELMO PUR6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4769,12 +5609,19 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1689,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) PAULO PLACIDINO SJD0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *21/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1690,2026.04.2Q,ERROS 2/ABRIL,"Olá FLAVIO LOJINHA DKU3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4790,13 +5637,15 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1691,2026.04.2Q,ERROS 2/ABRIL,"Olá ALEX LOJINHA FGX8*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1692,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) RAMON DZX0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4855,30 +5704,49 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1699,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ANDRE MORAES DUX7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1701,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MARCELO SILVA FNE4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 16*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 21896
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 12:30 - 16:30
+*Horário entregue pela transportadora:* 12:11
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1702,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) RAPHAEL GOMES ARO7#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -4898,6 +5766,18 @@ Tempo de atraso: 00:28
 Horário solicitado: 06:00
 Horário de chegada: 06:11
 Tempo de atraso: 00:11
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:40
+Horário de chegada: 07:06
+Tempo de atraso: 00:26
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1708,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) THIAGO CHAGAS FNZ6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -4982,13 +5862,23 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1716,2026.04.2Q,ERROS 2/ABRIL,"Olá RP - MARIA LOPES OQS3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 41*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *13/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *41,00*
+
+Entrega: 20892
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1717,2026.04.2Q,ERROS 2/ABRIL,"Olá CMP - LUIZ ANTÔNIO EST6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5026,13 +5916,23 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1723,2026.04.2Q,ERROS 2/ABRIL,"Olá ANTONIO SANTANA GCQ7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 49,26*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *17/04/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *49,26*
+
+Entrega: 60482
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1727,2026.04.2Q,ERROS 2/ABRIL,"Olá VALDEMIR LOJINHA FAO2*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5048,8 +5948,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1728,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) SILVANA GJC7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -5065,6 +5965,10 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1733,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) CLAUDIO MOREIRA RNS8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5108,19 +6012,32 @@ Tempo de atraso: 00:26
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1736,2026.04.2Q,ERROS 2/ABRIL,"Olá DIEGO COSTA RUD6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 21835
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 13:00 - 15:00
+*Horário entregue pela transportadora:* 12:45
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1737,2026.04.2Q,ERROS 2/ABRIL,"Olá (W) ROBSON INÁCIO FJL5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6,5 ponto(s)*
+*Pontuação atual: 9,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -5140,12 +6057,40 @@ Tempo de atraso: 00:19
 *DATA DA OCORRÊNCIA: 18/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+1741,2026.04.2Q,ERROS 2/ABRIL,"Olá (W) REGINALDO CARDOSO SHO6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 16*
+
+Ocorrências registradas:
+
+*DATA:* *17/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 62585
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 10:00 - 12:00
+*Horário entregue pela transportadora:* 08:40
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1748,2026.04.2Q,ERROS 2/ABRIL,"Olá DANILO SERAFIM RTR1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 9 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -5165,6 +6110,10 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1749,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) ALEX VANDERLEI FIA8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5273,13 +6222,26 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1756,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LEANDRO SANTOS RTM2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 16/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -5309,7 +6271,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1768,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) BRUNO HENRIQUE AOP7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 9 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -5324,6 +6286,10 @@ Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -5363,7 +6329,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1778,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) KAIQUE FONSECA EUX9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 12 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -5383,6 +6349,14 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1782,2026.04.2Q,ERROS 2/ABRIL,"Olá ANDREY ESP4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5528,8 +6502,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1791,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) KELLY EMO2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 100*
 
 Ocorrências registradas:
@@ -5545,6 +6519,10 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1792,2026.04.2Q,ERROS 2/ABRIL,"Olá GERALDO BISPO BBO2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5666,8 +6644,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1807,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) DENIS SANTOS AYC9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5,5 ponto(s)*
-*Desconto total: R$ 250*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
@@ -5707,6 +6685,14 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 *DATA DA OCORRÊNCIA: 16/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1808,2026.04.2Q,ERROS 2/ABRIL,"Olá RP - VALTER MELLO DFY5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5722,13 +6708,26 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1809,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) JOSE GOMES ESU7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 16*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 21130
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 19:00 - 22:00
+*Horário entregue pela transportadora:* 18:51
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1810,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) ALEXANDRE SILVA RHK7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -5872,9 +6871,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1825,2026.04.2Q,ERROS 2/ABRIL,"Olá ELBER SANTINI EEW9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 100*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -5889,17 +6888,40 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *200,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1827,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) MIGUEL GONÇALVES EKX0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 12 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
 *DATA DA OCORRÊNCIA: 18/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 19/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 20/04/2026*
+*Tipo: FALTA NÃO AVISADA*
+*Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 21/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 
@@ -5960,7 +6982,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1830,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) FABIANO POLIDELLI AUL8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
 *Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
@@ -5981,9 +7003,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1831,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) CAIQUE NOGUEIRA DIM8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 8 ponto(s)*
-*Desconto total: R$ 300*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 11 ponto(s)*
+*Desconto total: R$ 387,14*
 
 Ocorrências registradas:
 
@@ -6010,6 +7032,18 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *14/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *87,14*
+
+Entrega: 32498
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -6028,7 +7062,7 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1833,2026.04.2Q,ERROS 2/ABRIL,"Olá (Q) MARCELO LIMA OXD8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
 *Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
@@ -6068,7 +7102,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1835,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) ALLAN OLIVEIRA RTL4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
+*Pontuação atual: 3,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -6076,6 +7110,15 @@ Ocorrências registradas:
 *DATA DA OCORRÊNCIA: 12/04/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *17/04/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1836,2026.04.2Q,ERROS 2/ABRIL,"Olá (SMD) LUCIMAR EQM8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -6186,12 +7229,22 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1848,2026.04.2Q,ERROS 2/ABRIL,"Olá VINICIOS AUGUSTO DRK0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 86,67*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *10/04/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *86,67*
+
+Entrega: 60765
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1849,2026.04.2Q,ERROS 2/ABRIL,"Olá LUCAS QUERINO FDG7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
@@ -6215,8 +7268,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1850,2026.04.2Q,ERROS 2/ABRIL,"Olá FERNANDA RMD6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 1,5 ponto(s)*
-*Desconto total: R$ 16*
+*Pontuação atual: 0,5 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
@@ -6225,21 +7278,6 @@ Ocorrências registradas:
 *Pontuação prevista em contrato:* *0,5* ponto(s)
 
 A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
--------------------------------------------------------------------
-*DATA:* *17/04/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *16,00*
-
-Entrega: 62263
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 08:40 - 12:40
-*Horário entregue pela transportadora:* 08:37
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
@@ -6289,5 +7327,81 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 Ocorrências registradas:
 
 Sem ocorrências nesta quinzena.
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+2119,2026.04.2Q,ERROS 2/ABRIL,"Olá BRUNO COSTA DNQ0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+Sem ocorrências nesta quinzena.
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+2120,2026.04.2Q,ERROS 2/ABRIL,"Olá (S) MARCELO VITORINO PUC0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+Sem ocorrências nesta quinzena.
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida."
+2122,2026.04.2Q,ERROS 2/ABRIL,"Olá GUSTAVO HENRIQUE EPH5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE ABRIL*
+
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 116*
+
+Ocorrências registradas:
+
+*DATA:* *17/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *16,00*
+
+Entrega: 62168
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 08:30 - 12:30
+*Horário entregue pela transportadora:* 08:25
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 21665
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 10:00 - 12:00
+*Horário entregue pela transportadora:* 08:35
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/04/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: 21670
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 10:30 - 14:30
+*Horário entregue pela transportadora:* 09:27
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
