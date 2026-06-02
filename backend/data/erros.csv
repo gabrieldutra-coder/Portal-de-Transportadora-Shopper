@@ -73,26 +73,13 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 95,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ELISEU FJX9*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 16*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *18/05/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *16,00*
-
-Entrega: 22456
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 19:01 - 22:00
-*Horário entregue pela transportadora:* 09:29
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 130,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá DIEGO CUD4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
@@ -257,12 +244,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 326,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) CELIO SOARES LLF0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *11/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 11/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -281,12 +277,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 365,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá EDMAR FYR9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -400,12 +405,21 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 464,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ALEXSANDRO SERPA FKZ7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 25/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -436,8 +450,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 504,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) PEDRO OWW4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -456,6 +470,15 @@ Tempo de atraso: 00:12
 Horário solicitado: 10:30
 Horário de chegada: 10:41
 Tempo de atraso: 00:11
+-------------------------------------------------------------------
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 25/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -519,12 +542,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 539,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá JAIR EVQ7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -698,9 +730,9 @@ Tempo de atraso: 01:11
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 652,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá DANIEL FRANCISCO HLH5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -712,6 +744,15 @@ Horário solicitado: 06:00
 Horário de chegada: 06:16
 Tempo de atraso: 00:16
 -------------------------------------------------------------------
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -720,8 +761,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 660,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá RODRIGO NERY EEF5*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 238*
+*Pontuação atual: 9 ponto(s)*
+*Desconto total: R$ 388*
 
 Ocorrências registradas:
 
@@ -737,6 +778,15 @@ A entrega foi deixada na portaria sem autorização prévia do cliente ou do tim
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -744,9 +794,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 665,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá JOSE EDILSON FYI6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 200*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0,5 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
@@ -758,10 +808,6 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 13/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 674,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) CRISTIANO JOSE EGJ5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
@@ -789,14 +835,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 731,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (M) RP - LUIS FABIANO DOD9*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6,5 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12,5 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -857,7 +921,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 764,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá IZAIAS FMG2*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Pontuação atual: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -870,24 +934,25 @@ Ocorrências registradas:
 
 Entrega: 20233
 As etiquetas dos volumes foram reimpressas sem necessidade ou sem autorização prévia, gerando divergência na identificação dos pedidos.
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 24/05/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 06:00
-Horário de chegada: 06:32
-Tempo de atraso: 00:32
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 778,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá RENATA PGN3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -960,8 +1025,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 810,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ADRIANO MANOEL FKT3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4,5 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 7,5 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
@@ -983,6 +1048,15 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Horário solicitado: 05:30
 Horário de chegada: 05:50
 Tempo de atraso: 00:20
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1009,22 +1083,58 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 813,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá WELLINGTON SANTOS OVL6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 14 ponto(s)*
-*Desconto total: R$ 625*
+*Pontuação atual: 26 ponto(s)*
+*Desconto total: R$ 1225*
 
 Ocorrências registradas:
 
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1058,25 +1168,19 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 820,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ROBSON JOSE FFL3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Pontuação atual: 0 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA DA OCORRÊNCIA: 15/05/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 05:30
-Horário de chegada: 06:05
-Tempo de atraso: 00:35
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 828,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) MICHEL RMD2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6,5 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12,5 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
@@ -1089,9 +1193,27 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1115,9 +1237,14 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 15/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1512,22 +1639,31 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 995,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá CMP - WILLIAN TAVARES RFM3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5 ponto(s)*
-*Desconto total: R$ 241,5*
+*Pontuação atual: 8 ponto(s)*
+*Desconto total: R$ 375,5*
 
 Ocorrências registradas:
 
 *DATA:* *06/05/2026*
-*Tipo:* *VOLUME DIVERGENTE*
+*Tipo:* *AVARIA*
 *Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
-*Desconto gerado:* *91,50*
+*Desconto gerado:* *75,50*
 
 Entrega: 40402
-A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+O volume foi entregue com danos aparentes ou avarias, sem comunicação prévia ao time de acompanhamento.
 
 Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1596,12 +1732,21 @@ Tempo de atraso: 00:11
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1006,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) PAULO CAMPOS GBU6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -1627,8 +1772,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1023,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) LUCAS MIRANDA DPB7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 12 ponto(s)*
-*Desconto total: R$ 550*
+*Pontuação atual: 15 ponto(s)*
+*Desconto total: R$ 700*
 
 Ocorrências registradas:
 
@@ -1675,6 +1820,15 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 *Horário entregue pela transportadora:* 15:26
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1752,18 +1906,45 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1062,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) CARLOS GASPAR ITT4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 19 ponto(s)*
-*Desconto total: R$ 900*
+*Pontuação atual: 37 ponto(s)*
+*Desconto total: R$ 1800*
 
 Ocorrências registradas:
 
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1785,13 +1966,44 @@ Horário solicitado: 11:00
 Horário de chegada: 11:40
 Tempo de atraso: 00:40
 -------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1834,8 +2046,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1078,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) ALEX RODRIGUES EPK9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 15 ponto(s)*
-*Desconto total: R$ 700*
+*Pontuação atual: 27 ponto(s)*
+*Desconto total: R$ 1300*
 
 Ocorrências registradas:
 
@@ -1854,17 +2066,53 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -1907,8 +2155,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1096,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá HELBERT JOSÉ FMG3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -1927,6 +2175,15 @@ Tempo de atraso: 00:38
 Horário solicitado: 06:00
 Horário de chegada: 06:39
 Tempo de atraso: 00:39
+-------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -2193,8 +2450,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1139,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá VALDEIR GHH7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 11,5 ponto(s)*
-*Desconto total: R$ 600*
+*Pontuação atual: 20,5 ponto(s)*
+*Desconto total: R$ 1050*
 
 Ocorrências registradas:
 
@@ -2233,13 +2490,40 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -2248,20 +2532,12 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1145,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) DONIZETE RMK7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9,5 ponto(s)*
-*Desconto total: R$ 765,8*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 365,8*
 
 Ocorrências registradas:
 
-*DATA DA OCORRÊNCIA: 12/05/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 06:00
-Horário de chegada: 06:17
-Tempo de atraso: 00:17
--------------------------------------------------------------------
 *DATA:* *15/05/2026*
 *Tipo:* *PORTARIA INDEVIDA*
 *Classificação do erro:* *GRAVE*
@@ -2270,34 +2546,6 @@ Tempo de atraso: 00:17
 
 Entrega: 60857
 A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
-
-Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
--------------------------------------------------------------------
-*DATA:* *25/05/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *3* ponto(s)
-*Desconto gerado:* *200,00*
-
-Entrega: 20785
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 14:00 - 18:00
-*Horário entregue pela transportadora:* 13:23
-
-Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
--------------------------------------------------------------------
-*DATA:* *25/05/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *3* ponto(s)
-*Desconto gerado:* *200,00*
-
-Entrega: 20781
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 14:00 - 18:00
-*Horário entregue pela transportadora:* 13:32
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
@@ -2379,8 +2627,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1173,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) TIAGO CAMPOS QQS9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -2395,6 +2643,15 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -2425,11 +2682,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1181,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) BRUNO OLIVEIRA OVL0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 10 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *11/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 11/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -2481,12 +2747,21 @@ Tempo de atraso: 00:22
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1187,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá LUCIANO SILVA GFQ8*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *11/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 11/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -2503,8 +2778,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1188,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) NILTON CESAR CRK0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
@@ -2524,6 +2799,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -2566,8 +2850,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1215,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) BRENO PZN0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9,5 ponto(s)*
-*Desconto total: R$ 600*
+*Pontuação atual: 18,5 ponto(s)*
+*Desconto total: R$ 1050*
 
 Ocorrências registradas:
 
@@ -2579,13 +2863,40 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 25/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -2754,9 +3065,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1276,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá EVANGELINA DZJ5#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -2767,6 +3078,15 @@ Ocorrências registradas:
 Horário solicitado: 06:40
 Horário de chegada: 06:59
 Tempo de atraso: 00:19
+-------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -2993,8 +3313,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1322,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) ADALBERTO DXY2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7,5 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 13,5 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
@@ -3005,6 +3325,15 @@ Ocorrências registradas:
 Horário solicitado: 14:00
 Horário de chegada: 14:41
 Tempo de atraso: 00:41
+-------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3025,6 +3354,15 @@ Tempo de atraso: 00:28
 Horário solicitado: 14:00
 Horário de chegada: 14:21
 Tempo de atraso: 00:21
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3154,8 +3492,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1350,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) KAIQUE MATIAS PGI7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 350*
+*Pontuação atual: 9 ponto(s)*
+*Desconto total: R$ 500*
 
 Ocorrências registradas:
 
@@ -3172,6 +3510,15 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 *Horário entregue pela transportadora:* 10:25
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3192,30 +3539,88 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1355,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) JESUINO SYT6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 18 ponto(s)*
-*Desconto total: R$ 900*
+*Pontuação atual: 36 ponto(s)*
+*Desconto total: R$ 1800*
 
 Ocorrências registradas:
 
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3299,11 +3704,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1368,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá SILVIO BELEM MWF7#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -3515,8 +3929,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1385,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá CMP - WELLINGTON RVU3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -3535,6 +3949,15 @@ Tempo de atraso: 00:18
 Horário solicitado: 06:20
 Horário de chegada: 06:37
 Tempo de atraso: 00:17
+-------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3638,14 +4061,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1396,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) REGINALDO EUY9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 18,5 ponto(s)*
-*Desconto total: R$ 900*
+*Pontuação atual: 36,5 ponto(s)*
+*Desconto total: R$ 1800*
 
 Ocorrências registradas:
 
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3660,17 +4101,57 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3690,12 +4171,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1398,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) JOAO PAULO EPY9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -3733,18 +4223,45 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1402,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá THIAGO TELES ADL2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 12,5 ponto(s)*
-*Desconto total: R$ 600*
+*Pontuação atual: 24,5 ponto(s)*
+*Desconto total: R$ 1200*
 
 Ocorrências registradas:
 
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3757,6 +4274,15 @@ Ocorrências registradas:
 Horário solicitado: 06:40
 Horário de chegada: 07:06
 Tempo de atraso: 00:26
+-------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3783,32 +4309,59 @@ A transportadora não estava utilizando o uniforme adequado, em desacordo com o 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 21/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 22/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 23/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 24/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 25/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1405,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) LUCIO FLÁVIO DNS0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 9 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -3821,6 +4374,15 @@ A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE C
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -3829,26 +4391,73 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1406,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) LUIZ CARLOS EFY5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 16 ponto(s)*
-*Desconto total: R$ 766*
+*Pontuação atual: 31 ponto(s)*
+*Desconto total: R$ 1516*
 
 Ocorrências registradas:
 
+*DATA:* *11/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 11/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -3974,8 +4583,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1422,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) MATEUS NOGUEIRA FES1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 18 ponto(s)*
-*Desconto total: R$ 735,36*
+*Pontuação atual: 27 ponto(s)*
+*Desconto total: R$ 1185,36*
 
 Ocorrências registradas:
 
@@ -4001,6 +4610,15 @@ A transportadora apresentou divergência entre os volumes informados e os volume
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -4019,6 +4637,15 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4054,6 +4681,15 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -4072,12 +4708,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1434,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) ALERRANDRO FJN3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -4085,24 +4730,12 @@ Ocorrências registradas:
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1438,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá MARCOS RUFINO FZV6*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 12 ponto(s)*
-*Desconto total: R$ 650*
+*Classificação atual: D* - Bônus tabela no valor de R$ 5
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 200*
 
 Ocorrências registradas:
 
-*DATA DA OCORRÊNCIA: 16/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 24/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 24/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
--------------------------------------------------------------------
 *DATA:* *25/05/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
 *Classificação do erro:* *GRAVE*
@@ -4142,8 +4775,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1440,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) WESLLEY ALMEIDA FCB0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 8 ponto(s)*
-*Desconto total: R$ 350*
+*Pontuação atual: 11 ponto(s)*
+*Desconto total: R$ 500*
 
 Ocorrências registradas:
 
@@ -4170,6 +4803,15 @@ Tempo de atraso: 00:27
 Horário solicitado: 09:00
 Horário de chegada: 09:15
 Tempo de atraso: 00:15
+-------------------------------------------------------------------
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4245,12 +4887,21 @@ Tempo de atraso: 00:40
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1445,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) MARCOS NETO CFY1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 25/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -4259,11 +4910,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1446,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) SERGIO MAMEDIO FAE5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 21 ponto(s)*
-*Desconto total: R$ 1250*
+*Pontuação atual: 39 ponto(s)*
+*Desconto total: R$ 2150*
 
 Ocorrências registradas:
 
+*DATA:* *11/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 11/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -4276,21 +4936,70 @@ A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE C
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4360,8 +5069,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1453,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ANDRE MARTINS RTG3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 10 ponto(s)*
-*Desconto total: R$ 348*
+*Pontuação atual: 13 ponto(s)*
+*Desconto total: R$ 498*
 
 Ocorrências registradas:
 
@@ -4372,6 +5081,15 @@ Ocorrências registradas:
 Horário solicitado: 05:30
 Horário de chegada: 05:43
 Tempo de atraso: 00:13
+-------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4468,8 +5186,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1459,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) ANDRE LEITE EYA0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 15 ponto(s)*
-*Desconto total: R$ 1111,86*
+*Pontuação atual: 18 ponto(s)*
+*Desconto total: R$ 1261,86*
 
 Ocorrências registradas:
 
@@ -4498,6 +5216,15 @@ A entrega foi deixada na portaria sem autorização prévia do cliente ou do tim
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4574,9 +5301,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1467,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) RODRIGO SOARES FDL0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 200*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
@@ -4588,6 +5315,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4842,8 +5578,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1479,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá KAIQUE SAMUEL EPI1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 11 ponto(s)*
-*Desconto total: R$ 650*
+*Pontuação atual: 20 ponto(s)*
+*Desconto total: R$ 1100*
 
 Ocorrências registradas:
 
@@ -4869,13 +5605,40 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4885,8 +5648,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1480,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá SILAS CFY7*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9,5 ponto(s)*
-*Desconto total: R$ 320*
+*Pontuação atual: 15,5 ponto(s)*
+*Desconto total: R$ 620*
 
 Ocorrências registradas:
 
@@ -4922,6 +5685,15 @@ Horário solicitado: 04:00
 Horário de chegada: 04:12
 Tempo de atraso: 00:12
 -------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -4942,6 +5714,15 @@ Tempo de atraso: 00:12
 
 Entrega: 
 A transportadora apresentou perda de TAG, insumo disponibilizado para controle de chegada, em desacordo com os procedimentos operacionais estabelecidos.
+-------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -4966,36 +5747,32 @@ Tempo de atraso: 00:18
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1486,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) CLAUDIO ROBERTO DOR0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
-*Desconto total: R$ 50*
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *25/05/2026*
-*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *50,00*
-
-Entrega: SD0500
-A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
-
-*Restrição paga pelo cliente:* 17:00 - 22:00
-*Horário entregue pela transportadora:* 16:41
-
-Esta ocorrência corresponde à 2ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1487,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) LUCIANA UGU2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -5028,8 +5805,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1490,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) ANDRE CYPRIANO FBD5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -5050,6 +5827,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -5058,8 +5844,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1493,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá JOHNY CRU5*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 8,5 ponto(s)*
-*Desconto total: R$ 325*
+*Pontuação atual: 14,5 ponto(s)*
+*Desconto total: R$ 625*
 
 Ocorrências registradas:
 
@@ -5083,9 +5869,27 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -5189,12 +5993,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1512,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) MARCIO EDUARDO DPN7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -5405,8 +6218,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1556,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) WILLIAM PORTO DVS9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7,5 ponto(s)*
-*Desconto total: R$ 500*
+*Pontuação atual: 10,5 ponto(s)*
+*Desconto total: R$ 650*
 
 Ocorrências registradas:
 
@@ -5431,6 +6244,15 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 *Horário entregue pela transportadora:* 12:55
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -5558,8 +6380,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1570,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá PAULO HENRIQUE PZL7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 25 ponto(s)*
-*Desconto total: R$ 1200*
+*Pontuação atual: 49 ponto(s)*
+*Desconto total: R$ 2400*
 
 Ocorrências registradas:
 
@@ -5571,17 +6393,53 @@ Horário solicitado: 06:00
 Horário de chegada: 07:02
 Tempo de atraso: 01:02
 -------------------------------------------------------------------
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -5595,17 +6453,61 @@ Horário solicitado: 06:20
 Horário de chegada: 11:22
 Tempo de atraso: 05:02
 -------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -5662,11 +6564,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1574,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) MATEUS JUNIOR BAC3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -6052,8 +6963,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1624,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ROBSON FREITAS DPL5*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4,5 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -6065,6 +6976,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -6108,8 +7028,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1630,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá CHARLES QPF4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5,5 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 8,5 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
@@ -6133,6 +7053,15 @@ Horário solicitado: 06:00
 Horário de chegada: 06:55
 Tempo de atraso: 00:55
 -------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -6141,8 +7070,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1632,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) JEAN TRINDADE QID8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 15 ponto(s)*
-*Desconto total: R$ 900*
+*Pontuação atual: 18 ponto(s)*
+*Desconto total: R$ 1050*
 
 Ocorrências registradas:
 
@@ -6247,6 +7176,15 @@ Horário solicitado: 12:00
 Horário de chegada: 12:53
 Tempo de atraso: 00:53
 -------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -6265,12 +7203,21 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1637,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) GENILSON RNQ3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -6300,14 +7247,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1640,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) ERNESTO DWS0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -6353,8 +7318,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1644,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) REINALDO PINHEIRO RUH8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
@@ -6365,6 +7330,15 @@ Ocorrências registradas:
 Horário solicitado: 06:20
 Horário de chegada: 07:13
 Tempo de atraso: 00:53
+-------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -6527,8 +7501,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1667,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá WALTER RAMOS FSA1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 5 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 8 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -6539,6 +7513,15 @@ Ocorrências registradas:
 Horário solicitado: 06:00
 Horário de chegada: 06:18
 Tempo de atraso: 00:18
+-------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -6616,12 +7599,21 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1671,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ANDRE DONIZETE DKP1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -6796,9 +7788,9 @@ Tempo de atraso: 00:12
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1683,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) EDUARDO LINO GAV3, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -6809,6 +7801,15 @@ Ocorrências registradas:
 Horário solicitado: 10:00
 Horário de chegada: 10:47
 Tempo de atraso: 00:47
+-------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -6976,21 +7977,21 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 
 *Classificação atual: C* - Bônus tabela no valor de R$ 10
 *Pontuação atual: 2 ponto(s)*
-*Desconto total: R$ 70,6*
+*Desconto total: R$ 54,6*
 
 Ocorrências registradas:
 
 *DATA:* *14/05/2026*
-*Tipo:* *VOLUME DIVERGENTE*
+*Tipo:* *AVARIA*
 *Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *2* ponto(s)
-*Desconto gerado:* *70,60*
+*Desconto gerado:* *54,60*
 
 Entrega: SD0220
-A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+O volume foi entregue com danos aparentes ou avarias, sem comunicação prévia ao time de acompanhamento.
 
 Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1701,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) MARCELO SILVA FNE4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
@@ -7236,8 +8237,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1737,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) ROBSON INÁCIO FJL5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 13 ponto(s)*
-*Desconto total: R$ 488,75*
+*Pontuação atual: 19 ponto(s)*
+*Desconto total: R$ 788,75*
 
 Ocorrências registradas:
 
@@ -7275,9 +8276,27 @@ A transportadora apresentou divergência entre os volumes informados e os volume
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -7287,14 +8306,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1741,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) REGINALDO CARDOSO SHO6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -7304,11 +8341,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1748,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá DANILO SERAFIM RTR1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7519,11 +8565,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1791,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) KELLY EMO2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 350*
 
 Ocorrências registradas:
 
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7563,12 +8618,21 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1799,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) GEFFERSON ANJOS CDR7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7644,11 +8708,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1806,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá SAMUEL AMORIM FNG0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6,5 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 9,5 ponto(s)*
+*Desconto total: R$ 450*
 
 Ocorrências registradas:
 
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7755,11 +8828,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1809,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) JOSE GOMES ESU7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 10 ponto(s)*
+*Desconto total: R$ 450*
 
 Ocorrências registradas:
 
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7803,14 +8885,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1811,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) GABRIEL MARTINS RFA1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -7870,8 +8970,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1820,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) FABIO SILVA RUG7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9 ponto(s)*
-*Desconto total: R$ 500*
+*Pontuação atual: 15 ponto(s)*
+*Desconto total: R$ 800*
 
 Ocorrências registradas:
 
@@ -7889,9 +8989,27 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -7900,12 +9018,21 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1821,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) SAMUEL RAMOS RTS1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7914,11 +9041,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1825,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ELBER SANTINI EEW9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7 ponto(s)*
-*Desconto total: R$ 350*
+*Pontuação atual: 13 ponto(s)*
+*Desconto total: R$ 650*
 
 Ocorrências registradas:
 
+*DATA:* *15/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 15/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -7933,6 +9069,15 @@ Entrega:
 A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *24/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 24/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -7991,7 +9136,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1833,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) MARCELO LIMA OXD8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 16 ponto(s)*
+*Pontuação atual: 15 ponto(s)*
 *Desconto total: R$ 1350*
 
 Ocorrências registradas:
@@ -8014,9 +9159,14 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 Entrega: 
 A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
 -------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 18/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA:* *19/05/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
@@ -8029,18 +9179,6 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 200 REAIS*.
--------------------------------------------------------------------
-*DATA:* *21/05/2026*
-*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
-*Classificação do erro:* *MÉDIO*
-*Pontuação prevista em contrato:* *1* ponto(s)
-*Desconto gerado:* *0,00*
-
-Entrega: 
-A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
-
-Esta ocorrência corresponde à 1ª reincidência.
-Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
 -------------------------------------------------------------------
 *DATA:* *25/05/2026*
 *Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
@@ -8071,11 +9209,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1835,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (SMD) ALLAN OLIVEIRA RTL4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 16,5 ponto(s)*
-*Desconto total: R$ 850*
+*Pontuação atual: 22,5 ponto(s)*
+*Desconto total: R$ 1150*
 
 Ocorrências registradas:
 
+*DATA:* *11/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 11/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8096,6 +9243,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8210,8 +9366,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 1843,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) ELISANGELA ALVARADO GEV6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 16 ponto(s)*
-*Desconto total: R$ 525,77*
+*Pontuação atual: 19 ponto(s)*
+*Desconto total: R$ 675,77*
 
 Ocorrências registradas:
 
@@ -8280,6 +9436,15 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8423,9 +9588,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2122,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá GUSTAVO HENRIQUE EPH5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -8440,6 +9605,15 @@ O volume foi entregue com danos aparentes ou avarias, sem comunicação prévia 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8459,9 +9633,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2127,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) LEONARDO JUNIOR FBO7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -8474,6 +9648,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8482,8 +9665,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2129,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) JEFFERSON ALVES IVS6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 8 ponto(s)*
-*Desconto total: R$ 367,62*
+*Pontuação atual: 14 ponto(s)*
+*Desconto total: R$ 667,62*
 
 Ocorrências registradas:
 
@@ -8499,9 +9682,27 @@ A transportadora apresentou divergência entre os volumes informados e os volume
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 -------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8521,9 +9722,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2143,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) MARCOS PAULO EEU9, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 175*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 25*
 
 Ocorrências registradas:
 
@@ -8538,20 +9739,25 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 24/05/2026*
-*Tipo: FALTA NÃO AVISADA*
-*Pontuação prevista em contrato: 3 pontos*
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2144,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) VINICIUS FREITAS EXB3#, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8625,11 +9831,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2157,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) JONAS CRUZ BVG7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 16 ponto(s)*
-*Desconto total: R$ 750*
+*Pontuação atual: 31 ponto(s)*
+*Desconto total: R$ 1500*
 
 Ocorrências registradas:
 
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8646,17 +9861,55 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *23/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 23/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 25/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8666,8 +9919,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2158,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) RIAN POPPI TLQ5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -8683,6 +9936,15 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8690,12 +9952,21 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2159,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) WASHINGTON RMP5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8704,14 +9975,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2162,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) FERNANDO AYRES OWW0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8731,12 +10020,21 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2168,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ADRIANA LOJINHA IWT3*, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *16/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 16/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8762,7 +10060,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2172,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) ANDRE LUIS RUS6, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
 *Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 25*
 
@@ -8783,9 +10081,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2174,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) IVISSON FAJ7, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 150*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -8798,6 +10096,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *17/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 17/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8805,7 +10112,7 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2175,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (W) ELIEZIO EQK5, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
 *Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 16*
 
@@ -8829,19 +10136,46 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2178,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá JULIO CESAR UGS2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 9 ponto(s)*
-*Desconto total: R$ 450*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 18 ponto(s)*
+*Desconto total: R$ 900*
 
 Ocorrências registradas:
 
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8862,8 +10196,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2180,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá GABRIEL RIBEIRO LUF2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -8878,6 +10212,15 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8898,11 +10241,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2182,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá MAYCON BRITO BLB4, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 7 ponto(s)*
-*Desconto total: R$ 316*
+*Pontuação atual: 13 ponto(s)*
+*Desconto total: R$ 616*
 
 Ocorrências registradas:
 
+*DATA:* *19/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 19/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8922,6 +10274,15 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *22/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 22/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -8930,8 +10291,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2185,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá KATIA IVS8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 15 ponto(s)*
-*Desconto total: R$ 600*
+*Pontuação atual: 27 ponto(s)*
+*Desconto total: R$ 1200*
 
 Ocorrências registradas:
 
@@ -8944,17 +10305,53 @@ A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE C
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 -------------------------------------------------------------------
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *14/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 14/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
 -------------------------------------------------------------------
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -8996,11 +10393,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2192,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá NEI FEITOSA TIS2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *12/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 12/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -9009,11 +10415,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2199,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá SERGIO AMORIM FKN0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -9044,11 +10459,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2205,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (Q) WESLEY CRUZ EEX8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *18/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 18/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -9057,11 +10481,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2206,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ROBERT SANTOS GEK1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *13/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 13/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -9070,14 +10503,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2208,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá (S) CARLOS SERAFIM RVB0, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -9165,14 +10616,32 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2214,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá ADRIANO DIAS RHJ2, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 12 ponto(s)*
+*Desconto total: R$ 600*
 
 Ocorrências registradas:
 
+*DATA:* *20/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 20/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
+-------------------------------------------------------------------
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
@@ -9217,11 +10686,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2218,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá EMERSON SANTANA Dkf8, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *25/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 25/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
@@ -9241,11 +10719,20 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida."
 2222,2026.05.2Q,DESCRITIVO ERROS - QUINZENA 2/MAIO,"Olá VITOR CUNHA FMG1, segue as ocorrências atuais da transportadora referente a *SEGUNDA QUINZENA DE MAIO*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
+*DATA:* *21/05/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *150,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 21/05/2026*
 *Tipo: FALTA NÃO AVISADA*
 *Pontuação prevista em contrato: 3 pontos*
