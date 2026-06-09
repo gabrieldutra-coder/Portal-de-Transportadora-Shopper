@@ -356,3 +356,53 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
 }
+
+/* ================= ABAS ATUAL / PRÓXIMO / SEMANAL / MENSAL ================= */
+
+.tipo-tabs {
+  display: flex;
+  gap: 8px;
+  width: 100%;
+}
+
+.wa-tipo-tab {
+  flex: 1;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--wa-sub);
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.wa-tipo-tab.wa-tipo-tab--active {
+  background: rgba(0, 168, 132, 0.18);
+  border-color: rgba(0, 168, 132, 0.45);
+  color: var(--wa-btn);
+}
+
+.wa-tipo-tab:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--wa-text);
+}
+
+.wa-tipo-tab.wa-tipo-tab--active:hover {
+  background: rgba(0, 168, 132, 0.25);
+}
+
+.wa-tipo-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.wa-tipo-tab-data {
+  font-size: 11px;
+  font-weight: 400;
+  opacity: 0.75;
+  letter-spacing: 0.3px;
+}

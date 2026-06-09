@@ -19,6 +19,7 @@ let demosPorLogin = {};
 let qualidadePorLogin = {};
 let errosPorLogin = {};
 let cestasPorLogin = {};
+let datasPagamento = {};
 
 function parseCsvFileSafe(filePath) {
   try {
@@ -40,12 +41,14 @@ function carregarCSVs() {
   const qualidadePath = path.join(__dirname, "data", "qualidade.csv");
   const errosPath = path.join(__dirname, "data", "erros.csv");
   const cestasPath = path.join(__dirname, "data", "cestas.csv");
+  const datasPath = path.join(__dirname, "data", "datas_pagamento.csv");
 
   const usuarios = parseCsvFileSafe(usuariosPath);
   const demonstrativos = parseCsvFileSafe(demosPath);
   const qualidade = parseCsvFileSafe(qualidadePath);
   const erros = parseCsvFileSafe(errosPath);
   const cestas = parseCsvFileSafe(cestasPath);
+  const datasRows = parseCsvFileSafe(datasPath);
 
   usuariosPorLogin = {};
   for (const u of usuarios) {
@@ -66,6 +69,7 @@ function carregarCSVs() {
       periodo: String(d.PERIODO || "").trim(),
       titulo: String(d.TITULO || "").trim(),
       mensagem: d.MENSAGEM ?? "",
+      tipo: String(d.TIPO || "").trim().toUpperCase(),
     });
   }
   for (const login of Object.keys(demosPorLogin)) {
@@ -76,31 +80,20 @@ function carregarCSVs() {
   for (const q of qualidade) {
     const login = String(q.LOGIN || "").trim();
     const periodo = String(q.PERIODO || "").trim();
-    const id = String(q.ID ?? "").trim() || "1";
-    const imagemUrl = String(q.IMAGEM_URL ?? q.IMAGEM ?? q.IMAGEMURL ?? "").trim();
     if (!login || !periodo) continue;
 
     const item = {
-      key: `${periodo}|${id}`,
       periodo,
-      id,
       titulo: String(q.TITULO || "").trim(),
       mensagem: q.MENSAGEM ?? "",
-      imagemUrl: imagemUrl || null,
+      tipo: String(q.TIPO || "").trim().toUpperCase(),
     };
 
     if (!qualidadePorLogin[login]) qualidadePorLogin[login] = [];
     qualidadePorLogin[login].push(item);
   }
   for (const login of Object.keys(qualidadePorLogin)) {
-    qualidadePorLogin[login].sort((a, b) => {
-      const p = b.periodo.localeCompare(a.periodo);
-      if (p !== 0) return p;
-      const ai = Number(a.id);
-      const bi = Number(b.id);
-      if (!Number.isNaN(ai) && !Number.isNaN(bi)) return bi - ai;
-      return String(b.id).localeCompare(String(a.id));
-    });
+    qualidadePorLogin[login].sort((a, b) => b.periodo.localeCompare(a.periodo));
   }
 
   errosPorLogin = {};
@@ -112,6 +105,7 @@ function carregarCSVs() {
       periodo: String(e.PERIODO || "").trim(),
       titulo: String(e.TITULO || "").trim(),
       mensagem: e.MENSAGEM ?? "",
+      tipo: String(e.TIPO || "").trim().toUpperCase(),
     });
   }
   for (const login of Object.keys(errosPorLogin)) {
@@ -127,10 +121,23 @@ function carregarCSVs() {
       periodo: String(c.PERIODO || "").trim(),
       titulo: String(c.TITULO || "").trim(),
       mensagem: c.MENSAGEM ?? "",
+      tipo: String(c.TIPO || "").trim().toUpperCase(),
     });
   }
   for (const login of Object.keys(cestasPorLogin)) {
     cestasPorLogin[login].sort((a, b) => b.periodo.localeCompare(a.periodo));
+  }
+
+  if (datasRows.length > 0) {
+    const row = datasRows[0];
+    datasPagamento = {
+      ATUAL:   String(row.ATUAL   || "").trim(),
+      PROXIMO: String(row.PROXIMO || "").trim(),
+      SEMANAL: String(row.SEMANAL || "").trim(),
+      MENSAL:  String(row.MENSAL  || "").trim(),
+    };
+  } else {
+    datasPagamento = {};
   }
 
   console.log("CSVs carregados ✅");
@@ -170,6 +177,7 @@ const storage = multer.diskStorage({
     if (url.includes("/qualidade")) return cb(null, "qualidade.csv");
     if (url.includes("/erros")) return cb(null, "erros.csv");
     if (url.includes("/cestas")) return cb(null, "cestas.csv");
+    if (url.includes("/datas-pagamento")) return cb(null, "datas_pagamento.csv");
     return cb(null, file.originalname);
   },
 });
@@ -213,19 +221,26 @@ app.post("/login", (req, res) => {
   return res.json({ ok: true, mensagem: "Login válido ✅", token });
 });
 
+app.get("/datas-pagamento", autenticarJWT, (req, res) => {
+  return res.json({ ok: true, datas: datasPagamento });
+});
+
 app.get("/periodos", autenticarJWT, (req, res) => {
-  const lista = demosPorLogin[req.login] || [];
+  let lista = demosPorLogin[req.login] || [];
+  const { tipo } = req.query;
+  if (tipo) lista = lista.filter((d) => d.tipo === tipo);
   const periodos = lista.map((d) => ({ periodo: d.periodo, titulo: d.titulo }));
   return res.json({ ok: true, periodos });
 });
 
 app.get("/demonstrativo", autenticarJWT, (req, res) => {
-  const lista = demosPorLogin[req.login] || [];
+  let lista = demosPorLogin[req.login] || [];
+  const { periodo, tipo } = req.query;
+  if (tipo) lista = lista.filter((d) => d.tipo === tipo);
   if (lista.length === 0) {
     return res.status(404).json({ ok: false, mensagem: "Nenhum demonstrativo encontrado." });
   }
 
-  const { periodo } = req.query;
   if (periodo) {
     const demo = lista.find((d) => d.periodo === periodo);
     if (!demo) {
@@ -239,7 +254,7 @@ app.get("/demonstrativo", autenticarJWT, (req, res) => {
 
 app.get("/qualidade/periodos", autenticarJWT, (req, res) => {
   const lista = qualidadePorLogin[req.login] || [];
-  const periodos = lista.map((q) => ({ key: q.key, periodo: q.periodo, titulo: q.titulo }));
+  const periodos = lista.map((q) => ({ periodo: q.periodo, titulo: q.titulo }));
   return res.json({ ok: true, periodos });
 });
 
@@ -249,25 +264,7 @@ app.get("/qualidade", autenticarJWT, (req, res) => {
     return res.status(404).json({ ok: false, mensagem: "Nenhuma mensagem de qualidade encontrada." });
   }
 
-  const { key, periodo, id } = req.query;
-
-  if (key) {
-    const item = lista.find((q) => q.key === key);
-    if (!item) {
-      return res.status(404).json({ ok: false, mensagem: "Item de qualidade não encontrado." });
-    }
-    return res.json({ ok: true, qualidade: item });
-  }
-
-  if (periodo && id) {
-    const k = `${periodo}|${id}`;
-    const item = lista.find((q) => q.key === k);
-    if (!item) {
-      return res.status(404).json({ ok: false, mensagem: "Item de qualidade não encontrado." });
-    }
-    return res.json({ ok: true, qualidade: item });
-  }
-
+  const { periodo } = req.query;
   if (periodo) {
     const item = lista.find((q) => q.periodo === periodo);
     if (!item) {
@@ -280,18 +277,21 @@ app.get("/qualidade", autenticarJWT, (req, res) => {
 });
 
 app.get("/erros/periodos", autenticarJWT, (req, res) => {
-  const lista = errosPorLogin[req.login] || [];
+  let lista = errosPorLogin[req.login] || [];
+  const { tipo } = req.query;
+  if (tipo) lista = lista.filter((e) => e.tipo === tipo);
   const periodos = lista.map((e) => ({ periodo: e.periodo, titulo: e.titulo }));
   return res.json({ ok: true, periodos });
 });
 
 app.get("/erros", autenticarJWT, (req, res) => {
-  const lista = errosPorLogin[req.login] || [];
+  let lista = errosPorLogin[req.login] || [];
+  const { periodo, tipo } = req.query;
+  if (tipo) lista = lista.filter((e) => e.tipo === tipo);
   if (lista.length === 0) {
     return res.status(404).json({ ok: false, mensagem: "Nenhum registro de erros encontrado." });
   }
 
-  const { periodo } = req.query;
   if (periodo) {
     const item = lista.find((e) => e.periodo === periodo);
     if (!item) {
@@ -304,18 +304,21 @@ app.get("/erros", autenticarJWT, (req, res) => {
 });
 
 app.get("/cestas/periodos", autenticarJWT, (req, res) => {
-  const lista = cestasPorLogin[req.login] || [];
+  let lista = cestasPorLogin[req.login] || [];
+  const { tipo } = req.query;
+  if (tipo) lista = lista.filter((c) => c.tipo === tipo);
   const periodos = lista.map((c) => ({ periodo: c.periodo, titulo: c.titulo }));
   return res.json({ ok: true, periodos });
 });
 
 app.get("/cestas", autenticarJWT, (req, res) => {
-  const lista = cestasPorLogin[req.login] || [];
+  let lista = cestasPorLogin[req.login] || [];
+  const { periodo, tipo } = req.query;
+  if (tipo) lista = lista.filter((c) => c.tipo === tipo);
   if (lista.length === 0) {
     return res.status(404).json({ ok: false, mensagem: "Nenhum registro de cestas encontrado." });
   }
 
-  const { periodo } = req.query;
   if (periodo) {
     const item = lista.find((c) => c.periodo === periodo);
     if (!item) {

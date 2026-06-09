@@ -41,19 +41,74 @@ const logoutBtn = document.getElementById("logoutBtn");
 const waNameEl = document.getElementById("waName");
 const waTimeEl = document.getElementById("waTime");
 
+const tipoTabsEl = document.getElementById("tipoTabs");
+const btnTipo1 = document.getElementById("btnTipo1");
+const btnTipo2 = document.getElementById("btnTipo2");
+
 if (waNameEl) waNameEl.innerText = login;
 
 // ================== ESTADO ==================
 let setorAtual = null; // demo | qualidade | cestas | erros
+let tipoAtual = null;  // ATUAL | PROXIMO | SEMANAL | MENSAL
+let datasPagamento = {};
+
+// ================== DATAS DE PAGAMENTO ==================
+async function carregarDatasPagamento() {
+  try {
+    const resp = await fetch(`${API_BASE}/datas-pagamento`, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
+    if (!resp.ok) return;
+    const dados = await resp.json().catch(() => ({}));
+    if (dados.ok && dados.datas) datasPagamento = dados.datas;
+  } catch {}
+}
+
+// ================== TIPOS POR SETOR ==================
+function tiposDoSetor(setor) {
+  if (setor === "cestas") {
+    return { t1: "SEMANAL", t2: "MENSAL", label1: "SEMANAL", label2: "MENSAL" };
+  }
+  return { t1: "ATUAL", t2: "PROXIMO", label1: "ATUAL", label2: "PRÓXIMO" };
+}
+
+function atualizarTabs() {
+  if (!setorAtual || setorAtual === "qualidade") {
+    tipoTabsEl.style.display = "none";
+    tipoAtual = null;
+    return;
+  }
+
+  const tipos = tiposDoSetor(setorAtual);
+  btnTipo1.dataset.tipo = tipos.t1;
+  btnTipo2.dataset.tipo = tipos.t2;
+
+  const mostrarData = setorAtual !== "cestas";
+  const data1 = mostrarData ? (datasPagamento[tipos.t1] || "") : "";
+  const data2 = mostrarData ? (datasPagamento[tipos.t2] || "") : "";
+
+  btnTipo1.innerHTML = data1
+    ? `${tipos.label1}<span class="wa-tipo-tab-data">Pagamento em: ${data1}</span>`
+    : tipos.label1;
+  btnTipo2.innerHTML = data2
+    ? `${tipos.label2}<span class="wa-tipo-tab-data">Pagamento em: ${data2}</span>`
+    : tipos.label2;
+
+  tipoAtual = tipos.t1;
+  btnTipo1.classList.add("wa-tipo-tab--active");
+  btnTipo2.classList.remove("wa-tipo-tab--active");
+
+  tipoTabsEl.style.display = "flex";
+}
 
 // ================== PDF: LIMPEZA ==================
 function limparTextoParaPDF(texto) {
   if (!texto) return "";
 
   let t = texto.normalize("NFKC");
-  t = t.replace(/[\u0000-\u0008\u000Bzu000C\u000E-\u001F\u007F]/g, "");
-  t = t.replace(/\uFFFD/g, "");
-  t = t.replace(/[^\x09\x0A\x0D\x20-\x7EÀ-ÿ•–—…°ºª€]/g, "");
+  t = t.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, "");
+  t = t.replace(/�/g, "");
+  t = t.replace(/[^\x09\x0A\x0D\x20-\x7E\xC0-\xFF•–—…\xB0\xBA\xAA€]/g, "");
   t = t.replace(/\n{4,}/g, "\n\n\n");
 
   return t;
@@ -247,9 +302,12 @@ async function carregarPeriodos() {
   selectEl.disabled = true;
 
   const { periodos: periodosUrl } = endpointsDoSetor();
+  const url = tipoAtual
+    ? `${periodosUrl}?tipo=${encodeURIComponent(tipoAtual)}`
+    : periodosUrl;
 
   try {
-    const resp = await fetch(periodosUrl, {
+    const resp = await fetch(url, {
       headers: { Authorization: `Bearer ${token}` },
     });
 
@@ -272,7 +330,7 @@ async function carregarPeriodos() {
 
     dados.periodos.forEach((p, index) => {
       const opt = document.createElement("option");
-      opt.value = setorAtual === "qualidade" ? (p.key || "") : (p.periodo || "");
+      opt.value = p.periodo || "";
       opt.textContent = `${p.periodo} - ${p.titulo}`;
       if (index === 0) opt.selected = true;
       selectEl.appendChild(opt);
@@ -292,8 +350,9 @@ async function carregarItem(valorSelect) {
   limparMidia();
 
   const { item: itemUrl } = endpointsDoSetor();
-  const param = setorAtual === "qualidade" ? "key" : "periodo";
-  const url = `${itemUrl}?${param}=${encodeURIComponent(valorSelect || "")}`;
+  const param = "periodo";
+  let url = `${itemUrl}?${param}=${encodeURIComponent(valorSelect || "")}`;
+  if (tipoAtual) url += `&tipo=${encodeURIComponent(tipoAtual)}`;
 
   try {
     const resp = await fetch(url, {
@@ -339,9 +398,6 @@ async function carregarItem(valorSelect) {
     msgEl.innerHTML = linkificarTexto(payload.mensagem || "");
     setHoraWhatsAppAgora();
 
-    if (setorAtual === "qualidade" && payload.imagemUrl) {
-      mostrarImagem(payload.imagemUrl);
-    }
   } catch (err) {
     console.error("Erro carregarItem:", err);
     mostrarSemConteudo(setorAtual);
@@ -359,8 +415,26 @@ setorSelect?.addEventListener("change", () => {
   setorAtual = setorSelect.value || null;
   if (!setorAtual) {
     mostrarEstadoInicial();
+    atualizarTabs();
     return;
   }
+  atualizarTabs();
+  carregarPeriodos();
+});
+
+btnTipo1.addEventListener("click", () => {
+  if (tipoAtual === btnTipo1.dataset.tipo) return;
+  tipoAtual = btnTipo1.dataset.tipo;
+  btnTipo1.classList.add("wa-tipo-tab--active");
+  btnTipo2.classList.remove("wa-tipo-tab--active");
+  carregarPeriodos();
+});
+
+btnTipo2.addEventListener("click", () => {
+  if (tipoAtual === btnTipo2.dataset.tipo) return;
+  tipoAtual = btnTipo2.dataset.tipo;
+  btnTipo2.classList.add("wa-tipo-tab--active");
+  btnTipo1.classList.remove("wa-tipo-tab--active");
   carregarPeriodos();
 });
 
@@ -424,4 +498,5 @@ logoutBtn.addEventListener("click", () => {
 });
 
 // ================== INIT ==================
+carregarDatasPagamento();
 mostrarEstadoInicial();
