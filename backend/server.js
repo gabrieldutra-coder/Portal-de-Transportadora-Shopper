@@ -41,7 +41,7 @@ function carregarCSVs() {
   const qualidadePath = path.join(__dirname, "data", "qualidade.csv");
   const errosPath = path.join(__dirname, "data", "erros.csv");
   const cestasPath = path.join(__dirname, "data", "cestas.csv");
-  const datasPath = path.join(__dirname, "data", "datas_pagamento.csv");
+  const datasPath = path.join(__dirname, "data", "DATAS_PAGAMENTO.csv");
 
   const usuarios = parseCsvFileSafe(usuariosPath);
   const demonstrativos = parseCsvFileSafe(demosPath);
