@@ -209,7 +209,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 159,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) VANDERLEI FIORINO ATT3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
+*Pontuação atual: 4,5 ponto(s)*
 *Desconto total: R$ 150*
 
 Ocorrências registradas:
@@ -222,6 +222,15 @@ Ocorrências registradas:
 
 Entrega: 
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA:* *09/06/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
 *DATA:* *10/06/2026*
 *Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
@@ -378,7 +387,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 366,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (S) LEVI ARS9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -391,13 +400,22 @@ Ocorrências registradas:
 
 Entrega: 
 Foi registrado um resgate não realizado pela transportadora, notificado pela equipe de acompanhamento, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 388,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá EDSON DRE5*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
-*Desconto total: R$ 300*
+*Pontuação atual: 8 ponto(s)*
+*Desconto total: R$ 336,923076923077*
 
 Ocorrências registradas:
 
@@ -409,6 +427,18 @@ Ocorrências registradas:
 
 Entrega: 
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA:* *05/06/2026*
+*Tipo:* *AVARIA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *36,92*
+
+Entrega: 61319
+O volume foi entregue com danos aparentes ou avarias, sem comunicação prévia ao time de acompanhamento.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
 *DATA:* *07/06/2026*
 *Tipo:* *FALTA*
@@ -451,8 +481,8 @@ Foi registrado um resgate não realizado pela transportadora, notificado pela eq
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 462,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá JACKSON SOUZA CUC0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1,5 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -480,6 +510,15 @@ Tempo de atraso: 00:24
 Horário solicitado: 06:40
 Horário de chegada: 07:01
 Tempo de atraso: 00:21
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *RECUSA DE CARGA*
+*Pontuação prevista em contrato:* *3* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE CARGA*, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos. Sendo está, uma ocorrência *GRAVE*.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 464,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá ALEXSANDRO SERPA FKZ7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -1280,8 +1319,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 843,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá CELSO RICARDO PXA1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1,5 ponto(s)*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1309,6 +1348,14 @@ Tempo de atraso: 00:28
 Horário solicitado: 06:00
 Horário de chegada: 06:11
 Tempo de atraso: 00:11
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:00
+Horário de chegada: 06:12
+Tempo de atraso: 00:12
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 847,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá RICARDO SANTOS EBF6*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -1424,7 +1471,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 922,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (S) PAULO ROBERTO RUH0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 7 ponto(s)*
+*Pontuação atual: 7,5 ponto(s)*
 *Desconto total: R$ 285,65*
 
 Ocorrências registradas:
@@ -1465,6 +1512,14 @@ Tempo de atraso: 00:26
 Horário solicitado: 06:20
 Horário de chegada: 08:15
 Tempo de atraso: 01:55
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:00
+Horário de chegada: 06:44
+Tempo de atraso: 00:44
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 925,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) DIOGO PVD2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -1521,7 +1576,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 970,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá WILLIAN OWT0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
+*Pontuação atual: 2,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1557,6 +1612,14 @@ Tempo de atraso: 00:24
 Horário solicitado: 06:40
 Horário de chegada: 07:27
 Tempo de atraso: 00:47
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:00
+Horário de chegada: 06:23
+Tempo de atraso: 00:23
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 984,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) JONATAS LOPES QNY1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -1729,7 +1792,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1023,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) LUCAS MIRANDA DPB7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
+*Pontuação atual: 2,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -1761,6 +1824,14 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Horário solicitado: 09:00
 Horário de chegada: 09:11
 Tempo de atraso: 00:11
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 09:00
+Horário de chegada: 09:36
+Tempo de atraso: 00:36
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1026,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) GABRIEL CHAGAS JIH9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -2129,7 +2200,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1088,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (W) WAGNER DUARTE KKS1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
+*Pontuação atual: 3 ponto(s)*
 *Desconto total: R$ 238,01*
 
 Ocorrências registradas:
@@ -2145,14 +2216,6 @@ A entrega foi deixada na portaria sem autorização prévia do cliente ou do tim
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
--------------------------------------------------------------------
-*DATA DA OCORRÊNCIA: 01/06/2026*
-*Tipo: ATRASO*
-*Pontuação prevista em contrato: 0,5 ponto*
-
-Horário solicitado: 05:30
-Horário de chegada: 06:06
-Tempo de atraso: 00:36
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1096,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá HELBERT JOSÉ FMG3*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -3376,9 +3439,9 @@ Tempo de atraso: 00:13
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1322,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) ADALBERTO DXY2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 137*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4,5 ponto(s)*
+*Desconto total: R$ 187*
 
 Ocorrências registradas:
 
@@ -3417,6 +3480,21 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: SD0196
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 18:00 - 20:00
+*Horário entregue pela transportadora:* 17:32
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1326,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) ELIAS LEANDRO FWE6, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -3687,9 +3765,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1367,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá FABIO GIACON DNT1#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 271,23*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 6,5 ponto(s)*
+*Desconto total: R$ 638,372857142857*
 
 Ocorrências registradas:
 
@@ -3704,6 +3782,17 @@ A entrega foi deixada na portaria sem autorização prévia do cliente ou do tim
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *03/06/2026*
+*Tipo:* *PORTARIA INDEVIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *367,14*
+
+Entrega: 41547
+A entrega foi deixada na portaria sem autorização prévia do cliente ou do time de acompanhamento, descumprindo o procedimento de entrega segura.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
 *DATA:* *05/06/2026*
 *Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
@@ -3746,8 +3835,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1373,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) VITOR CARVALHO OTN9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 277,466444444444*
 
 Ocorrências registradas:
 
@@ -3775,6 +3864,18 @@ A transportadora não compareceu na data agendada para o carregamento, sendo a o
 Horário solicitado: 08:30
 Horário de chegada: 08:56
 Tempo de atraso: 00:26
+-------------------------------------------------------------------
+*DATA:* *07/06/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *127,47*
+
+Entrega: SD0463
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1374,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) EVANGELISTA FSY9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -3952,8 +4053,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1386,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá RP - REGIANE FMP1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 200*
+*Pontuação atual: 4,5 ponto(s)*
+*Desconto total: R$ 250*
 
 Ocorrências registradas:
 
@@ -3976,6 +4077,15 @@ Entrega:
 A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
 
 Esta ocorrência corresponde à 3ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
@@ -4227,8 +4337,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1413,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) ELIEL PGS8, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1,5 ponto(s)*
+*Classificação atual: C* - Bônus tabela no valor de R$ 10
+*Pontuação atual: 2 ponto(s)*
 *Desconto total: R$ 16*
 
 Ocorrências registradas:
@@ -4255,6 +4365,14 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 13:00
+Horário de chegada: 13:12
+Tempo de atraso: 00:12
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1416,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) GUI MARIANO RKQ0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -4366,6 +4484,15 @@ A entrega foi deixada na portaria sem autorização prévia do cliente ou do tim
 
 Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 350 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *08/06/2026*
+*Tipo:* *RECUSA DE RESGATE*
+*Classificação do erro:* *LEVE*
+*Pontuação prevista em contrato:* *0* ponto(s)
+*Desconto gerado:* *ANALISAR*
+
+Entrega: 
+Foi registrado um resgate não realizado pela transportadora, notificado pela equipe de acompanhamento, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1438,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá MARCOS RUFINO FZV6*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -4531,12 +4658,18 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1449,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) RAUL CESAR EQM0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
+*Pontuação atual: 0,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 08:30
+Horário de chegada: 08:42
+Tempo de atraso: 00:12
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1453,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá ANDRE MARTINS RTG3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -4817,8 +4950,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1474,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá RP - BRENO RICHARD MLD8, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 13,5 ponto(s)*
-*Desconto total: R$ 489,41*
+*Pontuação atual: 14 ponto(s)*
+*Desconto total: R$ 539,41*
 
 Ocorrências registradas:
 
@@ -4903,12 +5036,21 @@ A transportadora não compareceu na data agendada para o carregamento, sendo a o
 
 Entrega: 
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 3ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1479,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá KAIQUE SAMUEL EPI1, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 6,5 ponto(s)*
 *Desconto total: R$ 300*
 
 Ocorrências registradas:
@@ -4932,6 +5074,14 @@ Entrega:
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:20
+Horário de chegada: 07:36
+Tempo de atraso: 01:16
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1486,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) CLAUDIO ROBERTO DOR0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -5010,8 +5160,8 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1499,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) RP - MARIA ROSIANE SWS0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0,5 ponto(s)*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -5023,6 +5173,14 @@ Ocorrências registradas:
 Horário solicitado: 08:30
 Horário de chegada: 08:48
 Tempo de atraso: 00:18
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 08:30
+Horário de chegada: 08:41
+Tempo de atraso: 00:11
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1503,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (S) IGOR AVELINO QUC4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -5505,7 +5663,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1574,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) MATEUS JUNIOR BAC3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4,5 ponto(s)*
+*Pontuação atual: 5 ponto(s)*
 *Desconto total: R$ 50*
 
 Ocorrências registradas:
@@ -5541,6 +5699,14 @@ Tempo de atraso: 00:18
 
 Entrega: 
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 10:30
+Horário de chegada: 10:46
+Tempo de atraso: 00:16
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1577,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) ALEXANDRE DME5, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -5557,7 +5723,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1579,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) PAULO SILVA AMR2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4,5 ponto(s)*
+*Pontuação atual: 7,5 ponto(s)*
 *Desconto total: R$ 150*
 
 Ocorrências registradas:
@@ -5595,13 +5761,25 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1583,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) KAUE BECCO SIZ2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 13,5 ponto(s)*
-*Desconto total: R$ 844,4*
+*Pontuação atual: 15,5 ponto(s)*
+*Desconto total: R$ 895,4*
 
 Ocorrências registradas:
 
@@ -5661,6 +5839,17 @@ A transportadora apresentou divergência entre os volumes informados e os volume
 
 Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 -------------------------------------------------------------------
+*DATA:* *04/06/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *51,00*
+
+Entrega: SD0228
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
 *DATA DA OCORRÊNCIA: 06/06/2026*
 *Tipo: ATRASO*
 *Pontuação prevista em contrato: 0,5 ponto*
@@ -5689,7 +5878,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1585,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) FERNANDO SILVA BTZ9, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 6 ponto(s)*
+*Pontuação atual: 6,5 ponto(s)*
 *Desconto total: R$ 150*
 
 Ocorrências registradas:
@@ -5750,13 +5939,21 @@ Tempo de atraso: 00:18
 Horário solicitado: 11:00
 Horário de chegada: 11:14
 Tempo de atraso: 00:14
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 11:00
+Horário de chegada: 11:43
+Tempo de atraso: 00:43
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1592,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá ANTONIO RODRIGUES DTB3#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3,5 ponto(s)*
-*Desconto total: R$ 50*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 5,5 ponto(s)*
+*Desconto total: R$ 126*
 
 Ocorrências registradas:
 
@@ -5773,6 +5970,18 @@ Devido à reincidência desta ocorrência, medidas administrativas serão tomada
 *Pontuação prevista em contrato:* *3* ponto(s)
 
 A transportadora apresentou prestação de serviço incompleta, por *RECUSA DE CARGA*, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos. Sendo está, uma ocorrência *GRAVE*.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *05/06/2026*
+*Tipo:* *POSTURA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *76,00*
+
+Entrega: 60727
+A transportadora apresentou conduta inadequada durante a entrega, descumprindo normas de comportamento ou apresentação exigidas.
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
@@ -5971,8 +6180,8 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1625,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá WELLINGTON APARECIDO DMN6#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: B* - Bônus tabela no valor de R$ 15
-*Pontuação atual: 1 ponto(s)*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
 *Desconto total: R$ 100*
 
 Ocorrências registradas:
@@ -5994,6 +6203,15 @@ A transportadora apresentou prestação de serviço incompleta, em desacordo com
 
 Esta ocorrência corresponde à 3ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1628,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) ALEXSANDRO TKN5, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -6548,8 +6766,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1669,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (W) REGINALDO PEREIRA FLD3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 3,5 ponto(s)*
+*Desconto total: R$ 300*
 
 Ocorrências registradas:
 
@@ -6561,6 +6779,14 @@ Ocorrências registradas:
 
 Entrega: 
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA:* *09/06/2026*
+*Tipo:* *PRESTAÇÃO DE SERVIÇO INCOMPLETA*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+
+A transportadora apresentou prestação de serviço incompleta, em desacordo com o contrato vigente e com os procedimentos operacionais estabelecidos.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1671,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá ANDRE DONIZETE DWO2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -6699,7 +6925,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1682,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá FERNANDO FELIX EJH4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4,5 ponto(s)*
+*Pontuação atual: 5 ponto(s)*
 *Desconto total: R$ 182*
 
 Ocorrências registradas:
@@ -6735,6 +6961,14 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 Horário solicitado: 05:30
 Horário de chegada: 05:41
 Tempo de atraso: 00:11
+-------------------------------------------------------------------
+*DATA DA OCORRÊNCIA: 10/06/2026*
+*Tipo: ATRASO*
+*Pontuação prevista em contrato: 0,5 ponto*
+
+Horário solicitado: 06:00
+Horário de chegada: 06:20
+Tempo de atraso: 00:20
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1683,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) EDUARDO LINO GAV3, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -6936,13 +7170,26 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1701,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) MARCELO SILVA FNE4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 0 ponto(s)*
-*Desconto total: R$ 0*
+*Classificação atual: B* - Bônus tabela no valor de R$ 15
+*Pontuação atual: 1 ponto(s)*
+*Desconto total: R$ 50*
 
 Ocorrências registradas:
 
-Sem ocorrências nesta quinzena.
+*DATA:* *10/06/2026*
+*Tipo:* *RESTRIÇÃO NÃO ATENDIDA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *1* ponto(s)
+*Desconto gerado:* *50,00*
+
+Entrega: SD0089
+A transportadora não respeitou a restrição de entrega informada, efetuando a entrega fora do período autorizado.
+
+*Restrição paga pelo cliente:* 12:00 - 14:00
+*Horário entregue pela transportadora:* 11:47
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 100 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1702,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá RAPHAEL GOMES ARO7#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -7589,7 +7836,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 1789,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) RODRIGO TENORIO DVA0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 10 ponto(s)*
+*Pontuação atual: 13 ponto(s)*
 *Desconto total: R$ 150*
 
 Ocorrências registradas:
@@ -7635,6 +7882,15 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1791,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (S) KELLY EMO2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -7932,9 +8188,9 @@ Sem ocorrências nesta quinzena.
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1817,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (Q) WELLINGTON ALVES FJH7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: C* - Bônus tabela no valor de R$ 10
-*Pontuação atual: 2 ponto(s)*
-*Desconto total: R$ 28,2*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 4 ponto(s)*
+*Desconto total: R$ 77,8125555555556*
 
 Ocorrências registradas:
 
@@ -7949,6 +8205,18 @@ O volume foi entregue com danos aparentes ou avarias, sem comunicação prévia 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *06/06/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *49,61*
+
+Entrega: 70146
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 1820,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (SMD) FABIO SILVA RUG7, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -8456,8 +8724,8 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2129,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (W) JEFFERSON ALVES IVS6, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 4 ponto(s)*
-*Desconto total: R$ 166*
+*Pontuação atual: 6 ponto(s)*
+*Desconto total: R$ 247*
 
 Ocorrências registradas:
 
@@ -8484,6 +8752,18 @@ A transportadora não respeitou a restrição de entrega informada, efetuando a 
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *07/06/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *81,00*
+
+Entrega: 10561
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 2142,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá BRUNO PEREIRA AZV8, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -8531,7 +8811,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2144,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (Q) VINICIUS FREITAS EXB3#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 9,5 ponto(s)*
+*Pontuação atual: 12,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -8618,6 +8898,15 @@ Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
 *DATA:* *09/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
 *Tipo:* *FALTA*
 *Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
@@ -8740,7 +9029,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2162,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (S) FERNANDO AYRES OWW0, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: E* - Bônus tabela no valor de R$ 0
-*Pontuação atual: 11 ponto(s)*
+*Pontuação atual: 14 ponto(s)*
 *Desconto total: R$ 175*
 
 Ocorrências registradas:
@@ -8788,6 +9077,17 @@ Entrega:
 A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 -------------------------------------------------------------------
 *DATA:* *09/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+
+Devido à reincidência desta ocorrência, medidas administrativas serão tomadas.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
 *Tipo:* *FALTA*
 *Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
@@ -8945,9 +9245,9 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 2182,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá MAYCON BRITO BLB4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
-*Classificação atual: D* - Bônus tabela no valor de R$ 5
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 99,34*
+*Classificação atual: E* - Bônus tabela no valor de R$ 0
+*Pontuação atual: 7 ponto(s)*
+*Desconto total: R$ 198,006666666667*
 
 Ocorrências registradas:
 
@@ -8986,6 +9286,30 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREI
 
 Entrega: 
 Foi registrado um resgate não realizado pela transportadora, notificado pela equipe de acompanhamento, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+-------------------------------------------------------------------
+*DATA:* *05/06/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *49,33*
+
+Entrega: 60818
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
+-------------------------------------------------------------------
+*DATA:* *05/06/2026*
+*Tipo:* *VOLUME DIVERGENTE*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *2* ponto(s)
+*Desconto gerado:* *49,33*
+
+Entrega: 60816
+A transportadora apresentou divergência entre os volumes informados e os volumes efetivamente entregues, resultando em entrega incorreta, incompleta ou com volumes trocados.
+
+Esta ocorrência corresponde à 2ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *TREINAMENTO*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 2189,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá MARCIO JOSÉ FRO2, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -9369,19 +9693,12 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2230,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá HENRIQUE PEDROSO QOT4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 3 ponto(s)*
-*Desconto total: R$ 150*
+*Pontuação atual: 0 ponto(s)*
+*Desconto total: R$ 0*
 
 Ocorrências registradas:
 
-*DATA:* *26/05/2026*
-*Tipo:* *FALTA*
-*Classificação do erro:* *GRAVE*
-*Pontuação prevista em contrato:* *3* ponto(s)
-*Desconto gerado:* *150,00*
-
-Entrega: 
-A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+Sem ocorrências nesta quinzena.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 2231,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá BETO ETU4*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -9451,7 +9768,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2233,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá ROGERIO BARBOSA CFY0*, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 1 ponto(s)*
+*Pontuação atual: 1,5 ponto(s)*
 *Desconto total: R$ 0*
 
 Ocorrências registradas:
@@ -9473,6 +9790,15 @@ Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULT
 *Classificação do erro:* *LEVE*
 *Pontuação prevista em contrato:* *0* ponto(s)
 *Desconto gerado:* *ANALISAR*
+
+Entrega: 
+Foi registrado um resgate não realizado pela transportadora, notificado pela equipe de acompanhamento, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+-------------------------------------------------------------------
+*DATA:* *09/06/2026*
+*Tipo:* *RECUSA DE RESGATE*
+*Classificação do erro:* *LEVE*
+*Pontuação prevista em contrato:* *0,5* ponto(s)
+*Desconto gerado:* *0,00*
 
 Entrega: 
 Foi registrado um resgate não realizado pela transportadora, notificado pela equipe de acompanhamento, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
@@ -9538,7 +9864,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2243,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá MATHEUS CARVALHO ELH4, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 5 ponto(s)*
+*Pontuação atual: 8 ponto(s)*
 *Desconto total: R$ 25*
 
 Ocorrências registradas:
@@ -9568,6 +9894,15 @@ Esta ocorrência corresponde à 2ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 50 REAIS*.
 -------------------------------------------------------------------
 *DATA:* *08/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
 *Tipo:* *FALTA*
 *Classificação do erro:* *GRAVE*
 *Pontuação prevista em contrato:* *3* ponto(s)
@@ -9646,7 +9981,7 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 2246,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá WESLEY ALVES DTR5, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
 
 *Classificação atual: A* - Bônus tabela no valor de R$ 20
-*Pontuação atual: 7 ponto(s)*
+*Pontuação atual: 10 ponto(s)*
 *Desconto total: R$ 300*
 
 Ocorrências registradas:
@@ -9680,6 +10015,15 @@ A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desaco
 
 Esta ocorrência corresponde à 1ª reincidência.
 Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 25 REAIS*.
+-------------------------------------------------------------------
+*DATA:* *10/06/2026*
+*Tipo:* *FALTA*
+*Classificação do erro:* *GRAVE*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não compareceu na data agendada para o carregamento, sendo a ocorrência classificada como FALTA.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
 2248,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (W) EDSON SILVA ENQ5#, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
@@ -9771,5 +10115,26 @@ Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATU
 Ocorrências registradas:
 
 Sem ocorrências nesta quinzena.
+
+Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
+2256,2026.06.1Q,DESCRITIVO ERROS - QUINZENA 1/JUNHO,"Olá (Q) RODRIGO SOUZA SHT8, segue as ocorrências atuais da transportadora referente a *PRIMEIRA QUINZENA DE JUNHO DE 2026*
+
+*Classificação atual: A* - Bônus tabela no valor de R$ 20
+*Pontuação atual: 3 ponto(s)*
+*Desconto total: R$ 0*
+
+Ocorrências registradas:
+
+*DATA:* *08/06/2026*
+*Tipo:* *INDISPONIBILIDADE FORA DO PRAZO*
+*Classificação do erro:* *MÉDIO*
+*Pontuação prevista em contrato:* *3* ponto(s)
+*Desconto gerado:* *0,00*
+
+Entrega: 
+A transportadora não reportou a INDISPONIBILIDADE no horário devido, em desacordo com o contrato vigente e os procedimentos operacionais estabelecidos.
+
+Esta ocorrência corresponde à 1ª reincidência.
+Em caso de nova recorrência, será aplicada a seguinte medida contratual: *MULTA DE 150 REAIS*.
 
 Por favor, revise as informações e nos procure caso tenha alguma dúvida.",ATUAL
