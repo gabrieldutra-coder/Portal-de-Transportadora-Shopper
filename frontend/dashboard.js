@@ -25,7 +25,7 @@ const MENSAGEM_SEM_CESTAS =
   "A sua transportadora não tem uma mensagem de Cestas disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
 
 const MENSAGEM_SEM_ERROS =
-  "A sua transportadora não tem uma mensagem de Erros disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
+  "A sua transportadora não tem uma mensagem de Pontuações disponível para visualizar no momento.\n\nEm caso de dúvidas, entre em contato com: https://wa.me/5511971920349";
 
 // ================== ELEMENTOS ==================
 const tituloEl = document.getElementById("titulo");
@@ -243,7 +243,7 @@ function tituloSemConteudo(sector) {
     case "cestas":
       return "SEM MENSAGEM DE CESTAS";
     case "erros":
-      return "SEM MENSAGEM DE ERROS";
+      return "SEM MENSAGEM DE PONTUAÇÕES";
     default:
       return "SEM MENSAGEM DE DEMONSTRATIVO";
   }
@@ -392,7 +392,7 @@ async function carregarItem(valorSelect) {
     let tituloPadrao = "Seu Demonstrativo";
     if (setorAtual === "qualidade") tituloPadrao = "Qualidade";
     if (setorAtual === "cestas") tituloPadrao = "Cestas";
-    if (setorAtual === "erros") tituloPadrao = "Erros";
+    if (setorAtual === "erros") tituloPadrao = "Pontuações";
 
     tituloEl.innerText = payload.titulo || tituloPadrao;
     msgEl.innerHTML = linkificarTexto(payload.mensagem || "");
