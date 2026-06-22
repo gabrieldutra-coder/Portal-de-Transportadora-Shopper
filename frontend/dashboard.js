@@ -73,7 +73,7 @@ function tiposDoSetor(setor) {
 }
 
 function atualizarTabs() {
-  if (!setorAtual || setorAtual === "qualidade") {
+  if (!setorAtual || setorAtual === "qualidade" || setorAtual === "demo") {
     tipoTabsEl.style.display = "none";
     tipoAtual = null;
     return;
